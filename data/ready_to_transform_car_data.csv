@@ -6,20 +6,20 @@ INFINITI,88900,Hybrid,Automatic,Black,Black,None reported,Yes,15500,10,354.0,3.5
 Audi,9835,Gasoline,Automatic,White,Black,None reported,Unknown,34999,4,,2.0,
 Acura,136397,Gasoline,Unknown,Silver,Other,None reported,Unknown,14798,9,,,
 Audi,84000,Gasoline,Automatic,Blue,Black,None reported,Yes,31000,8,292.0,2.0,4.0
-BMW,242000,Gasoline,Automatic,Green,Green,None reported,Yes,7300,24,282.0,4.4,8.0
+BMW,242000,Gasoline,Automatic,Green,Other,None reported,Yes,7300,24,282.0,4.4,8.0
 Lexus,23436,Gasoline,Automatic,Black,Black,None reported,Yes,41927,4,311.0,3.5,6.0
 Tesla,34000,Unknown,Automatic,Black,Black,None reported,Yes,69950,5,534.0,,
 Land,27608,Gasoline,Automatic,White,Other,None reported,Unknown,73897,4,,,
-Aston,22770,Gasoline,Automatic,Silver,Black,None reported,Yes,184606,6,715.0,5.2,12.0
+Other,22770,Gasoline,Automatic,Silver,Black,None reported,Yes,184606,6,715.0,5.2,12.0
 Toyota,12500,Gasoline,Automatic,Yellow,Black,None reported,Yes,53500,4,382.0,3.0,6.0
 Lincoln,18196,Gasoline,Unknown,Black,Brown,None reported,Yes,62000,3,400.0,3.0,6.0
 Jaguar,15903,Gasoline,Automatic,Silver,Black,None reported,Unknown,47998,5,,,
 Land,79800,Gasoline,Automatic,White,Black,None reported,Yes,29990,12,375.0,5.0,8.0
 Mercedes-Benz,1685,Gasoline,Automatic,Grey,White,None reported,Yes,250000,4,,2.0,
 Dodge,61074,Gasoline,Automatic,Black,Grey,None reported,Yes,16800,12,305.0,3.6,6.0
-Nissan,74000,Gasoline,Manual,Purple,Other,None reported,Yes,11000,22,287.0,3.5,6.0
+Nissan,74000,Gasoline,Manual,Other,Other,None reported,Yes,11000,22,287.0,3.5,6.0
 Jaguar,35250,Gasoline,Automatic,Green,Black,None reported,Yes,68750,7,550.0,5.0,8.0
-Genesis,5400,Gasoline,Automatic,Green,Other,Unknown,Unknown,60000,2,375.0,3.5,6.0
+Other,5400,Gasoline,Automatic,Green,Other,Unknown,Unknown,60000,2,375.0,3.5,6.0
 Chevrolet,133510,E85 Flex Fuel,Automatic,Blue,Black,None reported,Yes,4500,25,120.0,2.2,4.0
 BMW,25990,Gasoline,Automatic,White,Other,None reported,Unknown,38598,5,,,
 Ford,2823,Gasoline,Automatic,Silver,Black,None reported,Yes,58504,2,,3.5,
@@ -43,7 +43,7 @@ Bentley,20200,E85 Flex Fuel,Automatic,Black,Black,None reported,Yes,79950,14,552
 Honda,2978,Gasoline,Automatic,Silver,Grey,None reported,Unknown,45498,2,,,
 Dodge,189719,Diesel,Automatic,White,Grey,Accident reported,Yes,14000,18,,3.0,6.0
 BMW,9949,Gasoline,Automatic,Blue,Black,None reported,Unknown,75798,6,,,
-Lucid,3552,Unknown,Automatic,Red,Other,None reported,Yes,119999,3,536.0,,
+Other,3552,Unknown,Automatic,Red,Other,None reported,Yes,119999,3,536.0,,
 Audi,54000,Gasoline,Automatic,Black,Brown,Accident reported,Yes,36880,13,310.0,3.0,6.0
 Chevrolet,51351,Gasoline,Automatic,Black,Black,None reported,Yes,43147,4,,5.3,
 MINI,24280,Gasoline,Automatic,Black,Black,Accident reported,Yes,29000,8,228.0,2.0,4.0
@@ -51,10 +51,10 @@ Toyota,89148,Gasoline,Automatic,Black,Black,None reported,Yes,17500,9,268.0,3.5,
 Porsche,73043,Gasoline,Automatic,White,Black,None reported,Yes,30990,8,300.0,3.6,6.0
 Mercedes-Benz,60000,Gasoline,Unknown,Grey,Black,Accident reported,Yes,52500,8,503.0,4.0,8.0
 Honda,73549,Gasoline,Automatic,Other,Black,Accident reported,Unknown,20848,9,,2.4,
-Hummer,110900,Gasoline,Automatic,Grey,Black,None reported,Yes,19500,20,325.0,6.0,8.0
+Other,110900,Gasoline,Automatic,Grey,Black,None reported,Yes,19500,20,325.0,6.0,8.0
 Porsche,39000,Gasoline,Automatic,Blue,Black,None reported,Yes,73000,12,400.0,3.8,6.0
 Mercedes-Benz,120000,Gasoline,Unknown,Black,Black,None reported,Yes,19800,9,208.0,2.0,4.0
-Chrysler,134602,Gasoline,Unknown,Blue,Black,None reported,Yes,7500,16,250.0,3.5,6.0
+Other,134602,Gasoline,Unknown,Blue,Black,None reported,Yes,7500,16,250.0,3.5,6.0
 Nissan,1094,Gasoline,Automatic,Blue,Grey,None reported,Unknown,30999,2,,1.5,
 Audi,83500,Gasoline,Unknown,Silver,Black,None reported,Yes,6500,15,200.0,2.0,4.0
 Ford,37060,Gasoline,Manual,Black,Black,None reported,Yes,28500,11,420.0,5.0,8.0
@@ -67,21 +67,21 @@ Lexus,104000,Gasoline,Automatic,Black,Black,None reported,Yes,21000,11,306.0,3.5
 BMW,8500,Hybrid,Unknown,Grey,Other,None reported,Yes,67900,2,382.0,3.0,6.0
 BMW,19069,Gasoline,Automatic,White,Other,None reported,Unknown,69998,6,,,
 Cadillac,6090,Gasoline,Automatic,White,Other,None reported,Yes,46900,2,237.0,2.0,4.0
-Lucid,4900,Unknown,Automatic,Red,Black,None reported,Yes,99000,3,536.0,,
+Other,4900,Unknown,Automatic,Red,Black,None reported,Yes,99000,3,536.0,,
 Audi,47523,Gasoline,Unknown,Black,Black,None reported,Yes,31000,6,248.0,2.0,4.0
-Chrysler,43000,Gasoline,Automatic,Silver,Black,Accident reported,Yes,19995,19,425.0,6.1,8.0
+Other,43000,Gasoline,Automatic,Silver,Black,Accident reported,Yes,19995,19,425.0,6.1,8.0
 Bentley,14684,Gasoline,Automatic,White,White,None reported,Yes,130000,8,582.0,6.0,12.0
 BMW,57800,Gasoline,Unknown,Black,Red,None reported,Yes,55999,6,425.0,3.0,6.0
 Toyota,952,Gasoline,Manual,Silver,Grey,None reported,Yes,49950,2,300.0,1.6,3.0
 Audi,21240,Gasoline,Automatic,Black,Black,Accident reported,Yes,59950,6,444.0,2.9,6.0
 Porsche,59338,Gasoline,Unknown,Black,Black,None reported,Yes,42499,6,335.0,3.0,6.0
-Lamborghini,255,Gasoline,Automatic,Other,Other,None reported,Unknown,359991,2,,5.2,
+Other,255,Gasoline,Automatic,Other,Other,None reported,Unknown,359991,2,,5.2,
 Maserati,23230,Gasoline,Automatic,Black,Black,None reported,Yes,44999,6,424.0,3.0,6.0
 Jaguar,48000,Gasoline,Automatic,Red,Black,Accident reported,Yes,30000,8,340.0,3.0,6.0
 Lexus,41059,Gasoline,Automatic,White,Other,None reported,Yes,11100,20,225.0,3.3,6.0
 Land,21240,Gasoline,Automatic,White,Black,None reported,Unknown,37998,5,,,
 Porsche,11500,Gasoline,Automatic,Silver,Other,None reported,Yes,72000,10,340.0,3.4,6.0
-Genesis,9950,Gasoline,Automatic,Silver,Blue,None reported,Yes,53950,4,365.0,3.3,6.0
+Other,9950,Gasoline,Automatic,Silver,Blue,None reported,Yes,53950,4,365.0,3.3,6.0
 Volkswagen,633,Gasoline,Manual,White,Black,None reported,Yes,47999,2,315.0,2.0,4.0
 Hyundai,66000,Hybrid,Automatic,White,Grey,Accident reported,Yes,15900,10,199.0,2.4,4.0
 Audi,59715,Gasoline,Automatic,Grey,Black,Accident reported,Yes,45000,11,560.0,4.0,8.0
@@ -91,8 +91,8 @@ BMW,25500,Gasoline,Automatic,White,Black,None reported,Yes,55000,9,560.0,4.4,8.0
 Subaru,210703,Gasoline,Manual,Green,Other,Unknown,Unknown,2300,21,165.0,2.5,4.0
 Hyundai,3800,Gasoline,Manual,White,Black,None reported,Yes,34000,2,276.0,2.0,4.0
 Kia,36602,Hybrid,Automatic,Blue,Other,None reported,Yes,31995,3,,1.6,
-Rivian,2800,Unknown,Automatic,White,Green,None reported,Yes,92000,2,835.0,,
-Aston,2165,Gasoline,Automatic,Black,Black,None reported,Yes,279950,4,,5.2,
+Other,2800,Unknown,Automatic,White,Other,None reported,Yes,92000,2,835.0,,
+Other,2165,Gasoline,Automatic,Black,Black,None reported,Yes,279950,4,,5.2,
 Mercedes-Benz,33000,Gasoline,Automatic,Red,Black,Accident reported,Yes,29900,7,241.0,2.0,4.0
 BMW,76009,Gasoline,Automatic,White,Other,None reported,Yes,24950,9,300.0,3.0,6.0
 Jeep,31349,Gasoline,Automatic,Other,Black,None reported,Unknown,39366,5,,5.7,
@@ -121,15 +121,15 @@ Audi,92203,Gasoline,Unknown,Red,Other,None reported,Yes,9995,14,211.0,2.0,4.0
 Nissan,15600,Gasoline,Unknown,White,Black,None reported,Yes,69500,15,485.0,3.8,6.0
 Land,104700,Gasoline,Automatic,White,Other,Accident reported,Unknown,30775,7,,,
 Toyota,72348,Gasoline,Automatic,Red,Grey,Accident reported,Yes,9995,15,132.0,1.8,4.0
-Rivian,2500,Unknown,Automatic,Green,White,None reported,Yes,94000,2,835.0,,
+Other,2500,Unknown,Automatic,Green,White,None reported,Yes,94000,2,835.0,,
 Mercedes-Benz,13177,Gasoline,Automatic,White,Black,None reported,Unknown,44798,3,,,
 Porsche,96000,Hybrid,Unknown,White,Red,Accident reported,Yes,23000,9,416.0,3.0,6.0
 Chevrolet,93009,E85 Flex Fuel,Automatic,White,Other,None reported,Yes,22495,14,,5.3,
 INFINITI,52750,Hybrid,Automatic,White,Black,Accident reported,Yes,28998,9,360.0,3.5,6.0
 Audi,25361,Hybrid,Automatic,Grey,Black,None reported,Unknown,49998,5,,,
 Audi,98527,Gasoline,Automatic,Black,Black,Unknown,Unknown,9995,10,280.0,3.0,6.0
-Lucid,1300,Unknown,Automatic,Black,Grey,Unknown,Unknown,86900,2,620.0,,
-Chrysler,87305,Unknown,Automatic,Silver,Black,None reported,Yes,9000,8,,,
+Other,1300,Unknown,Automatic,Black,Grey,Unknown,Unknown,86900,2,620.0,,
+Other,87305,Unknown,Automatic,Silver,Black,None reported,Yes,9000,8,,,
 Audi,72922,Gasoline,Automatic,White,Black,Unknown,Unknown,25999,13,265.0,2.0,4.0
 BMW,41000,Gasoline,Automatic,Black,Black,None reported,Yes,30000,10,445.0,4.4,8.0
 Subaru,42125,Gasoline,Automatic,Black,Black,None reported,Yes,27899,4,,2.5,
@@ -150,8 +150,8 @@ Chevrolet,75000,Gasoline,Automatic,Black,Black,None reported,Yes,12500,20,240.0,
 Land,84000,Gasoline,Automatic,Other,Black,Accident reported,Yes,22800,10,240.0,2.0,4.0
 Audi,52500,Gasoline,Unknown,Grey,Grey,None reported,Yes,39999,8,450.0,4.0,8.0
 GMC,120000,Gasoline,Automatic,Silver,Grey,None reported,Yes,7500,14,288.0,3.6,6.0
-Alfa,18665,Gasoline,Automatic,White,Other,None reported,Yes,35645,5,,2.0,
-Ferrari,19987,Gasoline,Automatic,Black,Brown,None reported,Yes,149900,9,651.0,6.3,12.0
+Other,18665,Gasoline,Automatic,White,Other,None reported,Yes,35645,5,,2.0,
+Other,19987,Gasoline,Automatic,Black,Brown,None reported,Yes,149900,9,651.0,6.3,12.0
 Kia,36486,Gasoline,Automatic,Black,Other,Accident reported,Yes,23950,8,420.0,5.0,8.0
 Ford,162100,E85 Flex Fuel,Automatic,Black,Grey,None reported,Yes,12500,12,255.0,5.4,8.0
 Tesla,13079,Unknown,Automatic,Black,White,None reported,Yes,47000,3,455.0,,
@@ -174,9 +174,9 @@ Ford,34672,Gasoline,Automatic,White,White,None reported,Yes,45500,6,400.0,3.5,6.
 Chevrolet,55900,Gasoline,Unknown,Other,Other,None reported,Yes,8950,15,252.0,3.6,6.0
 Audi,3158,Gasoline,Automatic,Grey,Black,None reported,Unknown,128900,2,,4.0,
 Audi,82000,Gasoline,Automatic,White,Brown,None reported,Yes,17000,10,220.0,2.0,4.0
-Genesis,4785,Gasoline,Automatic,Black,Black,None reported,Yes,42850,2,,2.0,
+Other,4785,Gasoline,Automatic,Black,Black,None reported,Yes,42850,2,,2.0,
 Chevrolet,20497,Gasoline,Automatic,Blue,Black,None reported,Unknown,22999,4,,1.3,
-Scion,177600,Gasoline,Automatic,Silver,Black,Accident reported,Yes,7100,12,180.0,2.5,4.0
+Other,177600,Gasoline,Automatic,Silver,Black,Accident reported,Yes,7100,12,180.0,2.5,4.0
 Lincoln,78568,Hybrid,Automatic,Blue,Other,None reported,Yes,15500,11,188.0,2.0,4.0
 Ford,95000,E85 Flex Fuel,Automatic,White,Grey,None reported,Yes,43000,7,275.0,3.7,6.0
 Porsche,4529,Gasoline,Automatic,Black,Black,None reported,Yes,417500,7,,3.8,
@@ -187,10 +187,10 @@ Audi,20675,Gasoline,Unknown,Grey,Grey,None reported,Yes,76000,7,400.0,2.5,5.0
 Lincoln,95000,Gasoline,Automatic,Black,Black,None reported,Yes,10900,17,300.0,5.4,8.0
 Hyundai,107000,Gasoline,Automatic,Blue,Blue,Accident reported,Yes,6250,15,138.0,2.0,4.0
 Audi,60000,Gasoline,Unknown,Black,Black,Accident reported,Yes,24700,9,354.0,3.0,6.0
-Mitsubishi,33000,Gasoline,Manual,Black,Black,None reported,Yes,34999,13,291.0,2.0,4.0
+Other,33000,Gasoline,Manual,Black,Black,None reported,Yes,34999,13,291.0,2.0,4.0
 Tesla,500,Unknown,Automatic,Black,White,None reported,Yes,60000,2,455.0,,
 Mercedes-Benz,108500,Gasoline,Automatic,White,Other,None reported,Yes,63500,9,523.0,6.0,12.0
-Nissan,37800,Gasoline,Unknown,Orange,Orange,None reported,Yes,149500,8,565.0,3.8,6.0
+Nissan,37800,Gasoline,Unknown,Orange,Other,None reported,Yes,149500,8,565.0,3.8,6.0
 Mercedes-Benz,74422,Gasoline,Automatic,Black,Grey,None reported,Unknown,44798,7,,,
 Chevrolet,55621,Gasoline,Automatic,Silver,Black,None reported,Unknown,34562,6,,3.6,
 Mazda,46707,Gasoline,Automatic,Silver,Black,Accident reported,Yes,32541,4,,2.5,
@@ -203,10 +203,10 @@ BMW,140000,Gasoline,Unknown,Black,Other,None reported,Yes,6730,21,225.0,3.0,6.0
 Ford,75600,Gasoline,Automatic,Blue,Black,Accident reported,Yes,14950,7,181.0,1.5,4.0
 Lincoln,117292,Gasoline,Automatic,Other,Other,None reported,Yes,12000,10,240.0,2.0,4.0
 Ford,1897,Gasoline,Manual,White,Other,None reported,Unknown,429998,20,,,
-Genesis,26000,Gasoline,Unknown,White,Other,None reported,Yes,33600,8,420.0,5.0,8.0
+Other,26000,Gasoline,Unknown,White,Other,None reported,Yes,33600,8,420.0,5.0,8.0
 Lexus,2071,Gasoline,Automatic,Other,Other,None reported,Unknown,99950,3,,5.0,
 Ford,15629,Gasoline,Manual,Black,Black,None reported,Unknown,61900,11,,5.8,
-Saturn,15020,Gasoline,Automatic,Silver,Red,None reported,Yes,18500,17,173.0,2.4,4.0
+Other,15020,Gasoline,Automatic,Silver,Red,None reported,Yes,18500,17,173.0,2.4,4.0
 Audi,11322,Gasoline,Automatic,Grey,Black,None reported,Unknown,119900,3,,4.0,
 Toyota,50361,Gasoline,Automatic,Silver,Black,None reported,Unknown,65998,9,,,
 Mercedes-Benz,115000,Gasoline,Unknown,Black,Black,Accident reported,Yes,36000,12,429.0,4.6,8.0
@@ -228,14 +228,13 @@ Tesla,8200,Unknown,Automatic,Black,Black,None reported,Yes,93999,2,670.0,,
 Mercedes-Benz,41000,Gasoline,Unknown,Grey,Black,None reported,Yes,108900,7,563.0,5.5,8.0
 Ford,98995,Gasoline,Automatic,Silver,Other,None reported,Unknown,34998,7,,,
 Volkswagen,123815,Gasoline,Automatic,Black,Grey,None reported,Yes,5000,13,283.0,3.6,6.0
-Bugatti,6330,Gasoline,Automatic,White,White,None reported,Yes,1950995,14,,8.0,
 Toyota,61341,Gasoline,Automatic,Black,Black,Accident reported,Unknown,34084,5,,3.5,
 Honda,96473,Gasoline,Automatic,Black,Black,None reported,Unknown,15599,9,,2.0,
 Jeep,66107,Gasoline,Automatic,Black,Black,None reported,Unknown,31331,8,,3.6,
 Land,114287,Gasoline,Automatic,Black,Black,None reported,Yes,9900,17,400.0,4.2,8.0
 Acura,75000,Gasoline,Automatic,Gold,Other,None reported,Yes,14500,10,150.0,2.0,4.0
 BMW,45800,Gasoline,Automatic,Gold,Black,Unknown,Unknown,36800,9,560.0,4.4,8.0
-Polestar,12172,Unknown,Automatic,Grey,Other,None reported,Unknown,35999,4,,,
+Other,12172,Unknown,Automatic,Grey,Other,None reported,Unknown,35999,4,,,
 BMW,70582,Gasoline,Automatic,Black,White,Accident reported,Yes,35000,9,300.0,3.0,6.0
 Porsche,33088,Gasoline,Automatic,Black,Black,None reported,Yes,49750,11,325.0,3.4,6.0
 Lincoln,1850,Hybrid,Automatic,Silver,Other,None reported,Yes,49000,4,266.0,2.5,4.0
@@ -250,14 +249,14 @@ Mercedes-Benz,19800,Gasoline,Automatic,Silver,Black,None reported,Yes,53800,6,36
 Toyota,175000,Gasoline,Automatic,Black,Other,Accident reported,Yes,37900,17,381.0,5.7,8.0
 Toyota,61500,Gasoline,Automatic,White,Black,None reported,Yes,63500,9,381.0,5.7,8.0
 RAM,49750,Gasoline,Automatic,Black,Grey,None reported,Yes,65000,9,280.0,3.6,6.0
-Lamborghini,38800,Gasoline,Unknown,Orange,Orange,None reported,Yes,100000,18,493.0,5.0,10.0
+Other,38800,Gasoline,Unknown,Orange,Other,None reported,Yes,100000,18,493.0,5.0,10.0
 Lincoln,83765,Gasoline,Automatic,Black,Black,None reported,Yes,8995,14,263.0,3.5,6.0
 Mercedes-Benz,7388,Unknown,Automatic,Grey,Other,None reported,Yes,105500,2,355.0,,
-Lamborghini,278,Gasoline,Automatic,Other,Other,None reported,Unknown,359991,2,,5.2,
-Alfa,1966,Gasoline,Automatic,Other,Black,None reported,Unknown,75900,3,,2.9,
+Other,278,Gasoline,Automatic,Other,Other,None reported,Unknown,359991,2,,5.2,
+Other,1966,Gasoline,Automatic,Other,Black,None reported,Unknown,75900,3,,2.9,
 Chevrolet,50648,Gasoline,Automatic,Blue,Black,None reported,Unknown,23995,4,,1.2,
 Toyota,231500,Unknown,Automatic,White,Grey,None reported,Yes,29500,32,,,
-Lamborghini,13692,Gasoline,Automatic,Black,Red,None reported,Yes,257000,4,641.0,4.0,8.0
+Other,13692,Gasoline,Automatic,Black,Red,None reported,Yes,257000,4,641.0,4.0,8.0
 INFINITI,60058,Gasoline,Automatic,White,Other,Accident reported,Yes,15000,12,328.0,3.7,6.0
 Maserati,54423,Gasoline,Automatic,Black,Black,None reported,Yes,33950,8,424.0,3.0,6.0
 Toyota,24001,Gasoline,Automatic,Other,Other,None reported,Unknown,47498,3,,3.5,
@@ -301,9 +300,9 @@ Tesla,21600,Unknown,Automatic,White,Black,None reported,Yes,31000,4,271.0,,
 Porsche,9500,Gasoline,Automatic,Red,Black,Accident reported,Yes,69000,6,350.0,2.5,4.0
 Chevrolet,143095,Gasoline,Automatic,Red,Black,None reported,Yes,16000,20,400.0,6.0,8.0
 Acura,80000,Gasoline,Manual,Other,Other,Accident reported,Yes,8500,23,200.0,2.0,4.0
-Ferrari,3000,Gasoline,Automatic,Blue,Brown,None reported,Yes,275000,4,611.0,3.9,8.0
+Other,3000,Gasoline,Automatic,Blue,Brown,None reported,Yes,275000,4,611.0,3.9,8.0
 Porsche,5856,Gasoline,Manual,Black,Black,None reported,Yes,45000,18,295.0,3.4,6.0
-Rolls-Royce,2958,Gasoline,Automatic,Yellow,Other,None reported,Yes,488880,12,,6.8,
+Other,2958,Gasoline,Automatic,Yellow,Other,None reported,Yes,488880,12,,6.8,
 Audi,28927,Gasoline,Automatic,Red,Black,None reported,Unknown,74900,3,,4.0,
 Mercedes-Benz,4102,Hybrid,Automatic,Black,Black,None reported,Yes,144664,3,603.0,4.0,8.0
 Honda,14442,Gasoline,Automatic,White,Other,None reported,Yes,38500,4,280.0,3.5,6.0
@@ -313,7 +312,7 @@ Lexus,54000,Gasoline,Automatic,White,Black,None reported,Yes,27000,10,235.0,2.0,
 Dodge,232492,Gasoline,Automatic,Silver,Grey,Accident reported,Yes,6000,18,210.0,3.7,6.0
 Maserati,25721,Gasoline,Automatic,Other,Other,None reported,Yes,52645,5,,3.0,
 Land,20927,Gasoline,Automatic,White,Other,None reported,Unknown,35998,5,,,
-Aston,2353,Gasoline,Automatic,Green,Other,None reported,Yes,159500,4,,4.0,
+Other,2353,Gasoline,Automatic,Green,Other,None reported,Yes,159500,4,,4.0,
 Audi,9325,Gasoline,Automatic,Black,Black,None reported,Unknown,33610,3,,2.0,
 Ford,61001,Gasoline,Automatic,Grey,Other,Accident reported,Yes,28616,5,,2.3,
 Mercedes-Benz,71962,Gasoline,Automatic,White,Black,None reported,Yes,46900,7,469.0,4.0,8.0
@@ -323,7 +322,7 @@ Kia,57000,Gasoline,Automatic,Black,Red,Accident reported,Yes,36500,5,365.0,3.3,6
 Chevrolet,7624,Unknown,Automatic,Black,Black,None reported,Yes,31985,3,,,
 Subaru,122000,Gasoline,Manual,Gold,Black,Accident reported,Yes,9999,21,210.0,2.5,4.0
 Kia,459,Gasoline,Automatic,Green,Black,None reported,Unknown,36998,2,,2.5,
-BMW,62500,Gasoline,Automatic,Black,Orange,Accident reported,Yes,40500,9,425.0,3.0,6.0
+BMW,62500,Gasoline,Automatic,Black,Other,Accident reported,Yes,40500,9,425.0,3.0,6.0
 Hyundai,72000,Gasoline,Automatic,Silver,Black,None reported,Yes,17500,12,429.0,5.0,8.0
 Mercedes-Benz,8375,Gasoline,Automatic,Black,Black,None reported,Unknown,69900,5,,3.0,
 BMW,40000,Gasoline,Unknown,Blue,Black,None reported,Yes,53000,5,523.0,4.4,8.0
@@ -342,7 +341,7 @@ Chevrolet,4000,Gasoline,Automatic,Black,Red,Accident reported,Yes,73900,2,490.0,
 Audi,4648,Hybrid,Automatic,Black,Black,None reported,Unknown,47598,2,,,
 Lexus,52100,Gasoline,Automatic,White,Other,None reported,Yes,38000,7,301.0,4.6,8.0
 BMW,50100,Gasoline,Automatic,Brown,Other,None reported,Yes,10795,11,240.0,2.0,4.0
-Alfa,41000,Gasoline,Automatic,White,Black,None reported,Yes,32400,5,280.0,2.0,4.0
+Other,41000,Gasoline,Automatic,White,Black,None reported,Yes,32400,5,280.0,2.0,4.0
 RAM,70968,Gasoline,Automatic,Black,Black,None reported,Yes,34000,4,395.0,5.7,8.0
 BMW,26600,Gasoline,Automatic,White,Other,None reported,Yes,53000,10,425.0,3.0,6.0
 Tesla,15443,Unknown,Automatic,Red,Black,None reported,Yes,84500,3,670.0,,
@@ -351,7 +350,7 @@ Subaru,94000,Gasoline,Manual,Black,Blue,None reported,Yes,19500,20,300.0,2.5,4.0
 BMW,45076,Gasoline,Automatic,Blue,Black,None reported,Unknown,57998,5,,,
 Cadillac,110000,Gasoline,Automatic,Gold,Other,None reported,Yes,11000,11,272.0,2.0,4.0
 Land,49083,Gasoline,Automatic,Silver,Other,None reported,Unknown,21590,9,,2.0,
-Genesis,63500,Gasoline,Unknown,Silver,Black,None reported,Yes,27500,8,420.0,5.0,8.0
+Other,63500,Gasoline,Unknown,Silver,Black,None reported,Yes,27500,8,420.0,5.0,8.0
 Mercedes-Benz,21500,Gasoline,Automatic,Black,Black,Accident reported,Yes,18000,16,268.0,3.5,6.0
 Land,324,Gasoline,Automatic,Black,Other,None reported,Unknown,199998,2,,,
 Kia,68166,Gasoline,Automatic,Black,Black,None reported,Unknown,20818,6,,1.6,
@@ -363,7 +362,7 @@ Audi,16400,Gasoline,Automatic,Blue,Red,None reported,Yes,42800,7,292.0,2.0,4.0
 Toyota,7000,Hybrid,Automatic,Orange,Other,None reported,Yes,75500,3,437.0,3.4,6.0
 Audi,8497,Gasoline,Automatic,White,Black,None reported,Unknown,52900,3,,3.0,
 Audi,68000,Gasoline,Unknown,White,Black,Accident reported,Yes,20000,9,252.0,2.0,4.0
-Lamborghini,2523,Gasoline,Manual,Other,Other,None reported,Unknown,288900,3,,5.2,
+Other,2523,Gasoline,Manual,Other,Other,None reported,Unknown,288900,3,,5.2,
 BMW,83000,Gasoline,Automatic,Black,Brown,None reported,Yes,8995,18,230.0,3.0,6.0
 Audi,25000,Gasoline,Automatic,Grey,Black,None reported,Yes,50000,7,354.0,3.0,6.0
 Cadillac,15689,Diesel,Automatic,Red,Black,None reported,Unknown,97952,4,,3.0,
@@ -374,7 +373,7 @@ GMC,30900,Gasoline,Automatic,White,Black,None reported,Yes,27654,5,,2.5,
 BMW,2492,Gasoline,Automatic,Blue,Black,None reported,Unknown,41598,4,,,
 Audi,126760,Gasoline,Automatic,Black,Black,Accident reported,Yes,14000,10,211.0,2.0,4.0
 Subaru,100680,Gasoline,Automatic,Brown,Other,None reported,Yes,20500,8,256.0,3.6,6.0
-Mitsubishi,90400,Gasoline,Automatic,Red,Other,None reported,Yes,4495,24,140.0,2.4,4.0
+Other,90400,Gasoline,Automatic,Red,Other,None reported,Yes,4495,24,140.0,2.4,4.0
 Hyundai,26895,Gasoline,Automatic,White,Black,Unknown,Unknown,29800,3,,2.5,
 BMW,20500,Gasoline,Automatic,Silver,Black,None reported,Yes,67000,7,600.0,4.4,8.0
 Dodge,134000,Gasoline,Automatic,Black,Grey,Accident reported,Yes,10500,14,390.0,5.7,8.0
@@ -396,7 +395,7 @@ BMW,46508,Gasoline,Unknown,Green,Other,Accident reported,Yes,11500,19,215.0,3.0,
 BMW,18651,Gasoline,Unknown,Red,Black,None reported,Yes,59549,10,560.0,4.4,8.0
 BMW,36438,Gasoline,Automatic,White,Other,None reported,Unknown,39998,6,,,
 Kia,46628,Gasoline,Automatic,White,Other,None reported,Unknown,15363,11,,2.4,
-Rivian,5700,Unknown,Automatic,Grey,White,None reported,Yes,95000,2,835.0,,
+Other,5700,Unknown,Automatic,Grey,White,None reported,Yes,95000,2,835.0,,
 BMW,57550,Gasoline,Manual,Black,White,None reported,Yes,29995,10,240.0,2.0,4.0
 Cadillac,48600,Gasoline,Unknown,Black,Black,None reported,Yes,60999,8,640.0,6.2,8.0
 Ford,119000,Gasoline,Automatic,White,Black,None reported,Yes,18000,5,169.0,2.5,4.0
@@ -409,17 +408,17 @@ Dodge,14684,Gasoline,Automatic,Black,Black,None reported,Unknown,37995,4,,3.6,
 Mercedes-Benz,39000,Gasoline,Automatic,White,Black,Accident reported,Yes,39000,8,362.0,3.0,6.0
 GMC,65212,Gasoline,Automatic,White,Black,None reported,Yes,42995,6,,5.3,
 Audi,41856,Gasoline,Unknown,Grey,Black,None reported,Yes,91500,5,591.0,4.0,8.0
-Rivian,655,Unknown,Automatic,Red,Silver,None reported,Yes,94500,2,835.0,,
+Other,655,Unknown,Automatic,Red,Other,None reported,Yes,94500,2,835.0,,
 Toyota,54000,Hybrid,Automatic,Grey,Grey,None reported,Yes,33000,6,219.0,2.5,4.0
-Alfa,26500,Gasoline,Automatic,Grey,Black,None reported,Yes,53900,6,505.0,2.9,6.0
+Other,26500,Gasoline,Automatic,Grey,Black,None reported,Yes,53900,6,505.0,2.9,6.0
 Land,38356,Gasoline,Automatic,Red,Other,None reported,Unknown,36598,5,,,
-Alfa,21487,Gasoline,Automatic,Blue,Other,None reported,Yes,35345,5,,2.0,
+Other,21487,Gasoline,Automatic,Blue,Other,None reported,Yes,35345,5,,2.0,
 Cadillac,99000,Gasoline,Automatic,Black,Black,None reported,Yes,22999,18,403.0,6.2,8.0
 Ford,35597,E85 Flex Fuel,Automatic,Black,Black,None reported,Unknown,47756,6,,6.2,
 Nissan,130307,Gasoline,Automatic,Blue,Black,None reported,Yes,9950,20,287.0,3.5,6.0
 Subaru,178000,Gasoline,Automatic,Blue,Black,None reported,Yes,7600,15,170.0,2.5,4.0
 Honda,160265,Gasoline,Automatic,White,Grey,Accident reported,Yes,3000,22,115.0,1.7,4.0
-McLaren,8700,Gasoline,Unknown,Black,Black,None reported,Yes,185000,5,562.0,3.8,8.0
+Other,8700,Gasoline,Unknown,Black,Black,None reported,Yes,185000,5,562.0,3.8,8.0
 Maserati,1000,Gasoline,Unknown,Grey,Red,None reported,Yes,36000,9,404.0,3.0,6.0
 Jeep,29800,Gasoline,Automatic,Other,Other,None reported,Unknown,58900,3,,5.7,
 Maserati,49750,Gasoline,Unknown,White,Red,None reported,Yes,27995,8,404.0,3.0,6.0
@@ -445,15 +444,15 @@ BMW,103000,Gasoline,Automatic,Black,Black,None reported,Yes,16000,13,407.0,4.4,8
 BMW,456,Gasoline,Unknown,Black,Black,None reported,Yes,128995,1,543.0,3.0,6.0
 Lexus,64000,Gasoline,Automatic,Red,Brown,None reported,Yes,37300,7,301.0,4.6,8.0
 Audi,108000,Gasoline,Automatic,Grey,Brown,None reported,Yes,25999,8,333.0,3.0,6.0
-Alfa,37045,Gasoline,Unknown,White,Red,Accident reported,Yes,26600,7,280.0,2.0,4.0
+Other,37045,Gasoline,Unknown,White,Red,Accident reported,Yes,26600,7,280.0,2.0,4.0
 Land,5433,Hybrid,Automatic,Black,Black,None reported,Unknown,95998,2,,,
 BMW,28744,Gasoline,Automatic,Black,Black,None reported,Unknown,50998,6,,,
 BMW,65800,Gasoline,Unknown,White,Red,None reported,Yes,44950,10,425.0,3.0,6.0
-Rolls-Royce,850,Gasoline,Automatic,White,White,None reported,Yes,314900,4,563.0,6.7,12.0
+Other,850,Gasoline,Automatic,White,White,None reported,Yes,314900,4,563.0,6.7,12.0
 Audi,33012,Unknown,Automatic,Blue,Other,None reported,Yes,38000,6,355.0,,
 Lexus,107818,Gasoline,Automatic,Grey,Other,Accident reported,Yes,11400,14,204.0,2.5,6.0
 Land,79500,Gasoline,Automatic,White,Black,None reported,Yes,19000,9,240.0,2.0,4.0
-Ferrari,20000,Gasoline,Automatic,Red,Brown,Accident reported,Yes,124990,10,553.0,3.9,8.0
+Other,20000,Gasoline,Automatic,Red,Brown,Accident reported,Yes,124990,10,553.0,3.9,8.0
 Lexus,37000,Gasoline,Automatic,Black,Red,None reported,Yes,63997,7,471.0,5.0,8.0
 Kia,11945,Unknown,Automatic,Other,Black,None reported,Unknown,38998,3,,,
 GMC,131800,Gasoline,Automatic,Silver,Grey,Accident reported,Yes,5800,20,295.0,5.3,8.0
@@ -471,7 +470,7 @@ Volkswagen,220000,Gasoline,Automatic,Silver,Other,None reported,Yes,5500,24,140.
 Jaguar,58000,Gasoline,Automatic,Black,Black,None reported,Yes,51500,8,550.0,5.0,8.0
 Land,30424,Hybrid,Automatic,Silver,Black,None reported,Unknown,44998,5,,,
 RAM,38012,Gasoline,Automatic,Red,Black,None reported,Yes,45277,4,,5.7,
-Rivian,2500,Unknown,Automatic,Grey,Grey,None reported,Yes,91000,2,835.0,,
+Other,2500,Unknown,Automatic,Grey,Grey,None reported,Yes,91000,2,835.0,,
 BMW,11078,Gasoline,Automatic,Black,White,None reported,Unknown,91900,4,,6.6,
 Lexus,50000,Gasoline,Automatic,White,Black,None reported,Yes,65000,7,383.0,5.7,8.0
 Land,58000,Gasoline,Automatic,White,Black,None reported,Yes,38000,6,247.0,2.0,4.0
@@ -486,12 +485,12 @@ Cadillac,8044,Gasoline,Unknown,Black,Other,None reported,Yes,93000,4,420.0,6.2,8
 Mercedes-Benz,9738,Gasoline,Automatic,Red,Black,None reported,Yes,85500,9,503.0,4.0,8.0
 BMW,112000,Gasoline,Unknown,Grey,Black,Accident reported,Yes,28000,16,420.0,4.0,8.0
 Honda,167300,Gasoline,Automatic,Silver,Black,None reported,Yes,6250,16,190.0,2.4,4.0
-Rolls-Royce,115,Gasoline,Automatic,Other,White,None reported,Yes,449995,3,,6.7,
+Other,115,Gasoline,Automatic,Other,White,None reported,Yes,449995,3,,6.7,
 Cadillac,71000,Gasoline,Automatic,Black,Brown,Accident reported,Yes,35999,10,420.0,6.2,8.0
 Acura,31015,Gasoline,Automatic,Silver,Other,None reported,Yes,36570,5,,2.0,
 BMW,33000,Gasoline,Unknown,Orange,Black,None reported,Yes,29999,3,228.0,2.0,4.0
-Chrysler,63000,Unknown,Automatic,White,Other,None reported,Yes,20000,8,,,
-Buick,68325,E85 Flex Fuel,Unknown,Silver,Grey,None reported,Yes,11995,12,180.0,2.4,4.0
+Other,63000,Unknown,Automatic,White,Other,None reported,Yes,20000,8,,,
+Other,68325,E85 Flex Fuel,Unknown,Silver,Grey,None reported,Yes,11995,12,180.0,2.4,4.0
 Mercedes-Benz,20937,Gasoline,Automatic,Black,Black,None reported,Unknown,104900,5,,4.0,
 RAM,34365,Gasoline,Automatic,Grey,Grey,Accident reported,Yes,48000,4,410.0,6.4,8.0
 Mercedes-Benz,32000,Gasoline,Unknown,Black,Black,None reported,Yes,44900,7,208.0,2.0,4.0
@@ -511,7 +510,7 @@ BMW,25918,Gasoline,Unknown,Grey,Black,None reported,Yes,32000,4,228.0,2.0,4.0
 BMW,87000,Gasoline,Automatic,White,Other,None reported,Yes,15300,17,300.0,3.0,6.0
 Mazda,28333,Gasoline,Unknown,Blue,Black,None reported,Yes,20500,7,184.0,2.5,4.0
 Audi,29294,Gasoline,Automatic,White,Other,None reported,Yes,39999,7,340.0,3.0,6.0
-Saturn,37000,Gasoline,Automatic,Blue,Black,None reported,Yes,14995,17,260.0,2.0,4.0
+Other,37000,Gasoline,Automatic,Blue,Black,None reported,Yes,14995,17,260.0,2.0,4.0
 BMW,138000,Gasoline,Automatic,White,Other,None reported,Yes,9950,20,184.0,2.5,6.0
 Volvo,44487,Hybrid,Automatic,Blue,Brown,None reported,Yes,65000,5,400.0,2.0,4.0
 Acura,16878,Gasoline,Automatic,Red,Other,None reported,Yes,38781,4,,2.0,
@@ -525,7 +524,7 @@ Land,220000,Gasoline,Automatic,White,Other,None reported,Yes,5750,18,300.0,4.4,8
 BMW,16900,Gasoline,Automatic,Blue,White,None reported,Yes,43000,4,255.0,2.0,4.0
 Porsche,75137,Gasoline,Manual,Black,Grey,Accident reported,Yes,24999,18,245.0,2.7,6.0
 Ford,37594,Gasoline,Automatic,Black,Other,None reported,Yes,62595,4,,3.5,
-Rivian,250,Unknown,Automatic,Red,Black,Unknown,Unknown,94000,2,835.0,,
+Other,250,Unknown,Automatic,Red,Black,Unknown,Unknown,94000,2,835.0,,
 Mercedes-Benz,12771,Gasoline,Automatic,Black,Other,None reported,Unknown,42598,4,,,
 Ford,6400,Gasoline,Manual,Silver,Black,None reported,Yes,48000,13,550.0,5.4,8.0
 Tesla,69548,Unknown,Automatic,Black,Black,Accident reported,Yes,36300,4,425.0,,
@@ -534,13 +533,13 @@ Toyota,124838,Gasoline,Automatic,Black,Grey,None reported,Yes,33000,11,381.0,5.7
 Nissan,14353,Gasoline,Automatic,Black,Grey,None reported,Yes,63900,5,375.0,5.6,8.0
 Ford,22985,Gasoline,Automatic,White,Grey,None reported,Yes,33500,3,169.0,2.5,4.0
 INFINITI,161894,Gasoline,Automatic,White,Other,None reported,Yes,18900,11,400.0,5.6,8.0
-Aston,25025,Gasoline,Automatic,White,Black,Accident reported,Yes,39000,17,380.0,4.3,8.0
+Other,25025,Gasoline,Automatic,White,Black,Accident reported,Yes,39000,17,380.0,4.3,8.0
 Porsche,16701,Gasoline,Unknown,Red,Other,None reported,Unknown,107998,8,,,
-Lotus,19650,Gasoline,Manual,Silver,Red,None reported,Yes,69250,8,400.0,3.5,6.0
+Other,19650,Gasoline,Manual,Silver,Red,None reported,Yes,69250,8,400.0,3.5,6.0
 Land,29500,Gasoline,Automatic,Red,White,None reported,Yes,45000,5,247.0,2.0,4.0
 Nissan,132272,Gasoline,Manual,Grey,Grey,Accident reported,Yes,6700,18,261.0,4.0,6.0
 Dodge,122000,Gasoline,Automatic,White,Black,Accident reported,Yes,13500,13,370.0,5.7,8.0
-Buick,18185,Gasoline,Automatic,White,Other,None reported,Unknown,31755,3,,1.3,
+Other,18185,Gasoline,Automatic,White,Other,None reported,Unknown,31755,3,,1.3,
 Nissan,56450,Unknown,Automatic,Black,Black,Accident reported,Yes,13999,7,147.0,,
 Nissan,102000,Unknown,Automatic,Silver,Grey,None reported,Yes,4200,13,107.0,,
 Jeep,18428,Gasoline,Automatic,Grey,Black,None reported,Unknown,83998,3,,,
@@ -577,16 +576,16 @@ Jeep,7388,Gasoline,Automatic,Red,Black,None reported,Yes,43663,4,,3.6,
 BMW,41550,Hybrid,Unknown,Silver,Black,None reported,Yes,20995,8,247.0,2.0,4.0
 Mercedes-Benz,44486,Gasoline,Automatic,Grey,Black,None reported,Unknown,25625,7,,2.0,
 Acura,20750,Gasoline,Automatic,Black,Black,None reported,Yes,33000,12,300.0,3.7,6.0
-Genesis,12000,Gasoline,Automatic,Green,Other,None reported,Yes,41000,3,365.0,3.3,6.0
+Other,12000,Gasoline,Automatic,Green,Other,None reported,Yes,41000,3,365.0,3.3,6.0
 Lexus,14206,Gasoline,Automatic,Black,Black,None reported,Yes,98000,4,383.0,5.7,8.0
 Jeep,31700,Gasoline,Automatic,Grey,Black,None reported,Yes,43500,3,293.0,3.6,6.0
 Hyundai,13044,Hybrid,Automatic,Blue,Grey,Accident reported,Yes,24999,3,139.0,1.6,4.0
-Kia,100730,Gasoline,Automatic,Gold,Gold,None reported,Yes,6975,16,173.0,2.7,6.0
+Kia,100730,Gasoline,Automatic,Gold,Other,None reported,Yes,6975,16,173.0,2.7,6.0
 BMW,5338,Hybrid,Automatic,Blue,White,None reported,Yes,76500,2,389.0,3.0,6.0
 Ford,85149,Gasoline,Automatic,White,Other,None reported,Unknown,23598,11,,,
 BMW,48291,Gasoline,Unknown,Grey,Brown,None reported,Yes,67250,7,567.0,4.4,8.0
 Volkswagen,111887,Gasoline,Automatic,Blue,Grey,None reported,Yes,14000,24,140.0,2.8,6.0
-Rolls-Royce,79000,Gasoline,Automatic,Silver,Black,None reported,Yes,69000,15,563.0,6.6,12.0
+Other,79000,Gasoline,Automatic,Silver,Black,None reported,Yes,69000,15,563.0,6.6,12.0
 Lincoln,125000,Gasoline,Unknown,Grey,Other,None reported,Yes,26500,9,380.0,3.5,6.0
 Mercedes-Benz,13777,Gasoline,Automatic,Black,Black,Accident reported,Yes,39777,3,221.0,2.0,4.0
 RAM,14920,Gasoline,Automatic,Black,Black,None reported,Yes,41741,3,,3.6,
@@ -594,7 +593,7 @@ Jeep,14627,Gasoline,Automatic,Black,Other,None reported,Unknown,56740,3,,3.6,
 Volvo,90050,Gasoline,Automatic,Brown,Other,None reported,Yes,5800,15,235.0,3.2,6.0
 Subaru,45000,Gasoline,Manual,Blue,Black,Accident reported,Yes,25000,11,200.0,2.0,4.0
 Chevrolet,7666,Gasoline,Automatic,Red,Black,None reported,Yes,39500,27,340.0,5.7,8.0
-Hummer,89900,Gasoline,Automatic,Red,Other,None reported,Yes,29994,19,325.0,6.0,8.0
+Other,89900,Gasoline,Automatic,Red,Other,None reported,Yes,29994,19,325.0,6.0,8.0
 Audi,14724,Hybrid,Automatic,White,Black,None reported,Unknown,101998,4,,,
 Ford,132000,Gasoline,Unknown,Black,Black,Accident reported,Yes,10999,14,305.0,3.7,6.0
 GMC,32652,Gasoline,Automatic,Red,Brown,None reported,Yes,6500,15,182.0,2.4,4.0
@@ -608,8 +607,8 @@ Mercedes-Benz,138000,Gasoline,Automatic,Silver,Black,Accident reported,Yes,10000
 RAM,24058,Gasoline,Automatic,Red,Black,None reported,Unknown,81900,3,,6.2,
 Audi,31500,Gasoline,Automatic,Grey,Black,None reported,Yes,67000,9,560.0,4.0,8.0
 Porsche,19701,Gasoline,Automatic,Other,Other,None reported,Unknown,55998,5,,,
-Genesis,10200,Gasoline,Automatic,White,Black,None reported,Yes,50500,3,375.0,3.5,6.0
-Aston,62378,Gasoline,Manual,Red,Other,Accident reported,Yes,33995,17,380.0,4.3,8.0
+Other,10200,Gasoline,Automatic,White,Black,None reported,Yes,50500,3,375.0,3.5,6.0
+Other,62378,Gasoline,Manual,Red,Other,Accident reported,Yes,33995,17,380.0,4.3,8.0
 Nissan,84200,Gasoline,Manual,Silver,Grey,None reported,Yes,10200,19,300.0,3.5,6.0
 Toyota,138700,E85 Flex Fuel,Automatic,White,Grey,Accident reported,Yes,18800,12,381.0,5.7,8.0
 Chevrolet,41050,Gasoline,Automatic,Grey,Grey,None reported,Yes,62900,4,355.0,5.3,8.0
@@ -623,9 +622,8 @@ Chevrolet,89000,Gasoline,Automatic,Grey,Grey,None reported,Yes,29999,8,355.0,5.3
 Chevrolet,134500,Gasoline,Automatic,Black,Black,None reported,Yes,28000,10,355.0,5.3,8.0
 Acura,15895,Gasoline,Automatic,Black,Other,None reported,Unknown,47950,3,,3.5,
 Bentley,15109,Gasoline,Automatic,Other,Other,Unknown,Unknown,162950,5,,6.0,
-Rolls-Royce,398,Gasoline,Automatic,Silver,Blue,None reported,Yes,695000,3,,6.7,
-Genesis,20319,Gasoline,Unknown,White,Black,None reported,Yes,44249,3,300.0,2.5,4.0
-Pontiac,158000,Gasoline,Automatic,White,Black,Accident reported,Yes,2500,26,200.0,3.8,6.0
+Other,20319,Gasoline,Unknown,White,Black,None reported,Yes,44249,3,300.0,2.5,4.0
+Other,158000,Gasoline,Automatic,White,Black,Accident reported,Yes,2500,26,200.0,3.8,6.0
 Lexus,40906,Gasoline,Automatic,Black,Black,None reported,Unknown,51998,4,,,
 BMW,33749,Gasoline,Automatic,Blue,Red,None reported,Unknown,85998,5,,,
 BMW,1120,Gasoline,Automatic,Grey,White,None reported,Yes,92900,2,503.0,3.0,6.0
@@ -641,7 +639,7 @@ Audi,15000,Hybrid,Automatic,Grey,Black,None reported,Yes,63000,3,335.0,3.0,6.0
 INFINITI,37900,Gasoline,Automatic,Grey,Black,None reported,Yes,22000,8,208.0,2.0,4.0
 Mercedes-Benz,2000,Gasoline,Unknown,Black,Black,Unknown,Unknown,244896,3,577.0,4.0,8.0
 Mercedes-Benz,32500,Gasoline,Automatic,Black,Black,None reported,Yes,43500,6,385.0,3.0,6.0
-Mitsubishi,61491,Gasoline,Manual,Blue,Black,Accident reported,Yes,28000,22,271.0,2.0,4.0
+Other,61491,Gasoline,Manual,Blue,Black,Accident reported,Yes,28000,22,271.0,2.0,4.0
 Jeep,77634,Gasoline,Automatic,Other,Black,None reported,Unknown,24590,12,,3.6,
 Audi,83000,Diesel,Automatic,Black,Black,Accident reported,Yes,18999,10,150.0,2.0,4.0
 Volkswagen,121800,Gasoline,Manual,Black,Black,None reported,Yes,4300,23,174.0,2.8,6.0
@@ -663,11 +661,11 @@ Bentley,22039,Gasoline,Automatic,White,Black,None reported,Yes,113990,6,542.0,4.
 Nissan,137483,Gasoline,Automatic,White,Grey,None reported,Yes,3200,14,188.0,1.6,4.0
 Ford,67500,Gasoline,Automatic,Grey,Black,None reported,Yes,40500,6,375.0,3.5,6.0
 Ford,52000,Gasoline,Automatic,Grey,Brown,Accident reported,Yes,53722,5,375.0,3.5,6.0
-Lamborghini,10000,Gasoline,Automatic,Red,Black,None reported,Yes,259000,19,571.0,6.2,12.0
+Other,10000,Gasoline,Automatic,Red,Black,None reported,Yes,259000,19,571.0,6.2,12.0
 Chevrolet,195361,Gasoline,Unknown,Black,Black,Accident reported,Yes,26000,8,355.0,5.3,8.0
 Bentley,32500,Gasoline,Automatic,Black,Other,Accident reported,Yes,103000,7,600.0,6.0,12.0
 BMW,14806,Gasoline,Unknown,Black,Black,Accident reported,Yes,81330,6,601.0,6.6,12.0
-Genesis,11000,Gasoline,Automatic,White,Other,Accident reported,Yes,48950,3,300.0,2.5,4.0
+Other,11000,Gasoline,Automatic,White,Other,Accident reported,Yes,48950,3,300.0,2.5,4.0
 Chevrolet,92530,E85 Flex Fuel,Automatic,Red,Black,Accident reported,Yes,18500,14,320.0,5.3,8.0
 Dodge,34845,Gasoline,Automatic,White,Black,Accident reported,Yes,30000,8,295.0,3.6,6.0
 Porsche,16280,Gasoline,Unknown,Red,Black,None reported,Yes,85500,7,365.0,2.5,4.0
@@ -681,7 +679,7 @@ Lexus,114000,Gasoline,Automatic,Silver,Grey,Accident reported,Yes,13450,20,270.0
 Mercedes-Benz,80124,Gasoline,Automatic,Black,Black,None reported,Yes,17500,14,382.0,5.5,8.0
 BMW,7000,Gasoline,Unknown,Grey,Grey,None reported,Yes,144900,2,600.0,4.4,8.0
 RAM,4285,Gasoline,Automatic,Red,Black,None reported,Yes,65688,2,,5.7,
-Lamborghini,17175,Gasoline,Automatic,Other,Other,None reported,Unknown,234900,6,,5.2,
+Other,17175,Gasoline,Automatic,Other,Other,None reported,Unknown,234900,6,,5.2,
 Toyota,34049,Hybrid,Automatic,Blue,Other,None reported,Unknown,37999,8,,3.5,
 Audi,16000,Unknown,Automatic,White,Other,Accident reported,Yes,39990,6,355.0,,
 GMC,95000,Gasoline,Automatic,White,Grey,None reported,Yes,25000,29,290.0,7.4,8.0
@@ -689,12 +687,11 @@ Land,59355,Gasoline,Automatic,Black,Other,None reported,Yes,72995,5,,,
 Chevrolet,31000,Unknown,Automatic,Red,White,None reported,Yes,36000,3,200.0,,
 BMW,19300,Gasoline,Automatic,White,Red,None reported,Yes,36000,6,335.0,3.0,6.0
 Cadillac,155000,E85 Flex Fuel,Automatic,Red,Other,Accident reported,Yes,16900,16,403.0,6.2,8.0
-Scion,120010,Gasoline,Automatic,Grey,Black,Accident reported,Yes,6500,15,161.0,2.4,4.0
+Other,120010,Gasoline,Automatic,Grey,Black,Accident reported,Yes,6500,15,161.0,2.4,4.0
 Kia,152520,Gasoline,Automatic,White,Other,None reported,Yes,10900,13,200.0,2.4,4.0
 Honda,58981,Unknown,Automatic,White,Other,None reported,Yes,9599,32,,,
-Maserati,32000,Gasoline,Unknown,Red,Other,Accident reported,Yes,2954083,20,394.0,4.2,8.0
 Porsche,47000,Gasoline,Unknown,Black,Brown,None reported,Yes,50000,10,520.0,4.8,8.0
-Genesis,2046,Gasoline,Automatic,Green,Grey,None reported,Yes,43499,2,252.0,2.0,4.0
+Other,2046,Gasoline,Automatic,Green,Grey,None reported,Yes,43499,2,252.0,2.0,4.0
 Chevrolet,24965,Gasoline,Automatic,Black,Black,Accident reported,Yes,22995,4,,1.2,
 Toyota,108000,Gasoline,Automatic,Other,Grey,None reported,Yes,7850,20,160.0,2.4,4.0
 Toyota,76000,Gasoline,Automatic,Red,Grey,None reported,Yes,18300,10,266.0,3.5,6.0
@@ -703,9 +700,9 @@ Volvo,59271,Gasoline,Automatic,Blue,Black,None reported,Yes,29900,10,325.0,3.0,6
 Lexus,1500,Gasoline,Automatic,Grey,Black,Unknown,Unknown,119500,2,409.0,3.4,6.0
 BMW,52500,Hybrid,Unknown,Blue,Black,Accident reported,Yes,24950,8,247.0,2.0,4.0
 Tesla,23100,Unknown,Automatic,Blue,White,None reported,Yes,36495,5,425.0,,
-FIAT,45000,Gasoline,Manual,Grey,Black,Accident reported,Yes,22500,8,164.0,1.4,4.0
+Other,45000,Gasoline,Manual,Grey,Black,Accident reported,Yes,22500,8,164.0,1.4,4.0
 Dodge,179000,Gasoline,Automatic,Black,Black,Accident reported,Yes,6500,23,245.0,5.9,8.0
-Toyota,1500,Gasoline,Manual,Grey,Orange,None reported,Yes,84900,2,382.0,3.0,6.0
+Toyota,1500,Gasoline,Manual,Grey,Other,None reported,Yes,84900,2,382.0,3.0,6.0
 BMW,38671,Hybrid,Automatic,Grey,Other,None reported,Unknown,66998,3,,,
 Jeep,135465,Gasoline,Automatic,Black,Grey,None reported,Yes,15750,18,205.0,3.8,6.0
 MINI,79000,Gasoline,Unknown,White,Black,None reported,Yes,17000,11,181.0,1.6,4.0
@@ -718,7 +715,7 @@ BMW,72900,Gasoline,Automatic,Grey,Grey,None reported,Yes,15500,16,300.0,3.0,6.0
 BMW,7121,Gasoline,Automatic,Grey,Black,None reported,Unknown,94998,4,,,
 Hyundai,3402,Hybrid,Automatic,White,Black,None reported,Yes,44000,2,226.0,1.6,4.0
 Volvo,73000,Gasoline,Automatic,Silver,Black,None reported,Yes,13900,12,227.0,2.5,5.0
-Karma,21000,Unknown,Automatic,White,Black,None reported,Yes,51000,7,403.0,2.0,
+Other,21000,Unknown,Automatic,White,Black,None reported,Yes,51000,7,403.0,2.0,
 BMW,30309,Hybrid,Automatic,Blue,Other,None reported,Unknown,63598,4,,,
 Ford,24000,Unknown,Automatic,White,Black,None reported,Yes,38000,4,290.0,,
 BMW,73000,Gasoline,Unknown,Black,Black,None reported,Yes,23999,9,320.0,3.0,6.0
@@ -729,7 +726,7 @@ BMW,4514,Gasoline,Automatic,Grey,Black,None reported,Unknown,132998,3,,,
 RAM,1300,Gasoline,Automatic,Red,Black,None reported,Yes,48000,3,410.0,6.4,8.0
 Jeep,49924,Gasoline,Automatic,White,Black,None reported,Yes,26500,7,293.0,3.6,6.0
 GMC,36526,Gasoline,Automatic,Red,Black,None reported,Yes,57850,6,420.0,6.2,8.0
-BMW,37000,Gasoline,Unknown,Silver,Silver,None reported,Yes,45950,10,560.0,4.4,8.0
+BMW,37000,Gasoline,Unknown,Silver,Other,None reported,Yes,45950,10,560.0,4.4,8.0
 Acura,79884,Gasoline,Automatic,Grey,Grey,Accident reported,Unknown,24840,8,,3.5,
 Volkswagen,30000,Gasoline,Unknown,Blue,Other,Accident reported,Yes,19000,9,170.0,1.8,4.0
 BMW,11102,Gasoline,Automatic,Black,Black,None reported,Yes,101000,4,600.0,4.4,8.0
@@ -737,9 +734,9 @@ Ford,105500,Gasoline,Manual,Silver,Black,None reported,Yes,19000,13,412.0,5.0,8.
 BMW,31157,Gasoline,Automatic,Black,Other,None reported,Unknown,65998,6,,,
 Kia,86204,Gasoline,Automatic,Silver,Black,Accident reported,Unknown,20708,6,,3.3,
 BMW,80211,Gasoline,Automatic,Grey,Red,Accident reported,Yes,17995,11,300.0,3.0,6.0
-Aston,25991,Gasoline,Automatic,Silver,Black,None reported,Yes,69995,15,420.0,4.7,8.0
+Other,25991,Gasoline,Automatic,Silver,Black,None reported,Yes,69995,15,420.0,4.7,8.0
 Mercedes-Benz,73000,Gasoline,Automatic,Black,Black,None reported,Yes,8400,17,268.0,3.5,6.0
-BMW,40989,Gasoline,Automatic,Black,Gold,None reported,Yes,35000,7,320.0,3.0,6.0
+BMW,40989,Gasoline,Automatic,Black,Other,None reported,Yes,35000,7,320.0,3.0,6.0
 Dodge,102681,Gasoline,Manual,Red,Black,None reported,Yes,6000,15,158.0,2.0,4.0
 Acura,123000,Gasoline,Unknown,Black,Black,Accident reported,Yes,13888,15,300.0,3.7,6.0
 Jeep,160900,Gasoline,Automatic,Black,Other,Accident reported,Yes,7200,20,190.0,4.0,6.0
@@ -752,17 +749,17 @@ Porsche,10627,Gasoline,Automatic,Other,Black,None reported,Unknown,99000,3,,2.9,
 Ford,67015,Gasoline,Automatic,White,Other,None reported,Unknown,28590,5,,2.3,
 BMW,19600,Gasoline,Automatic,Black,Black,Accident reported,Yes,62000,7,425.0,3.0,6.0
 Ford,5800,Unknown,Automatic,White,White,None reported,Yes,42500,3,346.0,,
-FIAT,33812,Unknown,Automatic,Silver,Black,None reported,Yes,14999,8,111.0,,
+Other,33812,Unknown,Automatic,Silver,Black,None reported,Yes,14999,8,111.0,,
 Cadillac,99897,Gasoline,Automatic,Black,Black,None reported,Yes,26950,10,420.0,6.2,8.0
 Mercedes-Benz,127500,Gasoline,Unknown,White,White,None reported,Yes,29000,11,429.0,4.7,8.0
 Ford,23842,Gasoline,Automatic,Grey,Other,None reported,Yes,59203,4,,3.5,
-Rivian,2108,Unknown,Automatic,Silver,White,None reported,Yes,91000,2,835.0,,
+Other,2108,Unknown,Automatic,Silver,White,None reported,Yes,91000,2,835.0,,
 BMW,65550,Gasoline,Unknown,Black,Black,None reported,Yes,39985,11,560.0,4.4,8.0
-Lamborghini,22000,Gasoline,Unknown,White,Black,None reported,Yes,210000,8,573.0,5.2,10.0
+Other,22000,Gasoline,Unknown,White,Black,None reported,Yes,210000,8,573.0,5.2,10.0
 Ford,15600,Gasoline,Unknown,Grey,Other,Accident reported,Yes,68995,3,315.0,2.7,6.0
 Lexus,22400,Gasoline,Automatic,White,Red,None reported,Yes,81900,4,471.0,5.0,8.0
 Lexus,89150,Gasoline,Automatic,White,Black,None reported,Yes,31900,10,360.0,4.6,8.0
-BMW,15000,Gasoline,Automatic,Blue,Orange,None reported,Unknown,81000,2,,3.0,
+BMW,15000,Gasoline,Automatic,Blue,Other,None reported,Unknown,81000,2,,3.0,
 Audi,49500,Gasoline,Automatic,Blue,Grey,None reported,Yes,25000,7,220.0,2.0,4.0
 Audi,126000,Gasoline,Unknown,Grey,Black,Unknown,Unknown,13850,22,360.0,4.2,8.0
 Volkswagen,85385,Gasoline,Manual,Grey,Black,None reported,Yes,15550,10,210.0,2.0,4.0
@@ -792,7 +789,7 @@ BMW,78500,Gasoline,Automatic,Red,Brown,Accident reported,Yes,42000,8,445.0,4.4,8
 Chevrolet,75000,Gasoline,Automatic,Silver,Black,None reported,Yes,36000,7,355.0,5.3,8.0
 Ford,89988,Gasoline,Automatic,Red,Red,Accident reported,Yes,42500,11,411.0,6.2,8.0
 Subaru,107000,Gasoline,Automatic,Gold,Other,None reported,Yes,7100,20,250.0,3.0,6.0
-Alfa,21400,Gasoline,Automatic,White,Black,None reported,Yes,28500,6,280.0,2.0,4.0
+Other,21400,Gasoline,Automatic,White,Black,None reported,Yes,28500,6,280.0,2.0,4.0
 Mazda,83150,Gasoline,Automatic,White,Other,None reported,Yes,6950,18,244.0,2.3,4.0
 Ford,92000,Diesel,Automatic,Black,Black,Accident reported,Yes,36500,7,250.0,3.0,6.0
 Mercedes-Benz,15042,Gasoline,Automatic,Grey,Other,None reported,Unknown,54599,4,,2.0,
@@ -811,36 +808,36 @@ Chevrolet,97579,Gasoline,Unknown,Black,Black,Accident reported,Yes,15000,11,323.
 Mazda,52000,Gasoline,Manual,Black,Black,Accident reported,Yes,20500,8,155.0,2.0,4.0
 Jeep,25968,Gasoline,Automatic,Other,Black,None reported,Unknown,38405,4,,3.6,
 MINI,41680,Gasoline,Automatic,Silver,Black,None reported,Yes,17495,9,189.0,2.0,4.0
-Saab,77200,Gasoline,Manual,Black,Other,None reported,Yes,7500,23,205.0,2.0,4.0
-BMW,50000,Gasoline,Automatic,Blue,Gold,None reported,Yes,43000,6,335.0,3.0,6.0
+Other,77200,Gasoline,Manual,Black,Other,None reported,Yes,7500,23,205.0,2.0,4.0
+BMW,50000,Gasoline,Automatic,Blue,Other,None reported,Yes,43000,6,335.0,3.0,6.0
 Porsche,21613,Gasoline,Automatic,White,Other,None reported,Unknown,58998,4,,,
 Audi,17377,Gasoline,Automatic,White,Other,None reported,Unknown,39998,3,,,
 GMC,30426,Gasoline,Automatic,Other,Black,Unknown,Unknown,29645,5,,2.5,
 Audi,153000,Gasoline,Manual,Blue,Blue,Accident reported,Yes,6500,20,250.0,2.7,6.0
-Mercury,56600,Gasoline,Unknown,Silver,Black,None reported,Yes,23000,21,302.0,4.6,8.0
+Other,56600,Gasoline,Unknown,Silver,Black,None reported,Yes,23000,21,302.0,4.6,8.0
 Hyundai,116612,Gasoline,Automatic,White,White,Accident reported,Yes,12700,10,311.0,3.8,6.0
 Audi,72000,Gasoline,Automatic,Blue,Black,Accident reported,Yes,30000,7,354.0,3.0,6.0
 Audi,39000,Hybrid,Automatic,Black,Brown,None reported,Yes,50000,6,335.0,3.0,6.0
 Lincoln,149000,Gasoline,Automatic,Gold,Other,None reported,Yes,10099,17,300.0,5.4,8.0
-BMW,19300,Gasoline,Manual,White,Silver,None reported,Yes,64000,7,425.0,3.0,6.0
+BMW,19300,Gasoline,Manual,White,Other,None reported,Yes,64000,7,425.0,3.0,6.0
 Mazda,27836,Gasoline,Automatic,Grey,Red,None reported,Yes,36969,4,,2.5,
 Chevrolet,3273,Gasoline,Unknown,Black,Red,None reported,Yes,78999,2,490.0,6.2,8.0
 Ford,74349,Gasoline,Automatic,White,Other,None reported,Yes,36000,8,375.0,3.5,6.0
 Ford,85000,Diesel,Automatic,White,Black,Accident reported,Yes,55000,6,450.0,6.7,8.0
-Ferrari,2250,Gasoline,Automatic,Grey,Blue,None reported,Yes,259500,3,611.0,3.9,8.0
+Other,2250,Gasoline,Automatic,Grey,Blue,None reported,Yes,259500,3,611.0,3.9,8.0
 Mercedes-Benz,46100,Gasoline,Automatic,Black,Other,Accident reported,Yes,33000,8,362.0,3.0,6.0
 Hyundai,49500,Gasoline,Automatic,Silver,Grey,None reported,Yes,28000,6,185.0,2.4,4.0
 Mercedes-Benz,31130,Gasoline,Automatic,Black,Black,None reported,Yes,23500,13,302.0,3.5,6.0
 Ford,149460,Diesel,Automatic,Blue,Grey,Accident reported,Yes,12240,17,350.0,6.4,8.0
-Mercury,90000,Gasoline,Automatic,Blue,Other,Accident reported,Yes,15500,22,302.0,4.6,8.0
+Other,90000,Gasoline,Automatic,Blue,Other,Accident reported,Yes,15500,22,302.0,4.6,8.0
 Ford,48000,E85 Flex Fuel,Automatic,White,Grey,None reported,Yes,57000,4,275.0,3.5,6.0
 Mercedes-Benz,98000,Gasoline,Automatic,White,Other,Accident reported,Yes,15500,12,248.0,3.5,6.0
 Volkswagen,18655,Gasoline,Automatic,White,Black,None reported,Unknown,38698,3,,,
 Chevrolet,60000,Gasoline,Automatic,Brown,Brown,Accident reported,Yes,24950,19,325.0,8.1,8.0
-Chevrolet,169500,E85 Flex Fuel,Automatic,Purple,Brown,None reported,Yes,15000,11,320.0,5.3,8.0
-Mitsubishi,189500,Gasoline,Manual,Red,Black,None reported,Yes,6000,17,162.0,2.4,4.0
+Chevrolet,169500,E85 Flex Fuel,Automatic,Other,Brown,None reported,Yes,15000,11,320.0,5.3,8.0
+Other,189500,Gasoline,Manual,Red,Black,None reported,Yes,6000,17,162.0,2.4,4.0
 Toyota,91000,Gasoline,Automatic,Black,Brown,None reported,Yes,68500,9,381.0,5.7,8.0
-Genesis,7396,Gasoline,Automatic,Black,Black,None reported,Unknown,41299,3,,2.5,
+Other,7396,Gasoline,Automatic,Black,Black,None reported,Unknown,41299,3,,2.5,
 Toyota,229450,Gasoline,Automatic,Grey,Grey,None reported,Yes,8250,21,240.0,4.7,8.0
 Maserati,8603,Gasoline,Automatic,Other,Other,None reported,Unknown,125900,2,,3.0,
 Audi,49098,Gasoline,Unknown,White,Black,Accident reported,Yes,44900,11,450.0,4.2,8.0
@@ -850,7 +847,7 @@ BMW,24300,Hybrid,Automatic,Grey,Other,None reported,Yes,49999,4,382.0,3.0,6.0
 Cadillac,104000,E85 Flex Fuel,Automatic,Grey,Other,None reported,Yes,19500,15,403.0,6.2,8.0
 Volvo,46250,Gasoline,Automatic,White,Other,Accident reported,Yes,27800,5,,2.0,
 Mazda,1930,Gasoline,Automatic,Black,Black,Accident reported,Yes,40655,2,,2.5,
-Chrysler,61494,Hybrid,Automatic,White,Black,None reported,Unknown,35850,3,,3.6,
+Other,61494,Hybrid,Automatic,White,Black,None reported,Unknown,35850,3,,3.6,
 Jeep,24040,Gasoline,Automatic,Black,Black,None reported,Yes,35273,5,,2.0,
 Toyota,231581,Gasoline,Automatic,Other,Other,None reported,Yes,4300,24,220.0,3.0,6.0
 Ford,81000,Gasoline,Automatic,Grey,Black,None reported,Yes,38500,6,375.0,3.5,6.0
@@ -859,7 +856,7 @@ Land,23568,Gasoline,Automatic,Red,Other,None reported,Unknown,44998,3,,,
 Mazda,78700,Gasoline,Automatic,White,Black,None reported,Yes,18000,5,187.0,2.5,4.0
 Kia,109580,Gasoline,Automatic,Red,Black,Accident reported,Yes,11900,10,192.0,2.4,4.0
 Lexus,178000,Gasoline,Automatic,Grey,Grey,Accident reported,Yes,4500,16,270.0,3.5,6.0
-Mitsubishi,131193,Gasoline,Automatic,Black,Black,None reported,Yes,11970,9,,2.4,
+Other,131193,Gasoline,Automatic,Black,Black,None reported,Yes,11970,9,,2.4,
 Mercedes-Benz,106000,Gasoline,Automatic,White,Black,None reported,Yes,25900,8,362.0,3.0,6.0
 Audi,28211,Gasoline,Unknown,Grey,Black,Accident reported,Yes,27500,6,184.0,2.0,4.0
 Audi,91403,E85 Flex Fuel,Automatic,Silver,Grey,None reported,Unknown,14998,10,,2.0,
@@ -872,7 +869,7 @@ Jeep,71000,Gasoline,Manual,Red,Grey,None reported,Yes,12499,22,150.0,2.4,4.0
 Kia,55400,Gasoline,Automatic,Green,White,Unknown,Unknown,36500,5,291.0,3.8,6.0
 Land,141525,Gasoline,Automatic,Black,Black,None reported,Yes,14490,13,375.0,5.0,8.0
 Jaguar,50000,Gasoline,Unknown,Black,Other,Accident reported,Yes,21900,18,420.0,4.2,8.0
-BMW,29140,Gasoline,Manual,Orange,Orange,None reported,Yes,71995,5,425.0,3.0,6.0
+BMW,29140,Gasoline,Manual,Orange,Other,None reported,Yes,71995,5,425.0,3.0,6.0
 BMW,9000,Hybrid,Automatic,White,Red,None reported,Yes,56900,3,382.0,3.0,6.0
 Mercedes-Benz,5595,Hybrid,Automatic,White,Black,None reported,Unknown,83598,4,,,
 RAM,34121,Gasoline,Automatic,Other,Black,None reported,Unknown,48190,3,,5.7,
@@ -880,8 +877,8 @@ BMW,36750,Gasoline,Automatic,Black,Black,None reported,Yes,35999,12,445.0,4.4,8.
 Mercedes-Benz,49626,Gasoline,Automatic,White,Other,None reported,Yes,12000,18,228.0,3.0,6.0
 Jeep,45000,Gasoline,Automatic,White,Other,Accident reported,Yes,16500,8,172.0,2.4,4.0
 Toyota,69350,Hybrid,Automatic,Black,Grey,None reported,Yes,36000,6,306.0,3.5,6.0
-BMW,8307,Gasoline,Automatic,Blue,Orange,None reported,Unknown,98900,3,,4.4,
-BMW,4106,Gasoline,Manual,Green,Orange,None reported,Yes,84645,2,,3.0,
+BMW,8307,Gasoline,Automatic,Blue,Other,None reported,Unknown,98900,3,,4.4,
+BMW,4106,Gasoline,Manual,Green,Other,None reported,Yes,84645,2,,3.0,
 BMW,184700,Gasoline,Manual,Blue,Grey,None reported,Yes,36950,26,240.0,3.2,6.0
 Maserati,57500,Gasoline,Automatic,White,Brown,None reported,Yes,41900,7,424.0,3.0,6.0
 Acura,29000,Gasoline,Automatic,Black,Black,None reported,Yes,39650,4,272.0,2.0,4.0
@@ -890,7 +887,7 @@ Mercedes-Benz,33300,Diesel,Automatic,White,Black,None reported,Yes,45000,4,188.0
 Cadillac,62950,Gasoline,Automatic,Silver,Grey,Accident reported,Yes,17498,11,304.0,3.6,6.0
 Chevrolet,56675,Gasoline,Unknown,Silver,Black,None reported,Yes,19750,10,323.0,3.6,6.0
 Porsche,92000,Gasoline,Automatic,Green,Grey,None reported,Yes,23000,12,400.0,4.8,8.0
-Dodge,96000,Gasoline,Automatic,Grey,Gold,Accident reported,Yes,12000,20,340.0,5.7,8.0
+Dodge,96000,Gasoline,Automatic,Grey,Other,Accident reported,Yes,12000,20,340.0,5.7,8.0
 INFINITI,33500,Gasoline,Automatic,Black,Black,None reported,Yes,23000,11,330.0,3.7,6.0
 Land,16754,Gasoline,Automatic,White,White,None reported,Yes,112000,5,557.0,5.0,8.0
 Toyota,53249,Hybrid,Automatic,Silver,Grey,Accident reported,Yes,9250,18,147.0,2.4,4.0
@@ -902,11 +899,11 @@ Mercedes-Benz,93500,Gasoline,Automatic,Black,Black,Accident reported,Yes,15900,1
 BMW,47700,Gasoline,Automatic,Red,White,Accident reported,Yes,54999,7,600.0,4.4,8.0
 Ford,97496,Gasoline,Manual,Grey,Grey,Unknown,Unknown,24500,22,390.0,4.6,8.0
 Acura,16120,Gasoline,Automatic,Grey,Other,None reported,Unknown,26599,3,,2.4,
-Buick,147589,Gasoline,Automatic,White,Other,Accident reported,Yes,2800,20,275.0,4.2,6.0
+Other,147589,Gasoline,Automatic,White,Other,Accident reported,Yes,2800,20,275.0,4.2,6.0
 Cadillac,95570,E85 Flex Fuel,Automatic,Black,Black,Accident reported,Yes,22000,12,403.0,6.2,8.0
 Mercedes-Benz,45791,Gasoline,Automatic,Grey,Grey,None reported,Yes,52000,7,463.0,4.0,8.0
 INFINITI,60000,Gasoline,Automatic,Silver,Other,Accident reported,Yes,25950,9,400.0,5.6,8.0
-Buick,50000,Gasoline,Automatic,White,Black,None reported,Yes,18795,6,138.0,1.4,4.0
+Other,50000,Gasoline,Automatic,White,Black,None reported,Yes,18795,6,138.0,1.4,4.0
 Mercedes-Benz,33481,Gasoline,Automatic,Black,Other,None reported,Unknown,43999,6,,3.0,
 Jeep,107000,Gasoline,Automatic,Grey,Grey,None reported,Yes,5900,15,210.0,3.7,6.0
 Mercedes-Benz,60000,Gasoline,Unknown,White,Black,Accident reported,Yes,37000,14,536.0,5.5,8.0
@@ -922,7 +919,7 @@ Ford,98000,Gasoline,Automatic,White,Other,Accident reported,Yes,25500,7,375.0,3.
 Hyundai,39913,Gasoline,Automatic,Black,Other,None reported,Unknown,22749,5,,2.4,
 Ford,147191,Gasoline,Automatic,Blue,Black,Accident reported,Yes,12990,12,305.0,3.7,6.0
 BMW,53600,Gasoline,Automatic,Silver,Black,None reported,Yes,25980,11,300.0,3.0,6.0
-Dodge,100100,Unknown,Unknown,Purple,Black,None reported,Yes,17000,15,,,
+Dodge,100100,Unknown,Unknown,Other,Black,None reported,Yes,17000,15,,,
 Mercedes-Benz,1750,Gasoline,Automatic,Blue,Black,None reported,Yes,199995,5,577.0,4.0,8.0
 Dodge,2750,Gasoline,Automatic,Orange,Black,None reported,Yes,104500,5,797.0,6.2,8.0
 Porsche,40800,Gasoline,Automatic,Brown,Other,None reported,Yes,35500,12,265.0,2.7,6.0
@@ -937,8 +934,8 @@ BMW,31090,Gasoline,Automatic,Green,Black,Accident reported,Yes,68000,7,600.0,4.4
 Mazda,21701,Gasoline,Automatic,Red,Black,None reported,Unknown,25099,3,,2.5,
 Nissan,97726,Gasoline,Unknown,Other,Other,Accident reported,Unknown,15998,9,,2.5,
 Audi,73000,Diesel,Automatic,White,Grey,None reported,Yes,34000,10,240.0,3.0,6.0
-Genesis,23600,Gasoline,Automatic,Blue,Grey,None reported,Yes,31900,5,311.0,3.8,6.0
-Rolls-Royce,8755,Gasoline,Automatic,Black,Black,None reported,Yes,166900,9,563.0,6.6,12.0
+Other,23600,Gasoline,Automatic,Blue,Grey,None reported,Yes,31900,5,311.0,3.8,6.0
+Other,8755,Gasoline,Automatic,Black,Black,None reported,Yes,166900,9,563.0,6.6,12.0
 BMW,20500,Gasoline,Unknown,Blue,Black,None reported,Yes,67900,6,560.0,4.4,8.0
 Ford,57912,Gasoline,Manual,Black,Black,Accident reported,Yes,18750,12,305.0,3.7,6.0
 BMW,35000,Gasoline,Automatic,Black,Black,None reported,Yes,18500,16,360.0,4.8,8.0
@@ -978,7 +975,6 @@ GMC,43433,Gasoline,Automatic,Black,Other,None reported,Unknown,51899,6,,5.3,
 Chevrolet,122961,Gasoline,Automatic,Red,Other,None reported,Yes,20995,20,,6.0,
 Dodge,92861,Gasoline,Automatic,Grey,Red,None reported,Yes,19750,11,375.0,5.7,8.0
 Hyundai,72000,Gasoline,Automatic,White,Other,None reported,Yes,21400,9,429.0,5.0,8.0
-Lamborghini,6929,Gasoline,Automatic,Blue,Black,None reported,Yes,649999,6,759.0,6.5,12.0
 Ford,83000,Gasoline,Automatic,Grey,Black,None reported,Yes,10500,22,260.0,4.6,8.0
 Audi,18031,Unknown,Automatic,Blue,Black,None reported,Unknown,39599,4,,,
 Toyota,8200,Hybrid,Automatic,Brown,Black,None reported,Yes,78900,2,437.0,3.4,6.0
@@ -1016,7 +1012,7 @@ Porsche,10400,Gasoline,Automatic,Grey,Black,None reported,Yes,99750,6,365.0,2.5,
 Mercedes-Benz,20622,Gasoline,Automatic,White,Black,None reported,Unknown,142998,5,,,
 RAM,19376,Gasoline,Automatic,White,Black,None reported,Yes,45861,3,,5.7,
 Audi,12245,Gasoline,Automatic,Black,Black,None reported,Unknown,187900,5,,5.2,
-Mitsubishi,77000,Gasoline,Manual,Silver,Black,None reported,Yes,57000,19,286.0,2.0,4.0
+Other,77000,Gasoline,Manual,Silver,Black,None reported,Yes,57000,19,286.0,2.0,4.0
 Acura,40000,Gasoline,Automatic,Blue,Grey,None reported,Yes,24000,12,280.0,3.5,6.0
 Cadillac,113000,Gasoline,Automatic,White,Other,None reported,Yes,10000,13,270.0,3.0,6.0
 Chevrolet,7600,Gasoline,Manual,Grey,Black,Accident reported,Yes,46000,3,455.0,6.2,8.0
@@ -1041,11 +1037,11 @@ Chevrolet,72000,Gasoline,Automatic,Blue,Other,Accident reported,Yes,39000,6,355.
 Porsche,3400,Gasoline,Manual,White,Black,None reported,Yes,129900,5,414.0,4.0,6.0
 Chevrolet,18000,Gasoline,Automatic,White,Black,Accident reported,Yes,30000,4,335.0,3.6,6.0
 Jeep,30630,Gasoline,Automatic,Blue,Black,None reported,Unknown,39998,4,,,
-Toyota,24985,Gasoline,Automatic,Silver,Silver,Unknown,Unknown,33580,18,236.0,4.0,6.0
-GMC,9978,Gasoline,Automatic,White,Gold,None reported,Yes,93999,2,420.0,6.2,8.0
+Toyota,24985,Gasoline,Automatic,Silver,Other,Unknown,Unknown,33580,18,236.0,4.0,6.0
+GMC,9978,Gasoline,Automatic,White,Other,None reported,Yes,93999,2,420.0,6.2,8.0
 Ford,18500,Gasoline,Manual,Blue,Black,Accident reported,Yes,77999,7,526.0,5.2,8.0
 Cadillac,72843,Gasoline,Automatic,Other,Other,None reported,Yes,79990,4,,6.2,
-Buick,67500,Gasoline,Automatic,Black,Other,None reported,Yes,20000,8,310.0,3.6,6.0
+Other,67500,Gasoline,Automatic,Black,Other,None reported,Yes,20000,8,310.0,3.6,6.0
 Tesla,43534,Unknown,Automatic,Black,Black,None reported,Yes,65990,5,534.0,,
 Mercedes-Benz,36900,Gasoline,Automatic,Grey,Other,None reported,Yes,28500,8,241.0,2.0,4.0
 Chevrolet,61720,E85 Flex Fuel,Automatic,Silver,Black,Accident reported,Unknown,39998,8,,,
@@ -1056,7 +1052,7 @@ Nissan,108206,Gasoline,Automatic,White,Other,Accident reported,Unknown,26498,7,,
 Land,32705,Diesel,Automatic,Blue,Other,None reported,Unknown,46598,5,,,
 Kia,74026,Gasoline,Automatic,Red,Black,None reported,Unknown,32913,5,,3.8,
 Lexus,24651,Gasoline,Automatic,White,Black,None reported,Unknown,45950,5,,3.5,
-BMW,13000,Hybrid,Unknown,Grey,Orange,None reported,Yes,69000,3,335.0,3.0,6.0
+BMW,13000,Hybrid,Unknown,Grey,Other,None reported,Yes,69000,3,335.0,3.0,6.0
 Land,11700,Hybrid,Unknown,Grey,White,None reported,Yes,133500,2,395.0,3.0,6.0
 Chevrolet,77500,Diesel,Automatic,Black,Brown,None reported,Yes,54000,10,397.0,6.6,8.0
 Maserati,82000,Gasoline,Unknown,Black,Black,Accident reported,Yes,7999,18,394.0,4.2,8.0
@@ -1076,8 +1072,8 @@ Hyundai,52060,Gasoline,Manual,Black,Black,Accident reported,Yes,15000,11,348.0,3
 Porsche,58000,Gasoline,Manual,Silver,Black,None reported,Yes,41500,17,303.0,3.4,6.0
 Ford,52246,Diesel,Manual,Other,Other,None reported,Yes,26095,15,,6.4,
 Kia,64290,Gasoline,Automatic,White,Black,None reported,Unknown,16999,9,,2.0,
-Nissan,37500,Gasoline,Manual,Silver,Orange,None reported,Yes,21500,16,332.0,3.7,6.0
-Genesis,2121,Gasoline,Automatic,White,Red,None reported,Yes,40750,2,252.0,2.0,4.0
+Nissan,37500,Gasoline,Manual,Silver,Other,None reported,Yes,21500,16,332.0,3.7,6.0
+Other,2121,Gasoline,Automatic,White,Red,None reported,Yes,40750,2,252.0,2.0,4.0
 Land,57000,Gasoline,Unknown,White,Other,None reported,Yes,26000,12,510.0,5.0,8.0
 Mercedes-Benz,22000,Gasoline,Automatic,White,Other,None reported,Yes,69500,5,463.0,4.0,8.0
 Ford,2000,Gasoline,Automatic,Black,Black,None reported,Yes,66500,2,315.0,2.7,6.0
@@ -1088,7 +1084,7 @@ Jeep,106700,E85 Flex Fuel,Automatic,Black,Black,None reported,Yes,13500,12,290.0
 Audi,75965,Gasoline,Automatic,White,Black,Accident reported,Yes,35999,12,450.0,4.2,8.0
 Jeep,31804,Gasoline,Automatic,Silver,Black,Accident reported,Yes,48995,3,,3.6,
 Mazda,125800,Unknown,Manual,Red,Black,None reported,Yes,11500,33,,,
-Chrysler,116320,Gasoline,Automatic,Grey,Red,Accident reported,Yes,6000,20,215.0,3.2,6.0
+Other,116320,Gasoline,Automatic,Grey,Red,Accident reported,Yes,6000,20,215.0,3.2,6.0
 Audi,156875,Gasoline,Manual,Black,Red,Accident reported,Yes,9900,14,354.0,4.2,8.0
 Tesla,197,Unknown,Automatic,Blue,Black,None reported,Yes,85000,2,670.0,,
 Cadillac,35200,Gasoline,Automatic,Blue,Black,None reported,Yes,28500,5,237.0,2.0,4.0
@@ -1129,7 +1125,7 @@ Tesla,91000,Unknown,Automatic,Silver,White,None reported,Yes,39500,9,691.0,,
 Lexus,41500,Gasoline,Automatic,Blue,Black,Accident reported,Yes,44800,15,416.0,5.0,8.0
 BMW,91545,Gasoline,Automatic,Black,Black,None reported,Yes,13000,15,300.0,3.0,6.0
 Audi,4100,Hybrid,Automatic,Blue,Black,None reported,Yes,162500,3,591.0,4.0,8.0
-Buick,110000,Gasoline,Automatic,Gold,Other,None reported,Yes,5000,19,275.0,4.6,8.0
+Other,110000,Gasoline,Automatic,Gold,Other,None reported,Yes,5000,19,275.0,4.6,8.0
 Lincoln,88000,Gasoline,Unknown,Black,Black,None reported,Yes,18500,9,335.0,2.7,6.0
 Nissan,42833,Gasoline,Unknown,Blue,Grey,None reported,Yes,37000,7,390.0,5.6,8.0
 Porsche,23278,Gasoline,Automatic,Blue,Other,None reported,Unknown,114998,5,,,
@@ -1153,7 +1149,7 @@ Ford,107000,E85 Flex Fuel,Automatic,White,Grey,Accident reported,Yes,22000,9,385
 BMW,5018,Gasoline,Automatic,Other,Black,None reported,Unknown,114998,3,,,
 Porsche,13850,Gasoline,Manual,Black,Black,None reported,Yes,71400,15,385.0,3.8,6.0
 Volvo,46700,Gasoline,Automatic,White,Other,Unknown,Unknown,11400,17,235.0,3.2,6.0
-Chrysler,21478,Gasoline,Automatic,Silver,Black,None reported,Unknown,27798,4,,,
+Other,21478,Gasoline,Automatic,Silver,Black,None reported,Unknown,27798,4,,,
 Honda,64200,Hybrid,Automatic,White,Black,Accident reported,Yes,20499,5,151.0,1.5,4.0
 Porsche,31075,Gasoline,Automatic,Black,Black,None reported,Yes,36250,19,,3.4,
 Tesla,25250,Unknown,Automatic,White,White,None reported,Yes,47800,3,455.0,,
@@ -1178,7 +1174,7 @@ Mercedes-Benz,100245,Diesel,Automatic,White,Other,Accident reported,Yes,24000,13
 Mercedes-Benz,8583,Gasoline,Automatic,Silver,Black,None reported,Unknown,42999,3,,2.0,
 Dodge,141800,Gasoline,Automatic,Red,Grey,Accident reported,Yes,5700,22,230.0,4.7,8.0
 Audi,77000,Gasoline,Automatic,White,Black,None reported,Yes,13800,13,211.0,2.0,4.0
-Audi,67035,Gasoline,Unknown,Pink,Brown,Accident reported,Yes,31500,7,252.0,2.0,4.0
+Audi,67035,Gasoline,Unknown,Other,Brown,Accident reported,Yes,31500,7,252.0,2.0,4.0
 Audi,61450,Gasoline,Automatic,White,Grey,None reported,Yes,19500,13,333.0,3.0,6.0
 Porsche,39500,Gasoline,Unknown,Black,Black,None reported,Yes,52590,10,440.0,4.8,8.0
 Mercedes-Benz,6600,Gasoline,Unknown,Black,Other,None reported,Yes,128900,5,550.0,4.0,8.0
@@ -1202,14 +1198,14 @@ Porsche,78000,Gasoline,Unknown,Brown,Brown,None reported,Yes,68000,11,350.0,3.4,
 Porsche,65750,Gasoline,Automatic,Blue,Grey,None reported,Yes,21750,20,280.0,3.2,6.0
 BMW,18000,Gasoline,Automatic,Black,Black,None reported,Yes,94000,4,600.0,4.4,8.0
 Ford,121630,Gasoline,Automatic,White,Black,None reported,Yes,9450,18,210.0,4.0,6.0
-Rivian,4500,Unknown,Automatic,Silver,Grey,None reported,Yes,89999,2,835.0,,
+Other,4500,Unknown,Automatic,Silver,Grey,None reported,Yes,89999,2,835.0,,
 Volvo,9408,Hybrid,Automatic,Black,Grey,None reported,Unknown,61999,3,,2.0,
 BMW,120000,Gasoline,Automatic,White,White,None reported,Yes,16000,9,240.0,2.0,4.0
 Cadillac,168600,Gasoline,Automatic,White,Other,None reported,Yes,29500,9,420.0,6.2,8.0
 Chevrolet,43705,Gasoline,Manual,Grey,Black,None reported,Yes,25900,21,350.0,5.7,8.0
 Audi,111000,Gasoline,Unknown,Blue,Other,None reported,Yes,11500,12,211.0,2.0,4.0
 Audi,64549,Gasoline,Unknown,Silver,Black,None reported,Yes,17000,13,211.0,2.0,4.0
-Buick,53000,Gasoline,Automatic,Red,Grey,None reported,Yes,6500,18,200.0,3.8,6.0
+Other,53000,Gasoline,Automatic,Red,Grey,None reported,Yes,6500,18,200.0,3.8,6.0
 Chevrolet,13465,Gasoline,Automatic,White,Black,None reported,Yes,44900,8,455.0,6.2,8.0
 Tesla,5844,Unknown,Automatic,White,Black,None reported,Yes,52000,2,425.0,,
 BMW,74000,Gasoline,Manual,Grey,Black,None reported,Yes,40000,10,425.0,3.0,6.0
@@ -1231,7 +1227,7 @@ Tesla,27224,Unknown,Automatic,Black,Black,None reported,Unknown,65999,5,,,
 BMW,25000,Gasoline,Automatic,Black,Black,None reported,Yes,52000,7,365.0,3.0,6.0
 Tesla,14642,Unknown,Automatic,Red,Black,None reported,Yes,48500,4,425.0,,
 Subaru,162000,Gasoline,Automatic,Grey,Black,None reported,Yes,13999,10,175.0,2.5,4.0
-Buick,119500,Gasoline,Automatic,White,Other,Accident reported,Yes,16999,29,260.0,5.7,8.0
+Other,119500,Gasoline,Automatic,White,Other,Accident reported,Yes,16999,29,260.0,5.7,8.0
 Land,101800,Gasoline,Automatic,Silver,Black,None reported,Yes,36500,8,510.0,5.0,8.0
 Ford,84351,Gasoline,Automatic,Blue,Other,None reported,Yes,42691,4,,3.5,
 Nissan,26930,Unknown,Automatic,White,Other,None reported,Yes,6700,13,107.0,,
@@ -1283,7 +1279,7 @@ Kia,117220,Hybrid,Automatic,Black,Black,None reported,Yes,8900,13,206.0,2.4,4.0
 Chevrolet,85200,Diesel,Automatic,Silver,Grey,None reported,Yes,67500,3,445.0,6.6,8.0
 Volkswagen,63450,Gasoline,Manual,White,Black,None reported,Yes,24325,7,220.0,2.0,4.0
 Dodge,73000,Gasoline,Manual,Black,Grey,None reported,Yes,22500,21,500.0,8.3,10.0
-Scion,115000,Gasoline,Manual,Silver,Silver,None reported,Yes,11495,11,179.0,2.5,4.0
+Other,115000,Gasoline,Manual,Silver,Other,None reported,Yes,11495,11,179.0,2.5,4.0
 Land,56000,Gasoline,Automatic,Black,Brown,None reported,Yes,49900,9,510.0,5.0,8.0
 Lexus,67296,Gasoline,Automatic,Other,Other,None reported,Unknown,40900,7,,3.5,
 Chevrolet,179200,Gasoline,Automatic,Black,Other,Accident reported,Yes,16000,10,355.0,5.3,8.0
@@ -1320,7 +1316,7 @@ Mercedes-Benz,40900,Gasoline,Automatic,White,Other,None reported,Yes,59750,10,57
 Cadillac,74150,Gasoline,Automatic,Gold,Brown,None reported,Yes,45000,7,420.0,6.2,8.0
 Toyota,94448,Hybrid,Automatic,Silver,Grey,None reported,Yes,15999,11,200.0,2.5,4.0
 Audi,108000,Gasoline,Unknown,Black,Brown,None reported,Yes,19998,10,310.0,3.0,6.0
-BMW,118000,Gasoline,Unknown,White,Orange,Accident reported,Yes,17000,13,555.0,4.4,8.0
+BMW,118000,Gasoline,Unknown,White,Other,Accident reported,Yes,17000,13,555.0,4.4,8.0
 Jaguar,38800,Gasoline,Unknown,Black,Black,None reported,Yes,57500,5,550.0,5.0,8.0
 BMW,55000,Gasoline,Unknown,White,Black,None reported,Yes,40000,8,320.0,3.0,6.0
 BMW,34967,Hybrid,Automatic,Blue,Other,Accident reported,Yes,49999,4,382.0,3.0,6.0
@@ -1329,7 +1325,7 @@ RAM,63750,Gasoline,Automatic,Grey,Grey,None reported,Yes,36000,7,410.0,6.4,8.0
 Ford,87248,Gasoline,Automatic,Black,Black,None reported,Yes,19999,9,300.0,3.7,6.0
 BMW,206000,Gasoline,Manual,Red,Black,Accident reported,Yes,15900,28,190.0,2.8,6.0
 Mercedes-Benz,112854,Gasoline,Automatic,White,Black,None reported,Yes,11999,14,335.0,4.7,8.0
-Rivian,1150,Unknown,Automatic,Green,Black,None reported,Yes,96850,2,835.0,,
+Other,1150,Unknown,Automatic,Green,Black,None reported,Yes,96850,2,835.0,,
 Tesla,10000,Unknown,Automatic,Blue,Black,None reported,Yes,48000,2,425.0,,
 Mercedes-Benz,14100,Gasoline,Automatic,Grey,Black,None reported,Yes,53000,3,255.0,2.0,4.0
 BMW,14360,Hybrid,Automatic,Black,Black,None reported,Yes,85495,2,375.0,3.0,6.0
@@ -1339,7 +1335,7 @@ Chevrolet,73846,Gasoline,Automatic,Blue,Black,None reported,Yes,60995,4,,5.3,
 Jeep,40000,Gasoline,Unknown,Grey,Black,None reported,Yes,45000,5,285.0,3.6,6.0
 GMC,9980,Gasoline,Automatic,Black,Black,None reported,Yes,82000,2,355.0,5.3,8.0
 Mazda,41997,Gasoline,Automatic,Black,Black,None reported,Yes,24995,6,227.0,2.5,4.0
-Alfa,2000,Gasoline,Automatic,Blue,Brown,None reported,Yes,39000,4,280.0,2.0,4.0
+Other,2000,Gasoline,Automatic,Blue,Brown,None reported,Yes,39000,4,280.0,2.0,4.0
 Mercedes-Benz,42750,Gasoline,Unknown,Black,Black,Accident reported,Yes,22999,9,208.0,2.0,4.0
 BMW,19473,Gasoline,Automatic,White,Other,None reported,Unknown,31698,6,,,
 Volkswagen,35340,Gasoline,Automatic,Black,Grey,None reported,Yes,23000,6,174.0,2.0,4.0
@@ -1348,20 +1344,19 @@ Audi,66150,Gasoline,Automatic,White,Black,Accident reported,Yes,47995,11,560.0,4
 Volvo,19352,Hybrid,Automatic,Blue,Other,None reported,Yes,54599,3,455.0,2.0,4.0
 Land,81000,Gasoline,Automatic,Black,Black,None reported,Yes,64800,5,518.0,5.0,8.0
 Toyota,183000,Gasoline,Automatic,Gold,Other,None reported,Yes,16000,14,381.0,5.7,8.0
-Jeep,44000,Gasoline,Manual,Green,Green,Accident reported,Yes,24999,21,190.0,4.0,6.0
+Jeep,44000,Gasoline,Manual,Green,Other,Accident reported,Yes,24999,21,190.0,4.0,6.0
 Audi,18100,Gasoline,Automatic,Grey,Grey,None reported,Yes,51800,4,349.0,3.0,6.0
 Land,40000,Gasoline,Unknown,Blue,Brown,Accident reported,Yes,20000,14,510.0,5.0,8.0
 Mercedes-Benz,120000,Diesel,Automatic,Black,Grey,None reported,Yes,31999,14,188.0,3.0,6.0
 Toyota,325,Hybrid,Automatic,Blue,Grey,None reported,Yes,84997,2,437.0,3.4,6.0
 Maserati,55000,Gasoline,Automatic,Blue,Black,None reported,Yes,39100,8,405.0,3.0,6.0
 Toyota,233000,Unknown,Automatic,Blue,Grey,None reported,Yes,7500,29,,,
-Lamborghini,6987,Gasoline,Unknown,Other,Other,None reported,Yes,749950,4,,6.5,
 Ford,48500,Gasoline,Manual,Black,Black,Accident reported,Yes,44999,6,480.0,5.0,8.0
 RAM,52000,Diesel,Automatic,Grey,Black,None reported,Yes,50000,7,350.0,6.7,6.0
 Toyota,179000,Gasoline,Automatic,Silver,Black,Accident reported,Yes,17900,18,239.0,4.0,6.0
 Dodge,42626,Gasoline,Automatic,Silver,Red,None reported,Yes,42000,6,485.0,6.4,8.0
 Lexus,65900,Gasoline,Unknown,Grey,Black,Accident reported,Yes,34700,7,301.0,4.6,8.0
-Genesis,7523,Gasoline,Automatic,Black,Black,None reported,Unknown,54543,3,,2.5,
+Other,7523,Gasoline,Automatic,Black,Black,None reported,Unknown,54543,3,,2.5,
 Jaguar,34365,Gasoline,Automatic,Other,Other,None reported,Unknown,59598,6,,,
 Kia,16949,Gasoline,Automatic,Red,Black,None reported,Yes,24995,4,,2.4,
 Mercedes-Benz,7968,Hybrid,Automatic,White,White,None reported,Yes,104999,3,496.0,4.0,8.0
@@ -1383,7 +1378,7 @@ GMC,137500,Gasoline,Automatic,Black,Black,Accident reported,Yes,29500,9,420.0,6.
 Mercedes-Benz,2284,Gasoline,Automatic,Black,Other,None reported,Yes,157500,4,,2.0,
 Land,350,Gasoline,Unknown,Black,Other,None reported,Yes,195000,2,523.0,4.4,8.0
 Ford,169000,E85 Flex Fuel,Automatic,White,Other,None reported,Yes,13000,8,290.0,3.5,6.0
-Ferrari,17761,Gasoline,Automatic,Other,Other,None reported,Unknown,243900,7,,3.9,
+Other,17761,Gasoline,Automatic,Other,Other,None reported,Unknown,243900,7,,3.9,
 Chevrolet,8949,Gasoline,Manual,Yellow,Black,None reported,Yes,30000,15,426.0,6.2,8.0
 BMW,25108,Gasoline,Automatic,Black,Black,Unknown,Unknown,66000,5,523.0,4.4,8.0
 Land,103000,Gasoline,Unknown,Black,Black,None reported,Yes,33999,9,380.0,3.0,6.0
@@ -1397,7 +1392,7 @@ BMW,16307,Hybrid,Automatic,Red,White,None reported,Yes,71400,2,335.0,3.0,6.0
 Audi,13566,Gasoline,Automatic,Grey,Red,None reported,Unknown,57900,4,,3.0,
 Audi,22588,Hybrid,Automatic,Blue,Other,None reported,Unknown,52598,3,,,
 Jaguar,41452,Gasoline,Unknown,White,Black,Accident reported,Yes,22500,6,247.0,2.0,4.0
-Genesis,57500,Gasoline,Automatic,Red,Black,None reported,Yes,32990,6,365.0,3.3,6.0
+Other,57500,Gasoline,Automatic,Red,Black,None reported,Yes,32990,6,365.0,3.3,6.0
 BMW,500,Gasoline,Automatic,Black,Black,None reported,Yes,70000,5,405.0,3.0,6.0
 Subaru,55000,Gasoline,Manual,White,Black,None reported,Yes,30000,11,265.0,2.5,4.0
 GMC,8210,Gasoline,Automatic,White,Black,None reported,Yes,55000,4,401.0,6.6,8.0
@@ -1425,7 +1420,7 @@ Porsche,26021,Gasoline,Manual,Silver,Grey,None reported,Yes,53999,18,325.0,3.6,6
 Audi,73000,E85 Flex Fuel,Automatic,Black,Black,Accident reported,Yes,17200,10,220.0,2.0,4.0
 Audi,153000,Gasoline,Automatic,Grey,Other,None reported,Yes,8700,16,265.0,3.2,6.0
 Ford,67550,Diesel,Automatic,Gold,Other,None reported,Yes,30000,22,325.0,6.0,8.0
-Ford,170000,Gasoline,Automatic,Gold,Gold,None reported,Yes,8500,21,310.0,6.8,10.0
+Ford,170000,Gasoline,Automatic,Gold,Other,None reported,Yes,8500,21,310.0,6.8,10.0
 Land,53000,Gasoline,Unknown,Black,Other,None reported,Yes,47500,8,510.0,5.0,8.0
 Audi,54900,Hybrid,Automatic,Gold,Black,Accident reported,Yes,48500,6,335.0,3.0,6.0
 BMW,89000,Gasoline,Automatic,Black,Black,None reported,Yes,24000,9,300.0,3.0,6.0
@@ -1435,8 +1430,8 @@ Hyundai,89000,Gasoline,Manual,White,Black,Accident reported,Yes,12500,12,344.0,3
 Toyota,86111,Gasoline,Automatic,Gold,Other,Accident reported,Yes,3500,26,133.0,2.2,4.0
 Mercedes-Benz,45203,Gasoline,Automatic,White,Brown,None reported,Yes,39853,7,,3.0,
 Audi,14739,Gasoline,Automatic,Grey,Black,None reported,Unknown,61900,3,,3.0,
-Buick,139105,Gasoline,Automatic,Other,Other,Accident reported,Yes,17550,8,,3.6,
-Lamborghini,45014,Gasoline,Automatic,Grey,Black,None reported,Yes,109499,15,560.0,5.2,10.0
+Other,139105,Gasoline,Automatic,Other,Other,Accident reported,Yes,17550,8,,3.6,
+Other,45014,Gasoline,Automatic,Grey,Black,None reported,Yes,109499,15,560.0,5.2,10.0
 Ford,101000,Gasoline,Manual,Red,Black,None reported,Yes,18500,14,412.0,5.0,8.0
 GMC,93000,Gasoline,Automatic,Black,Black,Accident reported,Yes,30000,9,355.0,5.3,8.0
 Ford,62500,Gasoline,Manual,Black,Black,None reported,Yes,16000,12,305.0,3.7,6.0
@@ -1453,7 +1448,7 @@ Dodge,135000,Gasoline,Automatic,Black,Black,None reported,Yes,20000,9,360.0,5.7,
 Chevrolet,2550,Gasoline,Automatic,Red,Black,None reported,Yes,60000,3,355.0,5.3,8.0
 Jeep,35289,Gasoline,Automatic,Other,Black,Unknown,Unknown,35470,5,,3.6,
 RAM,14636,Gasoline,Automatic,Black,Black,None reported,Unknown,46599,3,,5.7,
-Chrysler,24847,Gasoline,Automatic,White,Grey,None reported,Yes,13046,20,,3.2,
+Other,24847,Gasoline,Automatic,White,Grey,None reported,Yes,13046,20,,3.2,
 Nissan,29558,Gasoline,Automatic,Black,Other,None reported,Yes,25884,6,,2.5,
 Audi,6581,Gasoline,Automatic,Grey,Black,None reported,Unknown,59900,2,,3.0,
 Mercedes-Benz,22000,Hybrid,Automatic,Grey,Black,None reported,Yes,83999,5,429.0,3.0,6.0
@@ -1507,27 +1502,26 @@ BMW,120000,Gasoline,Unknown,Black,Black,Unknown,Unknown,20000,11,300.0,3.0,6.0
 Mercedes-Benz,72500,Gasoline,Automatic,Black,Other,None reported,Yes,31450,12,429.0,4.6,8.0
 RAM,72000,Gasoline,Automatic,Blue,Other,Accident reported,Yes,24200,8,395.0,5.7,8.0
 BMW,132000,Gasoline,Automatic,Black,Other,None reported,Yes,11000,14,300.0,3.0,6.0
-Rolls-Royce,7585,Gasoline,Automatic,Other,Other,None reported,Yes,599000,7,,6.8,
 Hyundai,18500,Unknown,Automatic,White,Black,None reported,Yes,42000,3,320.0,,
 Lexus,42000,Gasoline,Automatic,Silver,Grey,Accident reported,Yes,15999,23,290.0,4.3,8.0
 Jaguar,4624,Gasoline,Automatic,Black,Black,None reported,Unknown,56998,2,,,
 BMW,106000,Gasoline,Unknown,Black,Black,None reported,Yes,19500,19,500.0,5.0,10.0
 Hyundai,13610,Gasoline,Automatic,Other,Black,None reported,Unknown,27450,3,,2.5,
-Lamborghini,16876,Gasoline,Automatic,Grey,Brown,None reported,Unknown,209900,6,,4.0,
+Other,16876,Gasoline,Automatic,Grey,Brown,None reported,Unknown,209900,6,,4.0,
 Ford,8911,Gasoline,Automatic,Other,Black,Accident reported,Yes,77430,2,,3.5,
 Chevrolet,48641,Gasoline,Automatic,Silver,Black,None reported,Unknown,43666,4,,5.3,
 GMC,11250,Gasoline,Automatic,White,Black,None reported,Yes,70250,4,420.0,6.2,8.0
 Ford,126000,Gasoline,Automatic,Red,Black,None reported,Yes,9000,18,210.0,4.0,6.0
-BMW,77750,Gasoline,Automatic,Silver,Silver,None reported,Yes,21000,17,500.0,5.0,10.0
+BMW,77750,Gasoline,Automatic,Silver,Other,None reported,Yes,21000,17,500.0,5.0,10.0
 Toyota,27363,Gasoline,Automatic,Grey,Grey,None reported,Yes,35000,5,278.0,3.5,6.0
 Porsche,30951,Gasoline,Automatic,White,Black,None reported,Yes,80140,6,,3.0,
-Ford,208,Unknown,Automatic,Grey,Gold,None reported,Yes,89000,2,563.0,,
+Ford,208,Unknown,Automatic,Grey,Other,None reported,Yes,89000,2,563.0,,
 Dodge,20386,Gasoline,Automatic,Other,Black,None reported,Unknown,32999,4,,3.6,
 BMW,45253,Hybrid,Unknown,Black,Black,None reported,Yes,24995,7,247.0,2.0,4.0
 GMC,144000,Gasoline,Automatic,White,Black,None reported,Yes,18400,9,301.0,3.6,6.0
-Ford,76163,Diesel,Automatic,Gold,Gold,None reported,Yes,20500,21,325.0,6.0,8.0
+Ford,76163,Diesel,Automatic,Gold,Other,None reported,Yes,20500,21,325.0,6.0,8.0
 Hyundai,61300,Gasoline,Automatic,Silver,Grey,Unknown,Unknown,20150,10,311.0,3.8,6.0
-Mitsubishi,35698,Gasoline,Automatic,Blue,Black,None reported,Yes,8750,8,78.0,1.2,3.0
+Other,35698,Gasoline,Automatic,Blue,Black,None reported,Yes,8750,8,78.0,1.2,3.0
 Mercedes-Benz,27000,Gasoline,Automatic,Black,Black,None reported,Yes,22500,15,268.0,3.5,6.0
 Mazda,162000,Gasoline,Unknown,Red,Black,None reported,Yes,11500,10,155.0,2.0,4.0
 BMW,77800,Gasoline,Manual,Red,Black,None reported,Yes,28500,17,414.0,4.0,8.0
@@ -1539,11 +1533,11 @@ Honda,42653,Gasoline,Automatic,Grey,Black,None reported,Unknown,38998,4,,3.5,
 Acura,193783,Gasoline,Automatic,Black,Black,Accident reported,Yes,10000,17,258.0,3.2,6.0
 Lexus,123000,Gasoline,Automatic,Red,Black,Accident reported,Yes,18000,11,306.0,3.5,6.0
 Chevrolet,130000,Gasoline,Automatic,Brown,Black,Accident reported,Yes,7000,14,264.0,3.0,6.0
-Mitsubishi,143346,Gasoline,Manual,Black,Black,Accident reported,Yes,3000,16,152.0,2.0,4.0
+Other,143346,Gasoline,Manual,Black,Black,Accident reported,Yes,3000,16,152.0,2.0,4.0
 Land,112465,Gasoline,Automatic,White,Other,None reported,Yes,11995,10,240.0,2.0,4.0
 Nissan,5121,Unknown,Automatic,Silver,Black,None reported,Yes,28196,2,,,
 Audi,137273,Gasoline,Automatic,White,Other,None reported,Yes,11000,13,211.0,2.0,4.0
-Rivian,299,Unknown,Automatic,Blue,Grey,None reported,Yes,92500,2,835.0,,
+Other,299,Unknown,Automatic,Blue,Grey,None reported,Yes,92500,2,835.0,,
 Lexus,70780,Hybrid,Automatic,Silver,Grey,None reported,Yes,35700,7,308.0,3.5,6.0
 Chevrolet,55000,Gasoline,Automatic,Black,Black,None reported,Yes,37900,7,355.0,5.3,8.0
 Mercedes-Benz,23151,Gasoline,Automatic,Grey,Black,None reported,Yes,84500,8,416.0,4.0,8.0
@@ -1553,9 +1547,9 @@ Subaru,87092,Gasoline,Automatic,Blue,Black,Accident reported,Yes,19500,9,256.0,3
 Toyota,90625,Gasoline,Automatic,Grey,Grey,None reported,Yes,5500,21,210.0,3.0,6.0
 Chevrolet,44373,Gasoline,Automatic,Silver,Black,None reported,Yes,36000,4,310.0,3.6,6.0
 BMW,26000,Gasoline,Unknown,Black,Black,None reported,Yes,37000,4,255.0,2.0,4.0
-Karma,20760,Unknown,Automatic,White,Black,None reported,Yes,55500,7,403.0,2.0,
+Other,20760,Unknown,Automatic,White,Black,None reported,Yes,55500,7,403.0,2.0,
 Lexus,39102,Gasoline,Automatic,Silver,Red,None reported,Unknown,51798,4,,,
-Alfa,39615,Gasoline,Automatic,Black,Black,None reported,Unknown,28900,6,,2.0,
+Other,39615,Gasoline,Automatic,Black,Black,None reported,Unknown,28900,6,,2.0,
 GMC,58000,E85 Flex Fuel,Automatic,Silver,Other,None reported,Yes,36500,6,360.0,6.0,8.0
 Lexus,148000,Gasoline,Automatic,Grey,Black,Accident reported,Yes,10000,12,204.0,2.5,6.0
 Porsche,104000,Gasoline,Automatic,White,Black,None reported,Yes,20900,14,300.0,3.6,6.0
@@ -1572,11 +1566,11 @@ Mercedes-Benz,1025,Gasoline,Automatic,Black,Other,None reported,Yes,299000,5,,2.
 Chevrolet,152000,Gasoline,Automatic,White,Grey,Accident reported,Yes,7999,21,195.0,4.3,6.0
 BMW,46000,Gasoline,Unknown,Black,Black,None reported,Yes,54999,5,335.0,3.0,6.0
 BMW,8000,Hybrid,Automatic,Blue,Brown,None reported,Yes,85000,3,335.0,3.0,6.0
-Ferrari,14770,Gasoline,Automatic,Grey,Other,None reported,Unknown,254900,9,,6.3,
+Other,14770,Gasoline,Automatic,Grey,Other,None reported,Unknown,254900,9,,6.3,
 Chevrolet,84421,E85 Flex Fuel,Automatic,White,Black,None reported,Yes,36800,9,360.0,6.0,8.0
 Mercedes-Benz,4760,Gasoline,Automatic,White,Black,None reported,Yes,229000,3,,4.0,
 GMC,44691,Gasoline,Automatic,White,Other,Accident reported,Unknown,56900,4,,6.2,
-Mitsubishi,11700,Gasoline,Automatic,White,Black,None reported,Yes,33000,3,181.0,2.5,4.0
+Other,11700,Gasoline,Automatic,White,Black,None reported,Yes,33000,3,181.0,2.5,4.0
 Ford,2800,Gasoline,Manual,Black,Black,None reported,Yes,91000,6,526.0,5.2,8.0
 MINI,58000,Gasoline,Automatic,Gold,Black,None reported,Yes,8000,15,118.0,1.6,4.0
 Toyota,142500,Hybrid,Automatic,Blue,Other,None reported,Yes,6999,16,76.0,1.5,4.0
@@ -1584,7 +1578,7 @@ Cadillac,191900,Gasoline,Automatic,Black,Black,Accident reported,Yes,9750,18,403
 Audi,63398,Gasoline,Automatic,White,Grey,Accident reported,Yes,19500,9,252.0,2.0,4.0
 Chevrolet,162750,Gasoline,Unknown,White,Black,Accident reported,Yes,7200,17,320.0,5.3,8.0
 Jaguar,38383,Gasoline,Automatic,White,Black,None reported,Yes,36949,13,510.0,5.0,8.0
-Porsche,1837,Gasoline,Automatic,Green,Green,None reported,Unknown,179900,3,,3.0,
+Porsche,1837,Gasoline,Automatic,Green,Other,None reported,Unknown,179900,3,,3.0,
 Ford,36294,Diesel,Automatic,White,Grey,Unknown,Unknown,77535,3,,6.7,
 Audi,90818,Gasoline,Automatic,White,Black,Accident reported,Yes,8300,14,211.0,2.0,4.0
 Cadillac,32000,Gasoline,Automatic,Grey,Black,None reported,Yes,22999,7,272.0,2.0,4.0
@@ -1594,9 +1588,9 @@ Jeep,55000,Gasoline,Automatic,Red,Black,Accident reported,Yes,35000,14,202.0,3.8
 BMW,23700,Gasoline,Unknown,Black,Black,None reported,Yes,42800,10,425.0,3.0,6.0
 Tesla,46000,Unknown,Automatic,White,Black,None reported,Yes,59500,7,518.0,,
 Maserati,12118,Gasoline,Automatic,Blue,Brown,None reported,Yes,52900,5,424.0,3.0,6.0
-Pontiac,64000,Gasoline,Manual,Blue,Other,None reported,Yes,21000,24,310.0,5.7,8.0
+Other,64000,Gasoline,Manual,Blue,Other,None reported,Yes,21000,24,310.0,5.7,8.0
 Ford,22169,Gasoline,Automatic,Black,Other,None reported,Yes,57352,3,,3.5,
-Ferrari,1575,Gasoline,Unknown,Red,Black,None reported,Yes,469900,5,788.0,6.5,12.0
+Other,1575,Gasoline,Unknown,Red,Black,None reported,Yes,469900,5,788.0,6.5,12.0
 Tesla,46897,Unknown,Automatic,Blue,Black,None reported,Yes,69000,4,557.0,,
 Land,3369,Hybrid,Automatic,White,Black,None reported,Yes,139500,3,395.0,3.0,6.0
 BMW,135000,Gasoline,Automatic,Blue,Other,None reported,Yes,9999,14,300.0,3.0,6.0
@@ -1614,7 +1608,6 @@ Nissan,16700,Gasoline,Automatic,White,Black,None reported,Yes,26500,8,131.0,2.0,
 Subaru,112000,Gasoline,Automatic,Black,Other,None reported,Yes,9999,12,148.0,2.0,4.0
 BMW,55250,Gasoline,Manual,Blue,White,None reported,Yes,49999,9,425.0,3.0,6.0
 INFINITI,69000,Gasoline,Automatic,Grey,Black,None reported,Yes,31450,5,400.0,5.6,8.0
-Rolls-Royce,1560,Unknown,Unknown,Other,Blue,None reported,Yes,599995,2,,,
 Ford,40570,Gasoline,Manual,Grey,Black,Accident reported,Yes,30490,9,435.0,5.0,8.0
 Toyota,46500,Gasoline,Automatic,White,Black,None reported,Yes,35200,5,203.0,2.5,4.0
 Honda,26900,Gasoline,Manual,Silver,Red,None reported,Yes,35000,25,240.0,2.0,4.0
@@ -1622,13 +1615,13 @@ Jeep,5779,Gasoline,Automatic,Red,Black,Unknown,Unknown,41329,4,,3.6,
 Ford,12000,Gasoline,Automatic,Black,Other,None reported,Yes,54000,2,275.0,2.3,4.0
 Ford,30301,Gasoline,Automatic,Other,Other,None reported,Yes,68420,3,,3.5,
 Toyota,600,Hybrid,Automatic,Orange,Black,None reported,Yes,91995,2,437.0,3.4,6.0
-Plymouth,22300,Gasoline,Automatic,Blue,Grey,None reported,Yes,28500,24,253.0,3.5,6.0
-Alfa,9275,Gasoline,Automatic,White,Black,None reported,Unknown,43900,2,,2.0,
+Other,22300,Gasoline,Automatic,Blue,Grey,None reported,Yes,28500,24,253.0,3.5,6.0
+Other,9275,Gasoline,Automatic,White,Black,None reported,Unknown,43900,2,,2.0,
 Chevrolet,171750,E85 Flex Fuel,Automatic,White,Other,Accident reported,Yes,12998,21,295.0,5.3,8.0
-Mitsubishi,76500,Gasoline,Manual,Black,Black,None reported,Yes,28000,12,291.0,2.0,4.0
+Other,76500,Gasoline,Manual,Black,Black,None reported,Yes,28000,12,291.0,2.0,4.0
 Mercedes-Benz,49000,Gasoline,Automatic,Blue,Brown,Accident reported,Yes,42995,7,385.0,3.0,6.0
 Audi,75000,Gasoline,Unknown,White,Brown,Accident reported,Yes,74000,14,525.0,5.2,10.0
-Ford,133300,Gasoline,Automatic,Silver,Silver,None reported,Yes,3000,18,153.0,2.3,4.0
+Ford,133300,Gasoline,Automatic,Silver,Other,None reported,Yes,3000,18,153.0,2.3,4.0
 BMW,99700,Gasoline,Automatic,Black,Black,None reported,Yes,8500,18,260.0,3.0,6.0
 Chevrolet,126700,Gasoline,Unknown,White,Other,Accident reported,Yes,14000,14,312.0,3.6,6.0
 BMW,28000,Gasoline,Manual,Black,Red,None reported,Yes,36995,9,320.0,3.0,6.0
@@ -1664,9 +1657,9 @@ Kia,66075,Gasoline,Automatic,Silver,Black,None reported,Unknown,23754,6,,3.3,
 Hyundai,68050,Gasoline,Automatic,Black,Black,None reported,Yes,29600,4,291.0,3.8,6.0
 Ford,128000,Diesel,Automatic,Grey,Black,None reported,Yes,50000,8,440.0,6.7,8.0
 BMW,9472,Gasoline,Automatic,White,Blue,None reported,Yes,51000,4,255.0,2.0,4.0
-Mitsubishi,185963,Gasoline,Automatic,Orange,Grey,Accident reported,Yes,5100,16,168.0,2.4,4.0
+Other,185963,Gasoline,Automatic,Orange,Grey,Accident reported,Yes,5100,16,168.0,2.4,4.0
 Nissan,52000,Gasoline,Automatic,Black,Grey,Accident reported,Yes,19500,6,131.0,2.0,4.0
-Buick,68653,Gasoline,Automatic,Blue,Black,Accident reported,Yes,18950,10,288.0,3.6,6.0
+Other,68653,Gasoline,Automatic,Blue,Black,Accident reported,Yes,18950,10,288.0,3.6,6.0
 Lexus,151896,Gasoline,Automatic,Silver,Grey,None reported,Yes,7900,21,230.0,3.3,6.0
 Lexus,43671,Hybrid,Automatic,Other,Red,None reported,Unknown,44950,6,,3.5,
 Ford,72128,E85 Flex Fuel,Automatic,White,Other,Unknown,Unknown,45985,8,,6.2,
@@ -1676,14 +1669,14 @@ Porsche,82300,Gasoline,Automatic,Black,Black,None reported,Yes,35000,7,252.0,2.0
 Lexus,124000,Gasoline,Unknown,Blue,Blue,None reported,Yes,24000,10,306.0,3.5,6.0
 Audi,23823,Gasoline,Automatic,Red,Black,None reported,Yes,49995,5,,3.0,
 GMC,222600,Gasoline,Automatic,Grey,Other,None reported,Yes,4999,23,275.0,4.8,8.0
-Lamborghini,9500,Gasoline,Automatic,White,Black,None reported,Yes,279900,4,641.0,4.0,8.0
+Other,9500,Gasoline,Automatic,White,Black,None reported,Yes,279900,4,641.0,4.0,8.0
 INFINITI,154247,Gasoline,Automatic,Black,Black,Accident reported,Yes,12500,11,265.0,3.5,6.0
 Chevrolet,128000,Gasoline,Automatic,Other,Black,None reported,Yes,23500,17,353.0,6.0,8.0
 Maserati,70000,Gasoline,Automatic,Blue,Brown,Accident reported,Yes,13000,17,405.0,4.2,8.0
 Acura,123000,Unknown,Manual,White,Blue,None reported,Yes,10999,30,,,
 BMW,52375,Gasoline,Automatic,White,Brown,Accident reported,Yes,48600,9,567.0,4.4,8.0
-Chrysler,100574,Gasoline,Automatic,Black,Black,Accident reported,Yes,17500,9,300.0,3.6,6.0
-Chrysler,85000,Gasoline,Automatic,White,Other,Accident reported,Yes,11250,11,292.0,3.6,6.0
+Other,100574,Gasoline,Automatic,Black,Black,Accident reported,Yes,17500,9,300.0,3.6,6.0
+Other,85000,Gasoline,Automatic,White,Other,Accident reported,Yes,11250,11,292.0,3.6,6.0
 Acura,3959,Gasoline,Automatic,White,Black,None reported,Unknown,48998,2,,,
 Chevrolet,10400,Gasoline,Automatic,Silver,Black,None reported,Yes,72900,4,490.0,6.2,8.0
 Chevrolet,19200,Gasoline,Manual,Orange,Black,None reported,Yes,41500,6,455.0,6.2,8.0
@@ -1696,7 +1689,7 @@ Mercedes-Benz,72500,Gasoline,Automatic,Black,Black,None reported,Yes,60000,7,362
 Porsche,265,Gasoline,Manual,Black,Grey,None reported,Yes,279950,2,,4.0,
 Mercedes-Benz,21214,Gasoline,Automatic,Black,Black,None reported,Unknown,117900,5,,4.0,
 Audi,55564,Diesel,Automatic,Black,Black,Accident reported,Yes,22500,11,240.0,3.0,6.0
-Cadillac,1090,Unknown,Automatic,Grey,Silver,None reported,Yes,68750,2,500.0,,
+Cadillac,1090,Unknown,Automatic,Grey,Other,None reported,Yes,68750,2,500.0,,
 Volvo,43500,Gasoline,Unknown,Grey,Black,None reported,Yes,30000,6,250.0,2.0,4.0
 Mercedes-Benz,35000,Hybrid,Unknown,Black,Black,None reported,Yes,83000,6,429.0,3.0,6.0
 GMC,92031,Gasoline,Automatic,White,Other,Accident reported,Yes,30000,8,355.0,5.3,8.0
@@ -1711,19 +1704,19 @@ Mercedes-Benz,11875,Gasoline,Automatic,Black,Black,None reported,Unknown,41598,3
 Tesla,47000,Unknown,Automatic,Black,Black,None reported,Yes,49900,7,518.0,,
 INFINITI,67000,Gasoline,Unknown,Black,Black,None reported,Yes,23000,8,300.0,3.0,6.0
 BMW,117660,Gasoline,Automatic,White,Black,Accident reported,Yes,19500,9,320.0,3.0,6.0
-Pontiac,71448,Gasoline,Automatic,Grey,Black,None reported,Yes,10500,24,200.0,3.8,6.0
+Other,71448,Gasoline,Automatic,Grey,Black,None reported,Yes,10500,24,200.0,3.8,6.0
 Nissan,86000,Gasoline,Automatic,Silver,Grey,None reported,Yes,29500,10,317.0,5.6,8.0
 Lexus,15324,Gasoline,Automatic,Black,Black,Accident reported,Unknown,33364,5,,3.5,
 BMW,29400,Gasoline,Manual,White,Other,None reported,Yes,29000,12,320.0,3.0,6.0
 Lexus,68871,Gasoline,Automatic,Silver,Red,None reported,Yes,28450,8,255.0,3.5,6.0
 Porsche,126000,Gasoline,Unknown,Silver,Grey,None reported,Yes,17999,13,400.0,4.8,8.0
-Pontiac,25718,Gasoline,Manual,Yellow,Black,None reported,Yes,17900,18,260.0,2.0,4.0
+Other,25718,Gasoline,Manual,Yellow,Black,None reported,Yes,17900,18,260.0,2.0,4.0
 Porsche,67210,Gasoline,Unknown,Blue,Other,Accident reported,Yes,51950,10,520.0,4.8,8.0
 BMW,27214,Gasoline,Unknown,Black,Black,Accident reported,Yes,40950,7,300.0,3.0,6.0
 Ford,42728,Gasoline,Unknown,Black,Brown,None reported,Yes,45950,6,450.0,3.5,6.0
 MINI,97395,Gasoline,Manual,Yellow,Black,None reported,Yes,6699,15,172.0,1.6,4.0
 Mazda,91700,Gasoline,Automatic,Red,Black,None reported,Yes,12000,10,155.0,2.0,4.0
-Mitsubishi,94500,Gasoline,Unknown,White,Black,None reported,Yes,27000,14,291.0,2.0,4.0
+Other,94500,Gasoline,Unknown,White,Black,None reported,Yes,27000,14,291.0,2.0,4.0
 Chevrolet,196300,E85 Flex Fuel,Automatic,Black,Black,None reported,Yes,10995,11,320.0,5.3,8.0
 Cadillac,54259,Gasoline,Automatic,Other,Black,None reported,Yes,19425,10,,3.6,
 Acura,36267,Gasoline,Automatic,White,Other,None reported,Unknown,39798,4,,,
@@ -1760,10 +1753,10 @@ Hyundai,32697,Gasoline,Automatic,Grey,Grey,Accident reported,Yes,15900,7,147.0,2
 Ford,239000,Gasoline,Automatic,White,Other,None reported,Yes,8000,24,310.0,6.8,10.0
 Jaguar,34150,Gasoline,Automatic,Black,Black,None reported,Yes,45999,8,380.0,3.0,6.0
 Honda,9642,Gasoline,Automatic,Red,Black,None reported,Unknown,38999,3,,3.5,
-Pontiac,100545,Gasoline,Automatic,Grey,Black,None reported,Yes,5995,19,201.0,3.5,6.0
+Other,100545,Gasoline,Automatic,Grey,Black,None reported,Yes,5995,19,201.0,3.5,6.0
 Mercedes-Benz,11111,Gasoline,Automatic,Grey,Black,None reported,Unknown,38998,4,,,
 Toyota,162000,Gasoline,Automatic,Black,Black,None reported,Yes,23977,18,239.0,4.0,6.0
-Buick,87555,Gasoline,Automatic,Blue,Other,Accident reported,Yes,31650,5,,3.6,
+Other,87555,Gasoline,Automatic,Blue,Other,Accident reported,Yes,31650,5,,3.6,
 Chevrolet,102200,Gasoline,Automatic,Silver,Black,None reported,Yes,25000,10,355.0,5.3,8.0
 Bentley,18950,Gasoline,Unknown,White,Black,None reported,Yes,77999,12,500.0,4.0,8.0
 Mercedes-Benz,16000,Gasoline,Automatic,White,Red,Accident reported,Yes,30500,10,302.0,3.5,6.0
@@ -1785,7 +1778,7 @@ Lexus,48210,Gasoline,Automatic,Grey,Red,Accident reported,Yes,47449,5,,4.6,
 BMW,81500,Gasoline,Automatic,White,White,None reported,Yes,41250,7,445.0,4.4,8.0
 Ford,77107,Gasoline,Automatic,Black,Black,Unknown,Unknown,39995,4,,3.5,
 BMW,58664,Gasoline,Automatic,Blue,Grey,Accident reported,Yes,20950,10,300.0,3.0,6.0
-Mitsubishi,145000,Gasoline,Automatic,Silver,Black,None reported,Yes,8950,21,215.0,3.8,6.0
+Other,145000,Gasoline,Automatic,Silver,Black,None reported,Yes,8950,21,215.0,3.8,6.0
 Lexus,15055,Gasoline,Automatic,White,Black,None reported,Yes,59000,7,416.0,3.5,6.0
 Tesla,67647,Unknown,Automatic,Blue,Other,None reported,Yes,28000,10,422.0,,
 Lexus,915,Gasoline,Automatic,Blue,White,None reported,Yes,159000,4,471.0,5.0,8.0
@@ -1797,57 +1790,57 @@ GMC,112552,Gasoline,Automatic,Black,Black,Accident reported,Yes,24440,10,,5.3,
 BMW,127273,Gasoline,Manual,Silver,Black,None reported,Yes,15000,22,333.0,3.2,6.0
 Lexus,189887,Gasoline,Automatic,White,Other,Accident reported,Yes,3995,18,204.0,2.5,6.0
 BMW,76465,Gasoline,Automatic,White,Other,Accident reported,Yes,22500,13,315.0,3.0,6.0
-Mitsubishi,136400,Gasoline,Automatic,Red,Grey,Accident reported,Yes,6750,18,260.0,3.8,6.0
+Other,136400,Gasoline,Automatic,Red,Grey,Accident reported,Yes,6750,18,260.0,3.8,6.0
 Ford,79635,Gasoline,Automatic,Grey,Black,None reported,Yes,13500,21,280.0,3.9,8.0
 Tesla,4665,Unknown,Automatic,Silver,Black,None reported,Unknown,46598,3,,,
-Buick,170000,Gasoline,Automatic,Gold,Other,Accident reported,Yes,4000,14,288.0,3.6,6.0
+Other,170000,Gasoline,Automatic,Gold,Other,Accident reported,Yes,4000,14,288.0,3.6,6.0
 Ford,67650,Gasoline,Automatic,Blue,Grey,None reported,Yes,30000,7,375.0,3.5,6.0
 Lexus,119850,Gasoline,Automatic,White,Other,None reported,Yes,19000,9,268.0,3.5,6.0
 Acura,116500,Gasoline,Manual,Red,Black,None reported,Yes,15999,17,286.0,3.5,6.0
-Mercury,120644,Unknown,Manual,Green,Grey,None reported,Yes,4200,32,,,
+Other,120644,Unknown,Manual,Green,Grey,None reported,Yes,4200,32,,,
 Ford,169802,Gasoline,Automatic,White,Grey,None reported,Yes,9985,15,,2.0,
 BMW,36905,Gasoline,Unknown,Blue,Other,None reported,Yes,50000,4,382.0,3.0,6.0
 Jeep,8400,Gasoline,Automatic,Black,Black,Accident reported,Yes,47000,3,285.0,3.6,6.0
-Hummer,149961,Gasoline,Automatic,Other,Other,Accident reported,Yes,12500,22,316.0,6.0,8.0
+Other,149961,Gasoline,Automatic,Other,Other,Accident reported,Yes,12500,22,316.0,6.0,8.0
 Mercedes-Benz,84500,Gasoline,Automatic,White,Black,None reported,Yes,41500,11,451.0,6.2,8.0
-Lamborghini,3254,Gasoline,Automatic,Other,Other,None reported,Unknown,399900,9,,6.5,
+Other,3254,Gasoline,Automatic,Other,Other,None reported,Unknown,399900,9,,6.5,
 Mercedes-Benz,96000,Gasoline,Automatic,Blue,Brown,None reported,Yes,65000,9,416.0,4.0,8.0
 Nissan,88000,Gasoline,Unknown,White,White,Accident reported,Yes,57000,16,480.0,3.8,6.0
 Audi,35322,Gasoline,Manual,Black,Red,None reported,Unknown,94900,14,,4.2,
 Acura,32500,Gasoline,Automatic,White,Red,None reported,Yes,32000,5,206.0,2.4,4.0
 Audi,71280,Gasoline,Automatic,Silver,Black,None reported,Yes,22000,9,333.0,3.0,6.0
 Porsche,37200,Gasoline,Automatic,Black,Other,None reported,Yes,27500,14,300.0,3.6,6.0
-Saturn,94291,Gasoline,Automatic,White,Other,None reported,Yes,14500,17,260.0,2.0,4.0
+Other,94291,Gasoline,Automatic,White,Other,None reported,Yes,14500,17,260.0,2.0,4.0
 Maserati,54082,Gasoline,Unknown,Blue,Other,None reported,Yes,17000,19,390.0,4.2,8.0
 Volvo,7800,Hybrid,Automatic,Black,Other,None reported,Yes,66000,3,455.0,2.0,4.0
 Jeep,86250,Gasoline,Automatic,White,Black,None reported,Yes,22000,9,285.0,3.6,6.0
 BMW,75479,Gasoline,Unknown,Silver,Black,None reported,Yes,27899,9,445.0,4.4,8.0
 BMW,24650,Gasoline,Automatic,Silver,Black,None reported,Yes,50000,8,445.0,4.4,8.0
 Volkswagen,102750,Gasoline,Manual,Black,Black,None reported,Yes,20000,12,256.0,2.0,4.0
-Alfa,50000,Gasoline,Automatic,Brown,Brown,None reported,Yes,27500,7,280.0,2.0,4.0
+Other,50000,Gasoline,Automatic,Brown,Brown,None reported,Yes,27500,7,280.0,2.0,4.0
 BMW,72700,Gasoline,Automatic,Grey,Black,None reported,Yes,27499,8,300.0,3.0,6.0
 BMW,54293,Gasoline,Automatic,Black,Other,Accident reported,Yes,49000,7,567.0,4.4,8.0
 Lexus,16000,Gasoline,Automatic,Blue,Brown,Accident reported,Yes,30500,7,260.0,3.5,6.0
-Lamborghini,19500,Gasoline,Automatic,Green,Yellow,None reported,Yes,129000,19,493.0,5.0,10.0
+Other,19500,Gasoline,Automatic,Green,Other,None reported,Yes,129000,19,493.0,5.0,10.0
 BMW,71000,Gasoline,Unknown,White,Black,Accident reported,Yes,16700,11,240.0,2.0,4.0
 BMW,60000,Gasoline,Automatic,White,Other,None reported,Yes,36500,6,335.0,3.0,6.0
 Porsche,75539,Gasoline,Manual,Blue,Other,None reported,Yes,11995,27,201.0,2.5,6.0
-Alfa,36000,Gasoline,Automatic,White,Red,None reported,Yes,21000,8,280.0,2.0,4.0
+Other,36000,Gasoline,Automatic,White,Red,None reported,Yes,21000,8,280.0,2.0,4.0
 Mercedes-Benz,76422,Gasoline,Automatic,Black,Black,None reported,Unknown,28998,6,,,
 Nissan,42600,Gasoline,Automatic,Red,Black,Accident reported,Yes,31950,9,350.0,3.7,6.0
-Rivian,211,Unknown,Automatic,Blue,Black,None reported,Yes,99000,2,835.0,,
+Other,211,Unknown,Automatic,Blue,Black,None reported,Yes,99000,2,835.0,,
 Chevrolet,98888,Gasoline,Automatic,White,Black,Accident reported,Yes,29000,8,,6.0,8.0
 Ford,64532,Hybrid,Automatic,Silver,Grey,Accident reported,Yes,19395,6,188.0,2.0,4.0
 BMW,75500,Gasoline,Automatic,White,Black,None reported,Yes,12975,14,300.0,3.0,6.0
-Buick,32000,Gasoline,Automatic,Black,Other,None reported,Yes,27000,6,197.0,2.5,4.0
-Buick,47839,Gasoline,Automatic,White,Other,None reported,Yes,24991,6,,2.5,
+Other,32000,Gasoline,Automatic,Black,Other,None reported,Yes,27000,6,197.0,2.5,4.0
+Other,47839,Gasoline,Automatic,White,Other,None reported,Yes,24991,6,,2.5,
 Porsche,98413,Gasoline,Unknown,Green,Black,Accident reported,Yes,34900,12,420.0,4.8,8.0
 Audi,9628,Gasoline,Automatic,White,Black,None reported,Yes,78500,3,444.0,2.9,6.0
 Jaguar,15000,Gasoline,Automatic,Green,Other,None reported,Yes,16370,26,290.0,4.0,8.0
 Audi,6397,Gasoline,Automatic,Grey,Black,None reported,Unknown,172900,4,,5.2,
 Honda,22564,Gasoline,Automatic,White,Black,None reported,Unknown,44998,3,,,
 Lexus,110000,Gasoline,Unknown,White,Black,None reported,Yes,28000,10,270.0,3.5,6.0
-Mercedes-Benz,105,Diesel,Automatic,Black,Orange,None reported,Yes,200000,3,161.0,2.0,4.0
+Mercedes-Benz,105,Diesel,Automatic,Black,Other,None reported,Yes,200000,3,161.0,2.0,4.0
 Toyota,186117,Gasoline,Automatic,Black,Other,None reported,Yes,13000,21,245.0,4.0,6.0
 Jeep,103500,Gasoline,Manual,Yellow,Grey,None reported,Yes,12500,23,190.0,4.0,6.0
 Cadillac,8074,Gasoline,Automatic,Other,Black,None reported,Unknown,76700,6,,4.2,
@@ -1858,13 +1851,13 @@ Ford,205000,Gasoline,Automatic,Black,Grey,Accident reported,Yes,9950,25,310.0,6.
 Audi,22300,Gasoline,Automatic,Blue,Grey,None reported,Yes,38999,6,349.0,3.0,6.0
 Ford,104000,Gasoline,Automatic,Black,Black,Accident reported,Yes,19995,8,365.0,3.5,6.0
 Ford,13865,Gasoline,Automatic,Black,Other,None reported,Yes,29182,3,,1.5,
-BMW,15882,Gasoline,Automatic,Red,Silver,None reported,Yes,84995,3,503.0,3.0,6.0
+BMW,15882,Gasoline,Automatic,Red,Other,None reported,Yes,84995,3,503.0,3.0,6.0
 Land,12209,Gasoline,Automatic,Black,Black,None reported,Unknown,104900,3,,5.0,
 Mercedes-Benz,10483,Gasoline,Automatic,Grey,Black,None reported,Unknown,60998,4,,,
 Nissan,31150,Gasoline,Unknown,Orange,Black,None reported,Yes,113000,8,565.0,3.8,6.0
-Chrysler,44000,E85 Flex Fuel,Automatic,White,Black,Accident reported,Yes,12700,10,295.0,3.6,6.0
-Hummer,109000,Gasoline,Automatic,Other,Other,None reported,Yes,17500,22,316.0,6.0,8.0
-BMW,31350,Gasoline,Unknown,Grey,Orange,None reported,Yes,62450,5,425.0,3.0,6.0
+Other,44000,E85 Flex Fuel,Automatic,White,Black,Accident reported,Yes,12700,10,295.0,3.6,6.0
+Other,109000,Gasoline,Automatic,Other,Other,None reported,Yes,17500,22,316.0,6.0,8.0
+BMW,31350,Gasoline,Unknown,Grey,Other,None reported,Yes,62450,5,425.0,3.0,6.0
 Audi,30000,Hybrid,Automatic,Black,Black,None reported,Yes,62000,4,335.0,3.0,6.0
 Land,66500,Gasoline,Automatic,Silver,Black,None reported,Yes,19950,13,385.0,5.0,8.0
 Nissan,96600,Gasoline,Automatic,Other,Black,Accident reported,Yes,17000,13,261.0,4.0,6.0
@@ -1877,7 +1870,7 @@ Mercedes-Benz,23044,Hybrid,Automatic,Green,Black,None reported,Unknown,72598,5,,
 Porsche,132500,Gasoline,Manual,Black,Black,None reported,Yes,35000,17,325.0,3.6,6.0
 Dodge,256000,Gasoline,Automatic,Black,Grey,None reported,Yes,4000,19,,4.7,8.0
 Mercedes-Benz,31370,Gasoline,Unknown,White,Brown,None reported,Yes,65700,16,518.0,6.3,8.0
-Chrysler,67303,Gasoline,Automatic,Blue,Blue,None reported,Yes,4900,17,173.0,2.4,4.0
+Other,67303,Gasoline,Automatic,Blue,Blue,None reported,Yes,4900,17,173.0,2.4,4.0
 Chevrolet,12000,Gasoline,Automatic,Blue,Black,Accident reported,Yes,99900,4,490.0,6.2,8.0
 Ford,16500,Gasoline,Automatic,Blue,Grey,None reported,Yes,54000,2,275.0,2.3,4.0
 Toyota,28800,Gasoline,Manual,Other,Black,None reported,Unknown,42900,7,,3.5,
@@ -1908,7 +1901,7 @@ Dodge,78000,Gasoline,Unknown,White,Black,Accident reported,Yes,44700,7,475.0,6.4
 Lexus,134000,Gasoline,Automatic,Grey,Black,Accident reported,Yes,29995,12,383.0,5.7,8.0
 Kia,104994,Hybrid,Automatic,Black,Other,None reported,Yes,9000,12,199.0,2.4,4.0
 Bentley,31500,Gasoline,Automatic,Black,Other,None reported,Yes,103900,9,521.0,4.0,8.0
-Alfa,30000,Gasoline,Automatic,Black,Other,None reported,Yes,28900,5,280.0,2.0,4.0
+Other,30000,Gasoline,Automatic,Black,Other,None reported,Yes,28900,5,280.0,2.0,4.0
 Lexus,490,Gasoline,Automatic,Black,Black,None reported,Yes,124999,2,409.0,3.4,6.0
 Porsche,18000,Unknown,Automatic,Silver,Black,None reported,Yes,105000,5,616.0,,
 Toyota,67000,E85 Flex Fuel,Automatic,Silver,Grey,None reported,Yes,37999,8,381.0,5.7,8.0
@@ -1930,7 +1923,7 @@ Lexus,212000,Gasoline,Automatic,Grey,Black,Accident reported,Yes,9450,15,303.0,3
 GMC,73091,Diesel,Automatic,White,Black,Accident reported,Yes,58500,6,445.0,6.6,8.0
 Kia,9400,Hybrid,Automatic,Black,Black,None reported,Yes,31500,2,180.0,1.6,4.0
 Porsche,117697,Gasoline,Automatic,Black,Black,Accident reported,Yes,16975,11,300.0,3.6,6.0
-Mercedes-Benz,95428,Gasoline,Automatic,Silver,Silver,None reported,Yes,55000,10,621.0,6.0,12.0
+Mercedes-Benz,95428,Gasoline,Automatic,Silver,Other,None reported,Yes,55000,10,621.0,6.0,12.0
 Lexus,116300,Gasoline,Automatic,Grey,Other,None reported,Yes,31950,8,301.0,4.6,8.0
 Acura,56778,Hybrid,Automatic,Black,Black,None reported,Yes,41899,6,321.0,3.0,6.0
 Audi,5682,Hybrid,Automatic,Grey,Grey,None reported,Unknown,48698,2,,,
@@ -1974,7 +1967,7 @@ Jeep,98658,Gasoline,Automatic,White,Grey,None reported,Yes,14995,14,360.0,5.7,8.
 Volvo,97615,Gasoline,Automatic,Black,Grey,None reported,Yes,10500,16,281.0,3.0,6.0
 Porsche,36000,Gasoline,Automatic,Black,Other,None reported,Yes,37000,11,400.0,4.8,8.0
 Mazda,61874,Gasoline,Automatic,Black,Black,None reported,Yes,22389,4,,2.5,
-Chrysler,74582,E85 Flex Fuel,Automatic,Black,Other,None reported,Yes,8500,13,283.0,3.6,6.0
+Other,74582,E85 Flex Fuel,Automatic,Black,Other,None reported,Yes,8500,13,283.0,3.6,6.0
 INFINITI,51500,Gasoline,Automatic,Grey,Black,None reported,Yes,23900,12,325.0,3.7,6.0
 Toyota,193827,Gasoline,Automatic,Silver,Black,None reported,Yes,14950,18,239.0,4.0,6.0
 Chevrolet,53433,Gasoline,Automatic,Blue,Grey,None reported,Yes,36950,6,355.0,5.3,8.0
@@ -2021,8 +2014,8 @@ Dodge,10800,Gasoline,Manual,Silver,Black,None reported,Yes,65499,22,500.0,8.3,10
 RAM,10458,Gasoline,Automatic,Red,Black,None reported,Yes,48815,5,,5.7,
 BMW,84709,Gasoline,Automatic,Silver,Grey,None reported,Yes,13800,11,240.0,2.0,4.0
 Mercedes-Benz,33500,Gasoline,Automatic,Red,Black,None reported,Yes,45770,6,385.0,3.0,6.0
-BMW,98000,Gasoline,Unknown,Black,Orange,None reported,Yes,32999,10,425.0,3.0,6.0
-BMW,94653,Gasoline,Automatic,Green,Green,Accident reported,Yes,7300,17,360.0,4.8,8.0
+BMW,98000,Gasoline,Unknown,Black,Other,None reported,Yes,32999,10,425.0,3.0,6.0
+BMW,94653,Gasoline,Automatic,Green,Other,Accident reported,Yes,7300,17,360.0,4.8,8.0
 Ford,9281,Gasoline,Automatic,Black,Black,None reported,Yes,85000,2,440.0,3.5,6.0
 Chevrolet,11806,Gasoline,Automatic,White,Black,None reported,Yes,47000,2,310.0,3.6,6.0
 Mercedes-Benz,70015,Unknown,Automatic,Grey,Grey,None reported,Yes,22500,32,,,
@@ -2060,9 +2053,9 @@ Acura,116000,Gasoline,Manual,Silver,Black,Accident reported,Yes,9000,15,201.0,2.
 Chevrolet,42780,Gasoline,Unknown,Black,Black,Accident reported,Yes,41100,7,455.0,6.2,8.0
 BMW,39886,Gasoline,Unknown,Black,Red,Accident reported,Yes,26000,11,315.0,3.0,6.0
 Audi,151400,Gasoline,Unknown,Grey,Black,None reported,Yes,15400,11,333.0,3.0,6.0
-Alfa,48000,Gasoline,Automatic,Red,Black,None reported,Yes,20500,8,280.0,2.0,4.0
+Other,48000,Gasoline,Automatic,Red,Black,None reported,Yes,20500,8,280.0,2.0,4.0
 Toyota,8727,Gasoline,Automatic,Other,Black,None reported,Unknown,44596,2,,2.4,
-Rolls-Royce,79000,Gasoline,Automatic,Black,White,Accident reported,Yes,80300,14,563.0,6.6,12.0
+Other,79000,Gasoline,Automatic,Black,White,Accident reported,Yes,80300,14,563.0,6.6,12.0
 Dodge,54000,Gasoline,Automatic,Grey,Black,None reported,Yes,34000,5,372.0,5.7,8.0
 Porsche,110000,Gasoline,Automatic,White,White,Accident reported,Yes,25900,9,300.0,3.6,6.0
 Chevrolet,49688,Unknown,Automatic,Blue,Grey,None reported,Yes,24900,5,200.0,,
@@ -2072,7 +2065,7 @@ Chevrolet,11597,Gasoline,Automatic,Silver,Black,None reported,Unknown,68590,3,,6
 Mercedes-Benz,86101,Gasoline,Automatic,Grey,Red,Accident reported,Yes,72777,8,577.0,5.5,8.0
 Chevrolet,58816,Gasoline,Automatic,Black,Black,None reported,Unknown,36590,8,,5.3,
 Lexus,77856,Gasoline,Automatic,Silver,Black,None reported,Yes,30919,9,,3.5,
-Lamborghini,20069,Gasoline,Automatic,Other,Other,None reported,Unknown,229900,4,,4.0,
+Other,20069,Gasoline,Automatic,Other,Other,None reported,Unknown,229900,4,,4.0,
 GMC,115282,Gasoline,Automatic,Red,Other,Accident reported,Yes,12433,10,,3.6,
 Porsche,30700,Gasoline,Automatic,White,Black,None reported,Yes,138999,9,475.0,3.8,6.0
 MINI,103726,Gasoline,Manual,Red,Grey,Accident reported,Yes,5995,22,115.0,1.6,4.0
@@ -2081,7 +2074,7 @@ Toyota,79500,Gasoline,Automatic,White,Black,None reported,Yes,33333,6,270.0,4.0,
 Toyota,165520,Gasoline,Automatic,Grey,Grey,Accident reported,Yes,9000,17,270.0,3.5,6.0
 BMW,92000,Gasoline,Unknown,Black,Black,Accident reported,Yes,24000,11,445.0,4.4,8.0
 Hyundai,1500,Gasoline,Unknown,Green,Black,None reported,Yes,55000,2,291.0,3.8,6.0
-Pontiac,38100,Gasoline,Manual,Orange,Black,None reported,Yes,19950,17,260.0,2.0,4.0
+Other,38100,Gasoline,Manual,Orange,Black,None reported,Yes,19950,17,260.0,2.0,4.0
 Land,42125,Gasoline,Unknown,White,Black,None reported,Yes,38999,7,237.0,2.0,4.0
 Porsche,86818,Diesel,Unknown,Silver,Black,None reported,Yes,33500,11,240.0,3.0,6.0
 BMW,3490,Gasoline,Automatic,Grey,Black,None reported,Yes,95580,2,503.0,3.0,6.0
@@ -2100,7 +2093,7 @@ Ford,33705,Gasoline,Automatic,White,Other,Accident reported,Yes,36995,4,,2.3,
 Land,63300,Gasoline,Automatic,White,Brown,None reported,Yes,31000,9,340.0,3.0,6.0
 Acura,4700,Gasoline,Automatic,Red,Black,None reported,Yes,52000,2,355.0,3.0,6.0
 Toyota,27256,Gasoline,Unknown,Black,Black,None reported,Unknown,42998,5,,,
-Hummer,107481,Gasoline,Automatic,White,Black,None reported,Yes,13500,15,239.0,3.7,5.0
+Other,107481,Gasoline,Automatic,White,Black,None reported,Yes,13500,15,239.0,3.7,5.0
 Tesla,61700,Unknown,Automatic,White,Black,None reported,Yes,25900,7,271.0,,
 Volvo,94000,Unknown,Automatic,White,Black,None reported,Yes,4500,30,,,
 Jeep,128000,Gasoline,Automatic,Grey,Black,None reported,Yes,26800,8,285.0,3.6,6.0
@@ -2108,9 +2101,9 @@ Chevrolet,26000,Gasoline,Automatic,White,Black,None reported,Yes,39000,7,455.0,6
 Audi,74000,Gasoline,Automatic,Blue,Grey,None reported,Yes,29950,10,420.0,4.0,8.0
 Audi,54900,Gasoline,Manual,White,Brown,Unknown,Unknown,28900,13,360.0,2.5,5.0
 INFINITI,141775,Gasoline,Unknown,White,Other,None reported,Yes,11500,13,400.0,5.6,8.0
-Volkswagen,63250,Gasoline,Automatic,Yellow,Yellow,None reported,Yes,12000,24,115.0,2.0,4.0
+Volkswagen,63250,Gasoline,Automatic,Yellow,Other,None reported,Yes,12000,24,115.0,2.0,4.0
 Audi,13895,Hybrid,Automatic,Grey,Black,None reported,Unknown,44998,3,,,
-Lamborghini,10654,Gasoline,Automatic,White,Other,None reported,Unknown,449991,8,,6.5,
+Other,10654,Gasoline,Automatic,White,Other,None reported,Unknown,449991,8,,6.5,
 Ford,35900,E85 Flex Fuel,Unknown,Blue,Grey,Accident reported,Yes,27900,11,385.0,6.2,8.0
 GMC,48306,Gasoline,Automatic,White,Black,Accident reported,Yes,71999,3,,6.2,
 Audi,125000,Gasoline,Automatic,Black,Black,None reported,Yes,10500,13,211.0,2.0,4.0
@@ -2129,7 +2122,7 @@ Audi,96238,Gasoline,Unknown,Black,Black,Accident reported,Yes,22500,11,420.0,4.0
 Subaru,12700,Gasoline,Automatic,White,Other,None reported,Yes,38500,3,260.0,2.4,4.0
 Chevrolet,244000,E85 Flex Fuel,Automatic,Grey,Grey,None reported,Yes,16900,18,320.0,5.3,8.0
 Porsche,124000,Gasoline,Automatic,White,Other,None reported,Yes,25000,10,420.0,3.6,6.0
-BMW,123000,Gasoline,Automatic,Purple,Black,None reported,Yes,15000,16,300.0,3.0,6.0
+BMW,123000,Gasoline,Automatic,Other,Black,None reported,Yes,15000,16,300.0,3.0,6.0
 GMC,24900,Gasoline,Automatic,Black,Black,None reported,Yes,49900,3,310.0,2.7,4.0
 Ford,95500,Gasoline,Unknown,Black,Black,None reported,Yes,20000,9,365.0,3.5,6.0
 Cadillac,4283,Gasoline,Automatic,Black,Other,None reported,Yes,479995,4,,6.2,
@@ -2139,7 +2132,7 @@ Nissan,183000,Gasoline,Automatic,Black,Grey,Accident reported,Yes,12000,14,261.0
 Ford,126225,Hybrid,Automatic,Silver,Black,Accident reported,Yes,11500,12,188.0,2.0,4.0
 Volkswagen,87892,Gasoline,Manual,Grey,Black,None reported,Yes,16000,9,210.0,2.0,4.0
 Cadillac,45000,Gasoline,Automatic,Red,Black,None reported,Yes,41500,13,556.0,6.2,8.0
-Aston,1023,Gasoline,Automatic,Blue,Brown,None reported,Yes,156900,3,503.0,4.0,8.0
+Other,1023,Gasoline,Automatic,Blue,Brown,None reported,Yes,156900,3,503.0,4.0,8.0
 Lexus,106000,Gasoline,Automatic,Black,Other,None reported,Yes,37500,10,301.0,4.6,8.0
 GMC,51300,Gasoline,Automatic,Black,Black,Accident reported,Yes,25500,6,193.0,2.5,4.0
 Ford,30176,Gasoline,Automatic,Black,Other,None reported,Yes,28979,4,,1.5,
@@ -2152,12 +2145,12 @@ Cadillac,152068,E85 Flex Fuel,Automatic,White,Black,Accident reported,Yes,12350,
 BMW,77000,Gasoline,Unknown,White,Red,Accident reported,Yes,26999,9,240.0,2.0,4.0
 Ford,26000,Gasoline,Manual,Grey,Black,None reported,Yes,37000,8,350.0,2.3,4.0
 Lexus,131200,Hybrid,Automatic,Brown,Brown,None reported,Yes,14000,11,134.0,1.8,4.0
-Buick,83280,Gasoline,Automatic,Silver,Other,None reported,Unknown,20599,8,,3.6,
+Other,83280,Gasoline,Automatic,Silver,Other,None reported,Unknown,20599,8,,3.6,
 BMW,59000,Gasoline,Manual,Grey,Black,None reported,Yes,53500,10,425.0,3.0,6.0
 Volkswagen,15500,Gasoline,Automatic,Silver,Black,None reported,Yes,30000,5,268.0,2.0,4.0
 BMW,90000,Gasoline,Automatic,White,Red,None reported,Yes,19950,12,300.0,3.0,6.0
 INFINITI,94000,Gasoline,Unknown,White,Grey,Accident reported,Yes,10995,19,280.0,3.5,6.0
-Hummer,63750,Gasoline,Automatic,White,Black,Accident reported,Yes,55000,17,393.0,6.2,8.0
+Other,63750,Gasoline,Automatic,White,Black,Accident reported,Yes,55000,17,393.0,6.2,8.0
 Mercedes-Benz,95500,Gasoline,Automatic,Black,Other,Accident reported,Yes,15990,14,228.0,3.0,6.0
 Acura,37900,Gasoline,Automatic,White,Black,None reported,Yes,26000,6,201.0,2.4,4.0
 Porsche,13250,Gasoline,Automatic,Brown,Grey,None reported,Yes,154900,10,475.0,3.8,6.0
@@ -2183,12 +2176,12 @@ Ford,124000,E85 Flex Fuel,Automatic,White,Grey,None reported,Yes,40100,6,385.0,6
 Tesla,12080,Unknown,Automatic,Black,Black,None reported,Yes,36750,3,271.0,,
 Lexus,39300,Gasoline,Unknown,Black,Black,None reported,Yes,69500,7,383.0,5.7,8.0
 INFINITI,51000,Gasoline,Automatic,Grey,Other,Accident reported,Yes,29000,6,295.0,3.5,6.0
-Rivian,250,Unknown,Automatic,Green,Black,Unknown,Unknown,97500,2,835.0,,
+Other,250,Unknown,Automatic,Green,Black,Unknown,Unknown,97500,2,835.0,,
 Land,67000,Gasoline,Automatic,Grey,Other,None reported,Yes,35999,8,340.0,3.0,6.0
 INFINITI,95400,Gasoline,Automatic,White,Other,Unknown,Unknown,14195,11,265.0,3.5,6.0
 Hyundai,136991,Gasoline,Automatic,Grey,Grey,None reported,Yes,11000,12,198.0,2.4,4.0
 Toyota,3959,Gasoline,Automatic,Blue,Grey,None reported,Yes,55000,3,389.0,3.4,6.0
-Jeep,47500,Gasoline,Automatic,Purple,Black,None reported,Yes,31000,5,293.0,3.6,6.0
+Jeep,47500,Gasoline,Automatic,Other,Black,None reported,Yes,31000,5,293.0,3.6,6.0
 Ford,176691,Diesel,Automatic,White,Other,Accident reported,Yes,13000,20,325.0,6.0,8.0
 Tesla,33000,Unknown,Automatic,Red,White,None reported,Yes,55000,4,455.0,,
 Mercedes-Benz,34600,Gasoline,Unknown,Black,Black,None reported,Yes,27500,11,402.0,4.7,8.0
@@ -2204,9 +2197,9 @@ Hyundai,96476,Gasoline,Automatic,White,Grey,None reported,Yes,13000,10,290.0,3.3
 Volkswagen,36311,Gasoline,Automatic,Black,Black,None reported,Yes,39127,4,,3.6,
 Land,56842,Gasoline,Unknown,Silver,Black,None reported,Yes,35000,9,510.0,5.0,8.0
 Nissan,23677,Gasoline,Automatic,Other,Other,None reported,Unknown,29510,4,,3.5,
-Buick,27340,Gasoline,Automatic,White,Other,None reported,Unknown,31700,5,,2.5,
+Other,27340,Gasoline,Automatic,White,Other,None reported,Unknown,31700,5,,2.5,
 Chevrolet,26177,Gasoline,Automatic,Grey,Black,Unknown,Unknown,41986,5,,5.3,
-Pontiac,122348,Gasoline,Automatic,Red,Black,Accident reported,Yes,10000,16,260.0,2.0,4.0
+Other,122348,Gasoline,Automatic,Red,Black,Accident reported,Yes,10000,16,260.0,2.0,4.0
 BMW,98000,Gasoline,Unknown,Black,Other,None reported,Yes,22500,10,315.0,3.0,6.0
 Tesla,32300,Unknown,Automatic,Black,Black,None reported,Yes,29000,6,,,
 MINI,18997,Gasoline,Unknown,Red,Black,None reported,Yes,26750,6,189.0,2.0,4.0
@@ -2220,19 +2213,19 @@ INFINITI,63496,Gasoline,Manual,Black,Black,None reported,Yes,15000,17,330.0,3.7,
 Ford,18465,Gasoline,Automatic,Black,Grey,None reported,Yes,47500,3,400.0,3.5,6.0
 Porsche,42635,Gasoline,Unknown,Blue,Blue,None reported,Yes,72995,18,355.0,3.8,6.0
 INFINITI,99000,Gasoline,Manual,Silver,Black,None reported,Yes,18900,20,298.0,3.5,6.0
-Chrysler,87500,Gasoline,Automatic,White,Other,None reported,Yes,13750,12,292.0,3.6,6.0
+Other,87500,Gasoline,Automatic,White,Other,None reported,Yes,13750,12,292.0,3.6,6.0
 Toyota,138000,Gasoline,Automatic,White,Other,None reported,Yes,6800,18,210.0,3.3,6.0
 Lexus,70891,Gasoline,Unknown,White,Black,None reported,Yes,28995,7,260.0,3.5,6.0
-Buick,55403,Gasoline,Automatic,Red,Grey,Accident reported,Yes,29444,5,310.0,3.6,6.0
+Other,55403,Gasoline,Automatic,Red,Grey,Accident reported,Yes,29444,5,310.0,3.6,6.0
 BMW,3213,Gasoline,Automatic,Black,Red,None reported,Yes,89995,3,503.0,3.0,6.0
-Pontiac,142314,Gasoline,Manual,Red,Red,Accident reported,Yes,21999,20,400.0,6.0,8.0
+Other,142314,Gasoline,Manual,Red,Red,Accident reported,Yes,21999,20,400.0,6.0,8.0
 Toyota,53000,Gasoline,Automatic,Blue,Black,None reported,Yes,36740,12,260.0,4.0,6.0
 Hyundai,120250,Gasoline,Automatic,Blue,Grey,None reported,Yes,7500,11,145.0,1.8,4.0
 Porsche,72329,Gasoline,Automatic,Silver,Black,None reported,Yes,29500,10,340.0,3.0,6.0
-Hummer,153692,Gasoline,Automatic,Other,Black,None reported,Yes,9995,18,242.0,3.7,5.0
+Other,153692,Gasoline,Automatic,Other,Black,None reported,Yes,9995,18,242.0,3.7,5.0
 Tesla,32670,Unknown,Automatic,White,Black,None reported,Yes,37000,4,,,
 Ford,235000,Gasoline,Automatic,White,Grey,Unknown,Unknown,18000,7,275.0,3.7,6.0
-Rivian,8681,Unknown,Automatic,Grey,Black,None reported,Yes,82000,3,835.0,,
+Other,8681,Unknown,Automatic,Grey,Black,None reported,Yes,82000,3,835.0,,
 Audi,98400,Gasoline,Automatic,White,White,None reported,Yes,18000,13,333.0,3.0,6.0
 Toyota,1400,Gasoline,Automatic,White,Black,None reported,Yes,46500,2,270.0,4.0,6.0
 Tesla,32000,Unknown,Automatic,Black,Black,None reported,Yes,29999,7,271.0,,
@@ -2259,10 +2252,10 @@ BMW,17900,Gasoline,Unknown,Black,Black,None reported,Yes,59900,10,560.0,4.4,8.0
 GMC,142792,Gasoline,Automatic,White,Brown,None reported,Yes,22999,10,355.0,5.3,8.0
 BMW,53814,Gasoline,Automatic,Grey,Grey,Unknown,Unknown,11800,24,326.0,5.4,12.0
 Toyota,89400,Gasoline,Automatic,White,Grey,None reported,Yes,26900,15,381.0,5.7,8.0
-Chrysler,86000,Gasoline,Automatic,Grey,Black,None reported,Yes,15000,18,340.0,5.7,8.0
-smart,61595,Gasoline,Automatic,Blue,Grey,None reported,Yes,5000,17,70.0,1.0,3.0
+Other,86000,Gasoline,Automatic,Grey,Black,None reported,Yes,15000,18,340.0,5.7,8.0
+Other,61595,Gasoline,Automatic,Blue,Grey,None reported,Yes,5000,17,70.0,1.0,3.0
 Toyota,74000,E85 Flex Fuel,Automatic,Other,Black,Accident reported,Yes,38000,7,381.0,5.7,8.0
-Hummer,130000,Gasoline,Automatic,Black,Black,Accident reported,Yes,16500,21,316.0,6.0,8.0
+Other,130000,Gasoline,Automatic,Black,Black,Accident reported,Yes,16500,21,316.0,6.0,8.0
 BMW,86000,Gasoline,Automatic,Black,White,Accident reported,Yes,29000,10,540.0,4.4,8.0
 Land,140600,Gasoline,Automatic,Red,Other,None reported,Yes,7500,17,390.0,4.2,8.0
 Audi,27532,Gasoline,Automatic,Grey,Black,None reported,Yes,27900,7,252.0,2.0,4.0
@@ -2273,7 +2266,7 @@ Mercedes-Benz,75073,E85 Flex Fuel,Automatic,Grey,Black,None reported,Yes,21500,1
 Jeep,140000,Gasoline,Automatic,Silver,Other,Accident reported,Yes,9000,17,202.0,3.8,6.0
 Mercedes-Benz,30300,Gasoline,Automatic,Silver,Black,None reported,Yes,30500,6,188.0,2.0,4.0
 Chevrolet,139000,Gasoline,Automatic,White,Black,None reported,Yes,4200,16,169.0,2.4,4.0
-Hummer,118000,Gasoline,Automatic,Grey,Black,None reported,Yes,17900,19,220.0,3.5,5.0
+Other,118000,Gasoline,Automatic,Grey,Black,None reported,Yes,17900,19,220.0,3.5,5.0
 BMW,51000,Hybrid,Unknown,Grey,Brown,None reported,Yes,53000,10,357.0,1.5,3.0
 Cadillac,69423,Gasoline,Automatic,Red,Other,None reported,Yes,36500,16,320.0,4.6,8.0
 Lincoln,52284,Gasoline,Automatic,Blue,Other,Accident reported,Yes,12500,8,240.0,2.0,4.0
@@ -2325,19 +2318,19 @@ Tesla,17500,Unknown,Automatic,Grey,White,None reported,Yes,45000,4,455.0,,
 Lexus,132000,Gasoline,Automatic,Black,Other,None reported,Yes,9999,14,272.0,3.5,6.0
 Jeep,67882,Gasoline,Automatic,White,Black,None reported,Unknown,32798,9,,,
 Volvo,62000,Gasoline,Automatic,Silver,Black,None reported,Yes,30500,7,316.0,2.0,4.0
-Porsche,12454,Gasoline,Manual,Purple,Black,None reported,Yes,210000,9,500.0,4.0,6.0
+Porsche,12454,Gasoline,Manual,Other,Black,None reported,Yes,210000,9,500.0,4.0,6.0
 BMW,27965,Gasoline,Automatic,Green,Black,None reported,Yes,58000,8,560.0,4.4,8.0
 Cadillac,119000,E85 Flex Fuel,Automatic,Black,Black,Unknown,Unknown,20500,12,403.0,6.2,8.0
 BMW,48000,Gasoline,Automatic,Black,Black,None reported,Yes,32000,7,300.0,3.0,6.0
 BMW,5541,Gasoline,Automatic,White,Black,None reported,Unknown,56598,5,,,
-Mitsubishi,29000,Gasoline,Automatic,Red,Other,None reported,Yes,19500,7,166.0,2.4,4.0
+Other,29000,Gasoline,Automatic,Red,Other,None reported,Yes,19500,7,166.0,2.4,4.0
 Dodge,131100,E85 Flex Fuel,Automatic,White,Grey,Accident reported,Yes,12995,15,310.0,4.7,8.0
 Subaru,102242,Gasoline,Manual,Blue,Black,Accident reported,Unknown,11498,10,,2.0,
 Mercedes-Benz,18069,Gasoline,Automatic,Black,Black,None reported,Yes,79999,9,523.0,6.0,12.0
 Kia,13000,Gasoline,Automatic,White,Black,None reported,Yes,31900,2,187.0,2.5,4.0
 Porsche,51000,Gasoline,Unknown,Silver,Black,Accident reported,Yes,69500,17,480.0,3.6,6.0
-Hummer,137333,Gasoline,Automatic,Blue,Black,Accident reported,Yes,10000,18,242.0,3.7,5.0
-Buick,125559,Gasoline,Automatic,White,Other,Accident reported,Yes,11200,11,304.0,3.6,6.0
+Other,137333,Gasoline,Automatic,Blue,Black,Accident reported,Yes,10000,18,242.0,3.7,5.0
+Other,125559,Gasoline,Automatic,White,Other,Accident reported,Yes,11200,11,304.0,3.6,6.0
 Chevrolet,88161,Gasoline,Automatic,Other,Black,Accident reported,Yes,48889,5,,6.2,
 Toyota,101900,Gasoline,Automatic,Black,Black,None reported,Yes,29000,9,270.0,4.0,6.0
 Cadillac,159500,Gasoline,Automatic,Black,Black,Accident reported,Yes,18800,10,420.0,6.2,8.0
@@ -2372,7 +2365,7 @@ Chevrolet,25462,Gasoline,Automatic,Grey,Black,None reported,Unknown,36139,6,,3.6
 Audi,35850,Gasoline,Automatic,White,Black,None reported,Yes,33000,7,252.0,2.0,4.0
 Mazda,77700,Gasoline,Manual,Red,Black,None reported,Yes,6300,17,156.0,2.3,4.0
 Jaguar,23600,Hybrid,Automatic,Black,Black,None reported,Yes,42999,4,296.0,2.0,4.0
-Ferrari,8870,Gasoline,Automatic,Other,Other,None reported,Yes,215000,6,,3.9,
+Other,8870,Gasoline,Automatic,Other,Other,None reported,Yes,215000,6,,3.9,
 Toyota,122000,Gasoline,Manual,Blue,Grey,None reported,Yes,7800,24,140.0,1.8,4.0
 Ford,245000,Diesel,Automatic,Black,Other,Accident reported,Yes,17999,22,325.0,6.0,8.0
 Porsche,4700,Gasoline,Manual,White,Black,None reported,Yes,134000,3,414.0,4.0,6.0
@@ -2382,7 +2375,7 @@ Tesla,10065,Unknown,Automatic,Red,White,None reported,Unknown,59999,7,,,
 Mercedes-Benz,3811,Gasoline,Automatic,Black,Black,None reported,Yes,148500,7,577.0,4.0,8.0
 Acura,44457,Gasoline,Unknown,Black,Other,None reported,Unknown,40598,4,,,
 Audi,139355,Gasoline,Automatic,Black,Black,None reported,Yes,20900,12,333.0,3.0,6.0
-Lotus,9100,Gasoline,Manual,Black,White,None reported,Yes,55000,15,276.0,3.5,6.0
+Other,9100,Gasoline,Manual,Black,White,None reported,Yes,55000,15,276.0,3.5,6.0
 Mercedes-Benz,10500,Gasoline,Automatic,Silver,Brown,None reported,Yes,77900,6,463.0,4.0,8.0
 Chevrolet,5006,Gasoline,Automatic,Other,Black,None reported,Unknown,59590,2,,5.3,
 Hyundai,55000,Gasoline,Manual,White,Red,Unknown,Unknown,18000,12,260.0,2.0,4.0
@@ -2396,7 +2389,7 @@ Acura,6523,Hybrid,Automatic,White,Other,None reported,Unknown,143900,7,,3.5,
 Mercedes-Benz,127000,Gasoline,Automatic,White,Other,None reported,Yes,14000,20,302.0,5.0,8.0
 Lexus,89500,Gasoline,Automatic,Black,Black,None reported,Yes,15999,23,300.0,4.3,8.0
 Chevrolet,97000,Gasoline,Automatic,White,Grey,None reported,Yes,27500,25,200.0,4.3,6.0
-Buick,31181,Gasoline,Automatic,Other,Other,Accident reported,Yes,42442,4,,3.6,
+Other,31181,Gasoline,Automatic,Other,Other,Accident reported,Yes,42442,4,,3.6,
 Lexus,16425,Hybrid,Automatic,Grey,Black,Accident reported,Unknown,33200,5,,2.5,
 Lexus,11238,Gasoline,Automatic,Silver,Black,None reported,Unknown,54798,3,,,
 Chevrolet,97146,E85 Flex Fuel,Unknown,Black,Grey,Accident reported,Yes,7999,20,295.0,5.3,8.0
@@ -2406,8 +2399,8 @@ Ford,150000,Gasoline,Automatic,Black,Grey,Accident reported,Yes,17100,10,310.0,3
 INFINITI,38400,Gasoline,Automatic,Blue,Other,None reported,Yes,32100,5,295.0,3.5,6.0
 Bentley,7960,Gasoline,Automatic,White,White,None reported,Yes,81500,17,552.0,6.0,12.0
 Nissan,117000,Gasoline,Automatic,Silver,Black,Accident reported,Yes,9975,18,306.0,3.5,6.0
-Rivian,159,Unknown,Automatic,White,Black,None reported,Yes,95500,2,533.0,,
-McLaren,30200,Gasoline,Unknown,Orange,Black,None reported,Yes,139000,8,562.0,3.8,8.0
+Other,159,Unknown,Automatic,White,Black,None reported,Yes,95500,2,533.0,,
+Other,30200,Gasoline,Unknown,Orange,Black,None reported,Yes,139000,8,562.0,3.8,8.0
 Nissan,91545,Gasoline,Automatic,Silver,Black,None reported,Yes,8999,13,175.0,2.5,4.0
 Land,110000,E85 Flex Fuel,Automatic,Black,Other,Accident reported,Yes,26499,10,510.0,5.0,8.0
 BMW,105100,Gasoline,Automatic,Grey,Black,Accident reported,Yes,23300,8,300.0,3.0,6.0
@@ -2416,9 +2409,9 @@ Ford,81778,Gasoline,Automatic,Black,Grey,None reported,Yes,32769,6,,3.5,
 Lexus,168422,Hybrid,Automatic,Black,Other,Accident reported,Yes,10900,15,245.0,3.5,6.0
 Maserati,80500,Gasoline,Automatic,Black,Black,None reported,Yes,34900,7,424.0,3.0,6.0
 Volvo,81200,Gasoline,Automatic,Black,Black,Accident reported,Yes,28825,7,316.0,2.0,4.0
-Lamborghini,6246,Gasoline,Automatic,Other,Other,None reported,Yes,267950,5,,5.2,
+Other,6246,Gasoline,Automatic,Other,Other,None reported,Yes,267950,5,,5.2,
 Jeep,20172,Gasoline,Unknown,Grey,Black,None reported,Yes,47500,8,285.0,3.6,6.0
-Hummer,145000,Gasoline,Automatic,Green,Black,None reported,Yes,22500,20,325.0,6.0,8.0
+Other,145000,Gasoline,Automatic,Green,Black,None reported,Yes,22500,20,325.0,6.0,8.0
 Ford,162000,Gasoline,Automatic,Grey,Black,Accident reported,Yes,7500,16,262.0,3.5,6.0
 Porsche,13554,Gasoline,Manual,Blue,Black,None reported,Yes,124995,5,414.0,4.0,6.0
 Toyota,59700,Gasoline,Automatic,Green,Grey,None reported,Yes,9500,18,268.0,3.5,6.0
@@ -2461,23 +2454,23 @@ Land,50340,Gasoline,Automatic,White,Other,Accident reported,Yes,47000,8,380.0,3.
 Mercedes-Benz,67800,Gasoline,Automatic,Black,Black,None reported,Yes,13999,15,268.0,3.5,6.0
 Dodge,150000,Gasoline,Manual,Black,Grey,Accident reported,Yes,5500,23,175.0,3.9,6.0
 Chevrolet,13500,Gasoline,Manual,Black,Black,Accident reported,Yes,54000,7,650.0,6.2,8.0
-Hummer,101750,Gasoline,Automatic,White,Black,None reported,Yes,12900,18,242.0,3.7,5.0
+Other,101750,Gasoline,Automatic,White,Black,None reported,Yes,12900,18,242.0,3.7,5.0
 Honda,18385,Gasoline,Automatic,Red,Other,None reported,Yes,37950,3,280.0,3.5,6.0
 Nissan,123500,Gasoline,Automatic,Grey,Other,Accident reported,Yes,13500,17,306.0,3.5,6.0
-GMC,117000,E85 Flex Fuel,Automatic,Silver,Silver,None reported,Yes,38000,8,342.0,6.0,8.0
+GMC,117000,E85 Flex Fuel,Automatic,Silver,Other,None reported,Yes,38000,8,342.0,6.0,8.0
 Mercedes-Benz,86121,Gasoline,Automatic,Grey,Black,None reported,Yes,13600,15,268.0,3.5,6.0
 Lexus,22466,Gasoline,Automatic,White,Black,None reported,Yes,45900,5,301.0,4.6,8.0
 Nissan,80000,Gasoline,Automatic,Silver,Black,None reported,Yes,23800,8,390.0,5.6,8.0
-Chrysler,23152,Gasoline,Automatic,White,White,None reported,Yes,28250,5,292.0,3.6,6.0
+Other,23152,Gasoline,Automatic,White,White,None reported,Yes,28250,5,292.0,3.6,6.0
 Dodge,91300,Gasoline,Automatic,Yellow,Other,None reported,Yes,9200,19,350.0,5.7,8.0
 Nissan,45000,Gasoline,Automatic,Black,Black,None reported,Yes,28999,5,284.0,3.5,6.0
-Rivian,1885,Unknown,Automatic,Green,White,None reported,Yes,93500,2,835.0,,
+Other,1885,Unknown,Automatic,Green,White,None reported,Yes,93500,2,835.0,,
 Ford,73049,Gasoline,Automatic,Grey,Black,Accident reported,Yes,30510,7,,3.5,
 Nissan,7250,Gasoline,Automatic,Black,Black,None reported,Yes,38000,4,400.0,5.6,8.0
 Jaguar,44000,Gasoline,Automatic,Black,Black,None reported,Yes,29000,6,246.0,2.0,4.0
 Ford,85500,Gasoline,Unknown,Black,Black,None reported,Yes,26900,11,411.0,6.2,8.0
 GMC,18083,Gasoline,Automatic,Other,Black,None reported,Yes,43999,4,,3.6,
-Lamborghini,22703,Gasoline,Manual,Black,Black,None reported,Yes,220000,20,571.0,6.2,12.0
+Other,22703,Gasoline,Manual,Black,Black,None reported,Yes,220000,20,571.0,6.2,12.0
 Chevrolet,111000,Gasoline,Automatic,Blue,Black,None reported,Yes,10900,14,312.0,3.6,6.0
 GMC,115000,Gasoline,Automatic,White,Brown,None reported,Yes,14000,12,288.0,3.6,6.0
 Chevrolet,33400,Gasoline,Automatic,White,Black,None reported,Yes,28000,4,250.0,2.0,4.0
@@ -2485,9 +2478,9 @@ Toyota,136000,Gasoline,Automatic,Black,Other,None reported,Yes,12500,18,273.0,4.
 Lexus,26800,Gasoline,Automatic,Black,Red,None reported,Yes,44000,4,311.0,3.5,6.0
 Tesla,30000,Unknown,Automatic,White,White,None reported,Yes,51999,3,455.0,,
 Dodge,251634,Gasoline,Automatic,Silver,Black,None reported,Yes,10500,17,425.0,6.1,8.0
-Chrysler,119000,Gasoline,Automatic,Blue,Other,None reported,Yes,3500,20,250.0,3.5,6.0
+Other,119000,Gasoline,Automatic,Blue,Other,None reported,Yes,3500,20,250.0,3.5,6.0
 Cadillac,28121,Gasoline,Automatic,Black,Black,None reported,Unknown,89000,4,,6.2,
-Chrysler,111000,Gasoline,Automatic,Blue,Grey,None reported,Yes,7900,16,197.0,3.8,6.0
+Other,111000,Gasoline,Automatic,Blue,Grey,None reported,Yes,7900,16,197.0,3.8,6.0
 Mazda,116500,Gasoline,Automatic,Blue,Black,None reported,Yes,14311,9,,2.5,
 Acura,199296,Gasoline,Automatic,Black,Grey,None reported,Yes,4900,20,270.0,3.2,6.0
 Chevrolet,202,Gasoline,Unknown,White,Red,None reported,Yes,179000,2,670.0,5.5,8.0
@@ -2496,12 +2489,12 @@ Volvo,56536,Gasoline,Automatic,White,Other,None reported,Unknown,26599,5,,2.0,
 Chevrolet,49600,Gasoline,Automatic,Blue,Black,None reported,Yes,32500,9,455.0,6.2,8.0
 Acura,13600,Gasoline,Automatic,Blue,White,None reported,Yes,65000,2,355.0,3.0,6.0
 Volkswagen,59700,Gasoline,Automatic,Blue,White,None reported,Yes,10000,18,200.0,2.0,4.0
-Dodge,19000,Gasoline,Unknown,Purple,Grey,None reported,Yes,44888,7,485.0,6.4,8.0
+Dodge,19000,Gasoline,Unknown,Other,Grey,None reported,Yes,44888,7,485.0,6.4,8.0
 Chevrolet,17300,Gasoline,Manual,Black,Black,None reported,Yes,33999,23,405.0,5.7,8.0
 Mercedes-Benz,91140,Gasoline,Automatic,Grey,Black,None reported,Yes,13500,11,208.0,2.0,4.0
 BMW,33000,Gasoline,Automatic,Grey,Black,None reported,Yes,65000,10,560.0,4.4,8.0
 Jeep,52775,Gasoline,Automatic,Grey,Black,None reported,Yes,39799,6,285.0,3.6,6.0
-Mitsubishi,113000,Gasoline,Manual,White,Black,None reported,Yes,5800,14,148.0,2.0,4.0
+Other,113000,Gasoline,Manual,White,Black,None reported,Yes,5800,14,148.0,2.0,4.0
 Porsche,13000,Gasoline,Automatic,Black,Other,None reported,Yes,60000,3,261.0,2.0,4.0
 Mercedes-Benz,77925,Gasoline,Unknown,Silver,Black,None reported,Yes,16500,16,268.0,3.5,6.0
 Dodge,106500,Unknown,Automatic,White,White,Accident reported,Yes,22500,14,,,
@@ -2512,29 +2505,29 @@ Land,49208,Gasoline,Unknown,Black,Black,None reported,Yes,62425,6,380.0,3.0,6.0
 Audi,44000,Gasoline,Automatic,Grey,Black,None reported,Yes,39000,7,354.0,3.0,6.0
 Porsche,26000,Gasoline,Automatic,Grey,Black,None reported,Yes,45500,8,300.0,2.0,4.0
 Chevrolet,1800,Gasoline,Automatic,Blue,Black,None reported,Yes,76000,5,490.0,6.2,8.0
-Lamborghini,3771,Gasoline,Automatic,Other,Other,None reported,Unknown,259991,4,,4.0,
+Other,3771,Gasoline,Automatic,Other,Other,None reported,Unknown,259991,4,,4.0,
 Maserati,50000,Gasoline,Automatic,White,Black,None reported,Yes,26497,13,425.0,4.7,8.0
 Subaru,93000,Gasoline,Automatic,Silver,Black,Accident reported,Yes,16000,7,152.0,2.0,4.0
 Mercedes-Benz,15000,Gasoline,Automatic,Grey,Black,None reported,Yes,129000,5,550.0,4.0,8.0
 Mazda,119500,Gasoline,Unknown,Silver,Black,None reported,Yes,15000,9,184.0,2.5,4.0
 Porsche,50000,Gasoline,Automatic,Blue,Red,None reported,Yes,36000,9,340.0,3.0,6.0
 Porsche,85000,Gasoline,Automatic,Grey,Other,Unknown,Unknown,21500,14,300.0,3.6,6.0
-Genesis,48000,Gasoline,Automatic,Black,Black,None reported,Yes,29999,6,365.0,3.3,6.0
+Other,48000,Gasoline,Automatic,Black,Black,None reported,Yes,29999,6,365.0,3.3,6.0
 Jeep,11756,Gasoline,Automatic,Other,Black,Accident reported,Unknown,33400,4,,2.0,
 Audi,50400,Gasoline,Unknown,White,Other,None reported,Yes,28500,7,252.0,2.0,4.0
 BMW,153600,Gasoline,Manual,Black,Black,None reported,Yes,17500,13,300.0,3.0,6.0
 Land,1869,Gasoline,Automatic,Grey,Other,None reported,Yes,164725,2,,4.4,
 Dodge,31917,Gasoline,Automatic,Grey,Black,None reported,Yes,64683,3,475.0,6.4,8.0
-BMW,56235,Gasoline,Manual,Orange,Orange,None reported,Yes,50500,9,425.0,3.0,6.0
+BMW,56235,Gasoline,Manual,Orange,Other,None reported,Yes,50500,9,425.0,3.0,6.0
 Ford,28724,Gasoline,Manual,Grey,Black,Accident reported,Yes,18300,6,197.0,1.6,4.0
 Lincoln,124400,Gasoline,Automatic,White,Black,Accident reported,Yes,9500,10,305.0,3.7,6.0
 Chevrolet,137000,Gasoline,Automatic,Black,Black,None reported,Yes,46000,5,355.0,5.3,8.0
-Ferrari,38686,Gasoline,Unknown,White,Red,None reported,Yes,99999,20,483.0,4.3,8.0
+Other,38686,Gasoline,Unknown,White,Red,None reported,Yes,99999,20,483.0,4.3,8.0
 Ford,6600,Gasoline,Automatic,Blue,Black,Accident reported,Yes,72900,3,430.0,7.3,8.0
 Mercedes-Benz,67200,Gasoline,Automatic,Silver,Black,None reported,Yes,11500,18,228.0,3.0,6.0
 Porsche,16554,Gasoline,Automatic,White,Other,None reported,Unknown,51698,4,,,
 BMW,15736,Hybrid,Automatic,Blue,Brown,None reported,Yes,67900,2,389.0,3.0,6.0
-Mercedes-Benz,153460,Gasoline,Automatic,Gold,Gold,Accident reported,Yes,5800,20,302.0,5.0,8.0
+Mercedes-Benz,153460,Gasoline,Automatic,Gold,Other,Accident reported,Yes,5800,20,302.0,5.0,8.0
 Acura,70000,Gasoline,Automatic,Black,Black,Accident reported,Yes,15051,13,305.0,3.7,6.0
 Hyundai,143898,Gasoline,Automatic,Grey,Brown,None reported,Yes,9950,14,378.0,4.6,8.0
 Mercedes-Benz,26190,Gasoline,Automatic,Gold,Other,None reported,Yes,22000,22,302.0,5.0,8.0
@@ -2552,7 +2545,7 @@ Cadillac,72060,Gasoline,Automatic,Black,Other,None reported,Unknown,24590,8,,3.6
 Toyota,8800,Gasoline,Automatic,Silver,Black,None reported,Yes,68500,2,389.0,3.4,6.0
 Nissan,85768,Gasoline,Automatic,White,Black,Accident reported,Yes,8250,10,109.0,1.6,4.0
 Mercedes-Benz,2235,Hybrid,Unknown,Grey,Red,None reported,Yes,110000,3,429.0,3.0,6.0
-Buick,121521,Gasoline,Automatic,Other,Other,None reported,Yes,26772,6,,3.6,
+Other,121521,Gasoline,Automatic,Other,Other,None reported,Yes,26772,6,,3.6,
 Porsche,23700,Gasoline,Unknown,Black,Black,None reported,Yes,144940,10,475.0,3.8,6.0
 BMW,124000,Gasoline,Automatic,White,Other,None reported,Yes,11900,12,230.0,3.0,6.0
 Acura,32260,Gasoline,Automatic,Black,Black,None reported,Yes,20999,7,201.0,2.4,4.0
@@ -2561,7 +2554,7 @@ Toyota,269885,Gasoline,Automatic,Black,Other,Accident reported,Yes,22500,15,381.
 Chevrolet,51855,Gasoline,Automatic,Red,Red,None reported,Yes,35900,17,430.0,6.2,8.0
 Mazda,124000,Gasoline,Manual,White,Other,Accident reported,Yes,12900,10,184.0,2.5,4.0
 Jaguar,26000,Gasoline,Automatic,Blue,Red,None reported,Yes,52500,10,550.0,5.0,8.0
-Audi,36500,Gasoline,Automatic,Grey,Silver,Accident reported,Yes,25500,7,220.0,2.0,4.0
+Audi,36500,Gasoline,Automatic,Grey,Other,Accident reported,Yes,25500,7,220.0,2.0,4.0
 Chevrolet,1400,Gasoline,Automatic,Black,Black,None reported,Yes,54900,3,455.0,6.2,8.0
 Jeep,17000,Gasoline,Automatic,Black,Black,None reported,Yes,38500,7,285.0,3.6,6.0
 Honda,42750,Gasoline,Automatic,Black,Black,None reported,Yes,25698,4,,1.5,
@@ -2578,33 +2571,33 @@ Chevrolet,27000,Gasoline,Unknown,Black,Other,None reported,Yes,33000,10,426.0,6.
 Jeep,144770,Gasoline,Automatic,Other,Other,Accident reported,Yes,6500,21,210.0,3.7,6.0
 Toyota,157000,Gasoline,Unknown,Black,Other,None reported,Yes,23500,14,270.0,4.0,6.0
 BMW,132000,Gasoline,Unknown,Silver,Black,Accident reported,Yes,8500,15,230.0,3.0,6.0
-Ford,137000,Diesel,Automatic,Gold,Gold,None reported,Yes,15000,23,250.0,7.3,8.0
+Ford,137000,Diesel,Automatic,Gold,Other,None reported,Yes,15000,23,250.0,7.3,8.0
 Lexus,50992,Gasoline,Automatic,White,Grey,Accident reported,Yes,28000,7,260.0,3.5,6.0
 Cadillac,105760,Gasoline,Automatic,Black,Black,None reported,Yes,12900,15,270.0,3.0,6.0
 Lexus,29800,Gasoline,Automatic,Black,Black,None reported,Yes,68495,7,471.0,5.0,8.0
 BMW,21000,Gasoline,Unknown,Blue,Black,Accident reported,Yes,42000,6,335.0,3.0,6.0
 Chevrolet,152195,Gasoline,Automatic,Black,Black,None reported,Yes,9900,27,340.0,5.7,8.0
-Hummer,169900,Gasoline,Automatic,Orange,Black,Accident reported,Yes,16900,19,325.0,6.0,8.0
+Other,169900,Gasoline,Automatic,Orange,Black,Accident reported,Yes,16900,19,325.0,6.0,8.0
 Volvo,196000,Gasoline,Automatic,Black,Other,None reported,Yes,6499,17,235.0,3.2,6.0
 Jeep,180036,Gasoline,Automatic,Black,Black,Accident reported,Yes,9100,16,202.0,3.8,6.0
 Land,57918,Gasoline,Unknown,Grey,Grey,None reported,Yes,33500,8,340.0,3.0,6.0
 BMW,98600,Gasoline,Automatic,Silver,Black,None reported,Yes,26500,8,320.0,3.0,6.0
 Ford,120000,Diesel,Automatic,Silver,Black,Accident reported,Yes,55000,7,450.0,6.7,8.0
-BMW,14269,Gasoline,Automatic,Grey,Orange,None reported,Yes,80000,3,503.0,3.0,6.0
+BMW,14269,Gasoline,Automatic,Grey,Other,None reported,Yes,80000,3,503.0,3.0,6.0
 Lexus,6875,Gasoline,Automatic,White,Black,None reported,Yes,89000,3,471.0,5.0,8.0
 Honda,55100,Gasoline,Automatic,White,Grey,None reported,Unknown,28324,6,,1.5,
 Porsche,49000,Gasoline,Automatic,White,Black,Unknown,Unknown,41500,13,400.0,4.8,8.0
 BMW,74600,Gasoline,Automatic,White,Brown,None reported,Yes,15000,16,400.0,4.4,8.0
 Audi,45900,Hybrid,Unknown,Black,Black,Accident reported,Yes,41500,6,335.0,3.0,6.0
-Chrysler,95271,E85 Flex Fuel,Automatic,Black,Black,Unknown,Unknown,12468,10,184.0,2.4,4.0
+Other,95271,E85 Flex Fuel,Automatic,Black,Black,Unknown,Unknown,12468,10,184.0,2.4,4.0
 Ford,88883,Gasoline,Automatic,Black,Black,None reported,Yes,33172,4,,2.7,
 Dodge,43000,E85 Flex Fuel,Automatic,Red,Black,None reported,Yes,35000,12,283.0,3.6,6.0
 Ford,33700,E85 Flex Fuel,Automatic,Grey,Black,Accident reported,Yes,12000,7,160.0,2.0,4.0
 RAM,95115,Diesel,Automatic,White,Black,None reported,Yes,43640,9,,6.7,
-Lotus,25250,Gasoline,Manual,Red,Black,Unknown,Unknown,44000,20,190.0,1.8,4.0
+Other,25250,Gasoline,Manual,Red,Black,Unknown,Unknown,44000,20,190.0,1.8,4.0
 Chevrolet,20200,Gasoline,Automatic,Red,Red,None reported,Yes,27500,18,400.0,6.0,8.0
 Audi,104457,Gasoline,Automatic,Silver,Black,None reported,Yes,17900,12,211.0,2.0,4.0
-McLaren,8984,Gasoline,Automatic,Blue,Black,None reported,Unknown,171900,7,,3.8,
+Other,8984,Gasoline,Automatic,Blue,Black,None reported,Unknown,171900,7,,3.8,
 Chevrolet,76000,Gasoline,Automatic,Silver,Other,None reported,Yes,41400,8,285.0,4.8,8.0
 Chevrolet,56247,Gasoline,Automatic,Grey,Black,None reported,Yes,39244,5,,3.6,
 Jeep,50750,Unknown,Manual,Blue,Grey,None reported,Yes,15000,31,,,
@@ -2633,7 +2626,7 @@ Dodge,1800,Gasoline,Automatic,Green,Black,None reported,Yes,64990,10,707.0,6.2,8
 Toyota,36283,Gasoline,Automatic,Red,Black,None reported,Unknown,39598,6,,,
 Audi,6682,Hybrid,Automatic,Black,Grey,None reported,Unknown,47798,2,,,
 Jeep,23399,Gasoline,Automatic,Black,Black,None reported,Unknown,28999,7,,2.0,
-Genesis,29720,Gasoline,Automatic,Brown,Other,None reported,Yes,29500,8,311.0,3.8,6.0
+Other,29720,Gasoline,Automatic,Brown,Other,None reported,Yes,29500,8,311.0,3.8,6.0
 Mercedes-Benz,56000,Gasoline,Automatic,Black,Black,None reported,Yes,44850,16,518.0,6.3,8.0
 Lexus,59419,Gasoline,Automatic,Silver,Other,None reported,Yes,73000,5,383.0,5.7,8.0
 Kia,69100,Gasoline,Automatic,Red,Black,None reported,Yes,32500,7,365.0,3.3,6.0
@@ -2646,7 +2639,7 @@ BMW,7982,Gasoline,Automatic,Silver,Red,Unknown,Unknown,51900,13,414.0,4.0,8.0
 Bentley,1795,Gasoline,Automatic,Black,Other,None reported,Unknown,269991,3,,4.0,
 Volkswagen,1067,Gasoline,Automatic,White,Blue,None reported,Yes,48000,3,315.0,2.0,4.0
 Ford,152000,Gasoline,Automatic,Grey,Black,None reported,Yes,15499,8,290.0,3.5,6.0
-Honda,185000,Gasoline,Automatic,Purple,Other,None reported,Yes,8900,14,248.0,3.5,6.0
+Honda,185000,Gasoline,Automatic,Other,Other,None reported,Yes,8900,14,248.0,3.5,6.0
 Dodge,97724,Diesel,Automatic,Red,Grey,None reported,Yes,19998,18,350.0,6.7,6.0
 Honda,22227,Gasoline,Automatic,Red,Black,Unknown,Unknown,25980,5,,2.0,
 Honda,111000,Gasoline,Automatic,Blue,Black,None reported,Yes,13000,9,158.0,2.0,4.0
@@ -2654,7 +2647,7 @@ Ford,32268,E85 Flex Fuel,Automatic,White,Grey,None reported,Yes,46500,6,385.0,6.
 Nissan,122009,Gasoline,Automatic,Grey,Black,None reported,Unknown,18998,6,,,
 Land,57785,Hybrid,Automatic,Black,Black,None reported,Yes,63995,5,395.0,3.0,6.0
 BMW,204884,Gasoline,Manual,Silver,Black,Accident reported,Yes,21500,23,333.0,3.2,6.0
-Hummer,179400,Gasoline,Automatic,White,Brown,Accident reported,Yes,15000,22,316.0,6.0,8.0
+Other,179400,Gasoline,Automatic,White,Brown,Accident reported,Yes,15000,22,316.0,6.0,8.0
 Mazda,57000,Gasoline,Manual,Red,Black,None reported,Yes,14000,16,232.0,1.3,
 Lexus,25997,Gasoline,Automatic,Green,Brown,None reported,Yes,87000,4,383.0,5.7,8.0
 Chevrolet,36555,Gasoline,Automatic,White,Black,None reported,Yes,64288,3,,5.3,
@@ -2676,7 +2669,7 @@ Porsche,36700,Gasoline,Automatic,Blue,Blue,Accident reported,Yes,48990,6,348.0,3
 Mercedes-Benz,24500,Gasoline,Automatic,White,Other,None reported,Yes,82150,3,255.0,2.0,4.0
 Toyota,65000,Gasoline,Automatic,Black,Brown,Accident reported,Yes,65000,8,381.0,5.7,8.0
 BMW,27654,Hybrid,Automatic,White,Black,None reported,Unknown,61998,4,,,
-Rivian,542,Unknown,Automatic,Black,Black,None reported,Yes,92500,2,835.0,,
+Other,542,Unknown,Automatic,Black,Black,None reported,Yes,92500,2,835.0,,
 Toyota,41000,Gasoline,Automatic,Blue,Black,None reported,Yes,38700,5,295.0,3.5,6.0
 Mercedes-Benz,47400,Gasoline,Automatic,White,Black,Accident reported,Yes,41000,14,518.0,6.3,8.0
 Ford,40110,Gasoline,Automatic,Yellow,Black,None reported,Yes,18500,23,252.0,3.9,8.0
@@ -2696,7 +2689,7 @@ Mercedes-Benz,28690,Gasoline,Automatic,White,Other,None reported,Yes,38880,7,329
 BMW,83000,Gasoline,Automatic,Black,Red,Accident reported,Yes,31000,13,414.0,4.0,8.0
 Ford,38600,Diesel,Automatic,Blue,Other,None reported,Yes,54500,6,450.0,6.7,8.0
 Toyota,92000,Gasoline,Automatic,Red,Other,Accident reported,Yes,30000,6,295.0,3.5,6.0
-Saturn,134000,Gasoline,Manual,Blue,Black,Accident reported,Yes,9500,16,260.0,2.0,4.0
+Other,134000,Gasoline,Manual,Blue,Black,Accident reported,Yes,9500,16,260.0,2.0,4.0
 Lexus,103000,Gasoline,Automatic,White,Other,None reported,Yes,20500,13,380.0,4.6,8.0
 Honda,176261,Gasoline,Manual,Grey,Grey,None reported,Yes,3750,21,160.0,2.4,4.0
 Ford,58500,Gasoline,Manual,White,Red,Accident reported,Yes,20000,15,315.0,4.6,8.0
@@ -2707,7 +2700,7 @@ Ford,82900,Gasoline,Automatic,White,Grey,Accident reported,Yes,16000,12,290.0,3.
 BMW,59257,Gasoline,Manual,Grey,Black,None reported,Yes,18200,17,255.0,3.0,6.0
 Lexus,81400,Gasoline,Automatic,Grey,Red,Accident reported,Yes,26000,9,295.0,3.5,6.0
 Hyundai,5100,Gasoline,Automatic,Blue,Black,None reported,Yes,19500,3,120.0,1.6,4.0
-Ford,67072,Gasoline,Automatic,Purple,Black,None reported,Yes,38500,5,375.0,3.5,6.0
+Ford,67072,Gasoline,Automatic,Other,Black,None reported,Yes,38500,5,375.0,3.5,6.0
 BMW,65000,Gasoline,Unknown,Silver,Black,None reported,Yes,19500,9,240.0,2.0,4.0
 Ford,80800,Gasoline,Automatic,Blue,Other,None reported,Yes,10000,11,175.0,2.5,4.0
 Ford,53401,Gasoline,Automatic,Grey,Black,None reported,Yes,39500,5,375.0,3.5,6.0
@@ -2731,7 +2724,7 @@ Mercedes-Benz,130000,Gasoline,Automatic,Blue,Black,None reported,Yes,24500,10,42
 Ford,108045,Gasoline,Automatic,Blue,Grey,None reported,Yes,6500,13,160.0,2.0,4.0
 Subaru,10000,Gasoline,Automatic,White,Black,None reported,Yes,28000,3,152.0,2.0,4.0
 Hyundai,75000,Gasoline,Unknown,Red,Black,Accident reported,Yes,12000,14,306.0,3.8,6.0
-Chrysler,73500,Gasoline,Automatic,Silver,Grey,Accident reported,Yes,7858,16,170.0,3.3,6.0
+Other,73500,Gasoline,Automatic,Silver,Grey,Accident reported,Yes,7858,16,170.0,3.3,6.0
 Porsche,29850,Gasoline,Automatic,Silver,Red,None reported,Yes,89750,7,550.0,4.0,8.0
 Honda,135350,Gasoline,Automatic,White,Other,Accident reported,Yes,19900,9,280.0,3.5,6.0
 Mercedes-Benz,16983,Gasoline,Automatic,Black,Black,None reported,Unknown,40998,3,,,
@@ -2739,7 +2732,7 @@ Audi,35580,Hybrid,Automatic,Black,Black,None reported,Yes,49500,6,335.0,3.0,6.0
 Ford,71200,Gasoline,Automatic,White,Other,None reported,Yes,18900,5,250.0,2.0,4.0
 Dodge,24778,Gasoline,Automatic,Red,Black,Accident reported,Unknown,36599,3,,3.6,
 BMW,109330,Gasoline,Automatic,Black,Other,None reported,Yes,13349,10,240.0,2.0,4.0
-Alfa,6645,Gasoline,Automatic,White,Black,None reported,Unknown,43900,2,,2.0,
+Other,6645,Gasoline,Automatic,White,Black,None reported,Unknown,43900,2,,2.0,
 Mercedes-Benz,90400,Gasoline,Automatic,Silver,Other,None reported,Yes,10199,18,335.0,4.7,8.0
 Ford,192100,Gasoline,Automatic,Gold,Other,Accident reported,Yes,6450,23,207.0,4.0,6.0
 BMW,32000,Gasoline,Unknown,White,Black,None reported,Yes,70000,7,453.0,3.0,6.0
@@ -2782,23 +2775,23 @@ Tesla,61000,Unknown,Automatic,Green,Black,None reported,Yes,29000,13,416.0,,
 BMW,15889,Gasoline,Automatic,Blue,Other,None reported,Yes,34500,11,240.0,2.0,4.0
 BMW,125500,Gasoline,Automatic,Black,Black,Accident reported,Yes,12950,10,240.0,2.0,4.0
 Ford,163500,E85 Flex Fuel,Automatic,Grey,Black,None reported,Yes,16490,12,310.0,5.4,8.0
-Buick,89726,Gasoline,Automatic,White,Brown,None reported,Yes,16000,10,288.0,3.6,6.0
+Other,89726,Gasoline,Automatic,White,Brown,None reported,Yes,16000,10,288.0,3.6,6.0
 Mercedes-Benz,93000,Gasoline,Automatic,Black,Black,None reported,Yes,22500,20,493.0,5.5,12.0
 MINI,128000,Gasoline,Automatic,Black,Black,None reported,Yes,8500,13,181.0,1.6,4.0
 Porsche,70800,Gasoline,Unknown,White,Black,None reported,Yes,52999,8,520.0,4.8,8.0
-Saturn,115000,Hybrid,Automatic,Blue,Other,None reported,Yes,4400,16,172.0,2.4,4.0
+Other,115000,Hybrid,Automatic,Blue,Other,None reported,Yes,4400,16,172.0,2.4,4.0
 RAM,98650,Diesel,Automatic,Black,Black,None reported,Yes,56750,7,350.0,6.7,6.0
 RAM,87768,Hybrid,Automatic,Silver,Black,None reported,Yes,44000,6,395.0,5.7,8.0
 Chevrolet,6000,Gasoline,Automatic,Grey,Black,None reported,Yes,48500,2,310.0,3.6,6.0
 Lexus,28262,Gasoline,Automatic,Other,Other,None reported,Unknown,49998,4,,,
 Mazda,16200,Gasoline,Automatic,Blue,Other,None reported,Yes,36900,2,227.0,2.5,4.0
 Cadillac,87500,E85 Flex Fuel,Automatic,White,Other,None reported,Yes,11499,13,308.0,3.6,6.0
-FIAT,85458,Gasoline,Automatic,White,Other,None reported,Yes,9000,12,101.0,1.4,4.0
+Other,85458,Gasoline,Automatic,White,Other,None reported,Yes,9000,12,101.0,1.4,4.0
 Mercedes-Benz,16500,Unknown,Automatic,Blue,White,None reported,Yes,69500,3,329.0,,
 MINI,83853,Gasoline,Manual,Grey,Black,Accident reported,Yes,6950,16,172.0,1.6,4.0
 BMW,22500,Gasoline,Unknown,Black,Other,Accident reported,Yes,74999,3,523.0,4.4,8.0
 Lexus,99524,Gasoline,Automatic,Grey,Black,Accident reported,Yes,24900,12,386.0,4.6,8.0
-Genesis,8100,Gasoline,Unknown,Silver,Other,None reported,Yes,57300,2,300.0,2.5,4.0
+Other,8100,Gasoline,Unknown,Silver,Other,None reported,Yes,57300,2,300.0,2.5,4.0
 MINI,43073,Gasoline,Automatic,Orange,Black,None reported,Unknown,17999,9,,2.0,
 Land,12425,Gasoline,Automatic,Red,Other,None reported,Unknown,57619,2,,,
 BMW,23195,Gasoline,Automatic,Other,Black,None reported,Unknown,38900,5,,2.0,
@@ -2813,7 +2806,7 @@ Jaguar,106000,Gasoline,Automatic,Brown,Other,Accident reported,Yes,9400,14,385.0
 RAM,3521,Gasoline,Automatic,Black,Black,None reported,Yes,51074,3,,5.7,
 Volkswagen,90000,Gasoline,Automatic,Grey,Black,None reported,Yes,16750,9,210.0,2.0,4.0
 Porsche,46000,Gasoline,Unknown,Grey,Other,None reported,Yes,38000,9,400.0,3.6,6.0
-BMW,18362,Gasoline,Automatic,Black,Orange,None reported,Yes,60000,5,503.0,3.0,6.0
+BMW,18362,Gasoline,Automatic,Black,Other,None reported,Yes,60000,5,503.0,3.0,6.0
 Lexus,164500,Gasoline,Automatic,White,Black,Accident reported,Yes,16500,12,270.0,3.5,6.0
 GMC,55018,Gasoline,Automatic,Black,Black,Accident reported,Yes,25500,5,170.0,1.5,4.0
 Nissan,36466,Gasoline,Automatic,Silver,Other,None reported,Unknown,24980,3,,3.5,
@@ -2866,7 +2859,7 @@ Honda,125000,Gasoline,Manual,Red,Black,None reported,Yes,18000,24,200.0,2.2,4.0
 Lexus,6449,Gasoline,Automatic,Silver,Black,Accident reported,Unknown,35999,4,,2.0,
 Volkswagen,33000,Gasoline,Manual,Black,Black,None reported,Yes,27500,6,228.0,2.0,4.0
 Nissan,87130,Gasoline,Automatic,Brown,Black,None reported,Yes,20000,16,317.0,5.6,8.0
-Lexus,165000,Gasoline,Automatic,Purple,Other,None reported,Yes,8700,27,225.0,3.0,6.0
+Lexus,165000,Gasoline,Automatic,Other,Other,None reported,Yes,8700,27,225.0,3.0,6.0
 Toyota,73000,Gasoline,Automatic,Blue,Other,Accident reported,Yes,11500,17,210.0,3.3,6.0
 Porsche,22354,Gasoline,Automatic,Black,Black,None reported,Unknown,54900,5,,3.0,
 Tesla,6188,Unknown,Automatic,Grey,White,None reported,Yes,53900,2,455.0,,
@@ -2880,21 +2873,21 @@ Tesla,100346,Unknown,Automatic,Silver,White,None reported,Yes,45999,8,,,
 Mercedes-Benz,62285,Gasoline,Automatic,Black,Black,Accident reported,Yes,29950,9,329.0,3.0,6.0
 Lexus,5040,Gasoline,Automatic,Other,Other,Accident reported,Yes,48900,4,295.0,3.5,6.0
 RAM,12940,Gasoline,Automatic,White,Black,Accident reported,Unknown,46999,3,,5.7,
-Mitsubishi,98385,Gasoline,Automatic,Silver,Black,Accident reported,Yes,10500,10,166.0,2.4,4.0
+Other,98385,Gasoline,Automatic,Silver,Black,Accident reported,Yes,10500,10,166.0,2.4,4.0
 Hyundai,43903,Gasoline,Automatic,Red,Black,Accident reported,Yes,12500,12,200.0,2.4,4.0
 Ford,41650,Gasoline,Automatic,Blue,Black,None reported,Yes,23600,8,310.0,2.3,4.0
 BMW,31850,Hybrid,Unknown,White,Black,None reported,Yes,60500,3,389.0,3.0,6.0
 Hyundai,96419,Hybrid,Automatic,Black,Grey,Accident reported,Yes,14999,12,199.0,2.4,4.0
 Honda,170000,Gasoline,Automatic,Black,Other,None reported,Yes,7700,18,244.0,3.5,6.0
 Chevrolet,139000,Gasoline,Automatic,Black,Black,None reported,Yes,14500,16,300.0,5.3,8.0
-Buick,134655,Gasoline,Automatic,Other,Other,None reported,Yes,18051,9,,3.6,
+Other,134655,Gasoline,Automatic,Other,Other,None reported,Yes,18051,9,,3.6,
 BMW,81000,Gasoline,Manual,White,Red,None reported,Yes,27890,10,320.0,3.0,6.0
-McLaren,9989,Gasoline,Automatic,Black,Black,None reported,Yes,324995,5,710.0,4.0,8.0
+Other,9989,Gasoline,Automatic,Black,Black,None reported,Yes,324995,5,710.0,4.0,8.0
 Kia,46347,Gasoline,Automatic,White,Black,None reported,Unknown,46120,3,,3.8,
 Chevrolet,4048,Gasoline,Manual,Yellow,Grey,None reported,Yes,38000,18,400.0,6.0,8.0
 Mercedes-Benz,79876,Gasoline,Automatic,Black,White,None reported,Yes,45750,10,577.0,5.5,8.0
 Toyota,44000,Unknown,Automatic,Grey,Black,None reported,Yes,18500,4,182.0,,
-Alfa,56910,Gasoline,Unknown,Blue,Black,Unknown,Unknown,23000,8,280.0,2.0,4.0
+Other,56910,Gasoline,Unknown,Blue,Black,Unknown,Unknown,23000,8,280.0,2.0,4.0
 Land,65019,Gasoline,Automatic,Black,Other,None reported,Yes,40500,6,340.0,3.0,6.0
 Nissan,133409,Gasoline,Manual,Silver,Grey,Accident reported,Yes,14999,16,332.0,3.7,6.0
 BMW,74381,Gasoline,Automatic,White,Brown,Accident reported,Yes,22995,7,248.0,2.0,4.0
@@ -2915,7 +2908,7 @@ Chevrolet,23292,Gasoline,Automatic,Brown,Black,None reported,Yes,73500,4,420.0,6
 Chevrolet,162671,E85 Flex Fuel,Automatic,Black,Black,None reported,Yes,12000,15,320.0,5.3,8.0
 Land,100472,Gasoline,Automatic,Grey,Other,None reported,Yes,9975,15,230.0,3.2,6.0
 Subaru,73120,Gasoline,Automatic,White,Black,Accident reported,Yes,19950,8,268.0,2.0,4.0
-Ford,23300,Gasoline,Automatic,Green,Green,None reported,Yes,67500,3,440.0,3.5,6.0
+Ford,23300,Gasoline,Automatic,Green,Other,None reported,Yes,67500,3,440.0,3.5,6.0
 Honda,71000,Hybrid,Automatic,Red,Other,Accident reported,Yes,17500,7,212.0,1.5,4.0
 RAM,16648,Diesel,Automatic,Red,Black,None reported,Unknown,70999,3,,6.7,
 Chevrolet,240000,Diesel,Automatic,White,Black,None reported,Yes,18500,14,335.0,6.6,8.0
@@ -2936,12 +2929,12 @@ Chevrolet,104000,Gasoline,Automatic,Silver,Grey,None reported,Yes,10500,9,,2.5,4
 Cadillac,600,Gasoline,Automatic,Black,Black,None reported,Yes,103000,2,420.0,6.2,8.0
 MINI,45000,Gasoline,Manual,Yellow,Black,None reported,Yes,7900,18,172.0,1.6,4.0
 Jeep,24500,Gasoline,Automatic,Blue,Black,None reported,Yes,64000,3,285.0,3.6,6.0
-Buick,35569,Gasoline,Automatic,Other,Other,None reported,Unknown,21999,5,,1.3,
+Other,35569,Gasoline,Automatic,Other,Other,None reported,Unknown,21999,5,,1.3,
 Toyota,35000,Gasoline,Automatic,Silver,Black,None reported,Yes,36999,5,295.0,3.5,6.0
 Acura,165000,Gasoline,Automatic,Silver,Black,Accident reported,Yes,4000,22,260.0,3.5,6.0
 Land,15000,Hybrid,Automatic,Black,Black,None reported,Yes,69000,4,355.0,3.0,6.0
 BMW,119750,Gasoline,Automatic,White,Other,None reported,Yes,15499,11,300.0,3.0,6.0
-Nissan,90000,Gasoline,Manual,White,Green,Accident reported,Yes,12000,18,306.0,3.5,6.0
+Nissan,90000,Gasoline,Manual,White,Other,Accident reported,Yes,12000,18,306.0,3.5,6.0
 Ford,112000,Gasoline,Automatic,White,Black,Accident reported,Yes,14500,10,169.0,2.5,4.0
 Mercedes-Benz,150000,Gasoline,Automatic,Black,Other,None reported,Yes,16800,17,382.0,5.5,8.0
 Porsche,1912,Gasoline,Automatic,Silver,Black,None reported,Yes,240000,4,640.0,3.8,6.0
@@ -2954,9 +2947,9 @@ Ford,127558,Gasoline,Automatic,Green,Black,None reported,Yes,13715,11,,3.5,
 Ford,13232,Unknown,Automatic,Grey,Black,None reported,Yes,45000,2,346.0,,
 Chevrolet,39000,Gasoline,Automatic,Yellow,Black,None reported,Yes,31500,8,455.0,6.2,8.0
 Ford,11500,Gasoline,Automatic,Grey,Black,None reported,Yes,54490,2,315.0,2.7,6.0
-Chrysler,22200,Gasoline,Automatic,Black,Black,None reported,Yes,36800,5,287.0,3.6,6.0
+Other,22200,Gasoline,Automatic,Black,Black,None reported,Yes,36800,5,287.0,3.6,6.0
 Tesla,7414,Unknown,Automatic,Black,White,None reported,Yes,56515,2,425.0,,
-Lamborghini,14586,Gasoline,Automatic,Blue,Other,None reported,Unknown,209991,8,,5.2,
+Other,14586,Gasoline,Automatic,Blue,Other,None reported,Unknown,209991,8,,5.2,
 RAM,32000,Hybrid,Automatic,White,Black,None reported,Yes,50927,4,395.0,5.7,8.0
 Toyota,14700,Gasoline,Automatic,White,Black,None reported,Yes,27350,5,200.0,2.0,4.0
 BMW,79995,Gasoline,Unknown,Black,Black,None reported,Yes,23995,9,445.0,4.4,8.0
@@ -2970,7 +2963,7 @@ GMC,100080,E85 Flex Fuel,Automatic,White,Grey,None reported,Yes,22989,11,285.0,4
 Dodge,2620,Gasoline,Automatic,Black,Black,Unknown,Unknown,155700,7,808.0,6.2,8.0
 BMW,3099,Hybrid,Automatic,Black,Black,None reported,Yes,74995,2,389.0,3.0,6.0
 Dodge,78000,Gasoline,Automatic,Black,Red,Accident reported,Yes,29500,5,360.0,5.7,8.0
-Ferrari,9005,Gasoline,Automatic,White,Other,None reported,Unknown,319900,6,,3.9,
+Other,9005,Gasoline,Automatic,White,Other,None reported,Unknown,319900,6,,3.9,
 Ford,16700,Gasoline,Automatic,Blue,Black,None reported,Yes,31000,3,181.0,1.5,3.0
 Honda,51300,Gasoline,Manual,Black,Black,None reported,Yes,17500,10,143.0,1.8,4.0
 Ford,8237,Gasoline,Manual,Grey,Black,None reported,Yes,62900,7,526.0,5.2,8.0
@@ -2984,10 +2977,10 @@ Kia,67686,Gasoline,Automatic,Silver,Black,None reported,Yes,15700,4,120.0,1.6,4.
 Tesla,96800,Unknown,Automatic,Blue,Black,None reported,Yes,28450,11,362.0,,
 Jeep,131000,Gasoline,Manual,Green,Grey,Accident reported,Yes,5500,28,181.0,4.0,6.0
 Tesla,23097,Unknown,Automatic,Black,Black,None reported,Yes,29900,5,271.0,,
-Ferrari,31000,Gasoline,Automatic,White,Red,None reported,Yes,197499,7,602.0,3.9,8.0
-BMW,28898,Gasoline,Automatic,Black,Orange,None reported,Yes,71000,4,523.0,4.4,8.0
+Other,31000,Gasoline,Automatic,White,Red,None reported,Yes,197499,7,602.0,3.9,8.0
+BMW,28898,Gasoline,Automatic,Black,Other,None reported,Yes,71000,4,523.0,4.4,8.0
 Mazda,7250,Gasoline,Manual,Grey,Black,None reported,Yes,35619,3,181.0,2.0,4.0
-Ford,59459,Diesel,Automatic,Black,Silver,Accident reported,Yes,40999,11,400.0,6.7,8.0
+Ford,59459,Diesel,Automatic,Black,Other,Accident reported,Yes,40999,11,400.0,6.7,8.0
 Jeep,78000,Gasoline,Automatic,Other,Black,Accident reported,Yes,22000,13,285.0,3.6,6.0
 RAM,24213,Gasoline,Automatic,White,Black,None reported,Yes,46500,4,395.0,5.7,8.0
 RAM,21165,Gasoline,Automatic,White,Black,None reported,Unknown,46105,5,,5.7,
@@ -3003,7 +2996,7 @@ Jeep,9099,Gasoline,Automatic,Red,Black,None reported,Yes,68362,3,,5.7,
 Volkswagen,95798,Gasoline,Manual,White,Black,None reported,Yes,9850,17,200.0,2.0,4.0
 Mercedes-Benz,35943,Gasoline,Automatic,Black,White,None reported,Yes,51700,9,577.0,5.5,8.0
 Mazda,106000,Gasoline,Automatic,Black,Other,None reported,Yes,4300,17,156.0,2.3,4.0
-Kia,10400,Gasoline,Automatic,Green,Green,None reported,Yes,48000,2,291.0,3.8,6.0
+Kia,10400,Gasoline,Automatic,Green,Other,None reported,Yes,48000,2,291.0,3.8,6.0
 Chevrolet,2894,Gasoline,Automatic,Blue,Other,None reported,Yes,63900,3,355.0,5.3,8.0
 Dodge,15592,Gasoline,Automatic,Black,Black,None reported,Yes,39985,3,,3.6,
 Mercedes-Benz,33548,Gasoline,Automatic,Silver,Black,None reported,Yes,57999,5,469.0,4.0,8.0
@@ -3016,9 +3009,9 @@ Jaguar,101453,Gasoline,Automatic,White,Other,Accident reported,Yes,18500,8,340.0
 RAM,106385,Diesel,Automatic,White,Black,Accident reported,Yes,42900,12,385.0,6.7,6.0
 BMW,86629,Gasoline,Automatic,White,Red,None reported,Yes,20995,13,320.0,3.0,6.0
 Audi,61258,Gasoline,Automatic,White,Black,None reported,Yes,49999,7,450.0,4.0,8.0
-Chrysler,121500,Gasoline,Automatic,Blue,Black,None reported,Yes,15999,11,363.0,5.7,8.0
+Other,121500,Gasoline,Automatic,Blue,Black,None reported,Yes,15999,11,363.0,5.7,8.0
 GMC,100,Diesel,Automatic,White,Black,None reported,Yes,62499,3,277.0,3.0,6.0
-Chrysler,170000,E85 Flex Fuel,Automatic,Silver,Black,Accident reported,Yes,5995,10,295.0,3.6,6.0
+Other,170000,E85 Flex Fuel,Automatic,Silver,Black,Accident reported,Yes,5995,10,295.0,3.6,6.0
 Ford,232000,Gasoline,Automatic,Blue,Grey,None reported,Yes,3000,15,292.0,4.6,8.0
 MINI,95000,Gasoline,Manual,Grey,Other,None reported,Yes,12500,19,168.0,1.6,4.0
 Toyota,103466,Gasoline,Automatic,White,Grey,Accident reported,Yes,14200,12,268.0,3.5,6.0
@@ -3045,19 +3038,18 @@ RAM,140500,Gasoline,Automatic,Red,Grey,Accident reported,Yes,14000,10,395.0,5.7,
 Jeep,212500,Gasoline,Automatic,Black,Grey,None reported,Yes,6500,19,210.0,3.7,6.0
 Lexus,77400,Gasoline,Automatic,White,Red,Accident reported,Yes,34500,15,416.0,5.0,8.0
 Ford,118000,Gasoline,Automatic,Black,Black,None reported,Yes,15000,8,365.0,3.5,6.0
-Porsche,4400,Gasoline,Manual,Grey,Black,None reported,Yes,1599000,20,605.0,5.7,10.0
 Cadillac,146200,Gasoline,Automatic,White,Other,None reported,Yes,24500,9,420.0,6.2,8.0
 Tesla,39000,Unknown,Automatic,Silver,Black,None reported,Yes,43000,5,455.0,,
 Chevrolet,130000,E85 Flex Fuel,Automatic,Red,Grey,None reported,Yes,7200,20,295.0,5.3,8.0
 Ford,33080,Gasoline,Automatic,White,Black,None reported,Yes,47850,4,325.0,2.7,6.0
 Mercedes-Benz,1219,Gasoline,Automatic,Black,Red,None reported,Unknown,46479,2,,2.0,
 Jeep,41000,Gasoline,Automatic,White,Black,None reported,Yes,25000,9,285.0,3.6,6.0
-Nissan,110897,Gasoline,Manual,Black,Orange,Accident reported,Yes,11500,21,287.0,3.5,6.0
+Nissan,110897,Gasoline,Manual,Black,Other,Accident reported,Yes,11500,21,287.0,3.5,6.0
 Chevrolet,49000,Gasoline,Manual,Orange,Other,None reported,Yes,75000,9,650.0,6.2,8.0
-Pontiac,47000,Gasoline,Manual,Black,Black,None reported,Yes,13300,18,260.0,2.0,4.0
+Other,47000,Gasoline,Manual,Black,Black,None reported,Yes,13300,18,260.0,2.0,4.0
 Hyundai,57690,Gasoline,Automatic,Grey,Grey,Accident reported,Yes,15900,7,185.0,2.4,4.0
 Mercedes-Benz,17941,Gasoline,Automatic,Silver,Red,None reported,Yes,226000,13,,6.2,
-Lincoln,54000,Gasoline,Automatic,Brown,Orange,Accident reported,Yes,46500,7,450.0,3.5,6.0
+Lincoln,54000,Gasoline,Automatic,Brown,Other,Accident reported,Yes,46500,7,450.0,3.5,6.0
 Nissan,101600,Gasoline,Automatic,Silver,Black,None reported,Yes,6700,18,255.0,3.5,6.0
 Ford,89000,Gasoline,Automatic,Black,Black,None reported,Yes,34000,4,270.0,2.3,4.0
 Tesla,18000,Unknown,Automatic,Black,Black,None reported,Yes,42500,4,,,
@@ -3111,9 +3103,9 @@ Land,20500,Gasoline,Automatic,White,White,None reported,Yes,76000,6,380.0,3.0,6.
 Tesla,500,Unknown,Automatic,White,Black,None reported,Yes,45900,3,425.0,,
 Lexus,49810,Gasoline,Automatic,Grey,Black,Accident reported,Yes,33900,6,302.0,3.5,6.0
 Honda,20229,Gasoline,Automatic,Black,Black,None reported,Unknown,36727,3,,1.5,
-Alfa,10558,Gasoline,Automatic,White,Black,None reported,Yes,75000,4,505.0,2.9,6.0
+Other,10558,Gasoline,Automatic,White,Black,None reported,Yes,75000,4,505.0,2.9,6.0
 BMW,59300,Gasoline,Manual,Red,Black,None reported,Yes,30900,20,225.0,3.0,6.0
-Maybach,34254,Gasoline,Automatic,Brown,Other,None reported,Yes,64250,21,543.0,5.5,12.0
+Other,34254,Gasoline,Automatic,Brown,Other,None reported,Yes,64250,21,543.0,5.5,12.0
 Lexus,24364,Gasoline,Automatic,White,Other,None reported,Unknown,37998,4,,,
 Mercedes-Benz,139200,Diesel,Automatic,White,Black,Accident reported,Yes,22000,9,161.0,2.1,4.0
 Mercedes-Benz,82046,Gasoline,Automatic,Black,Other,None reported,Yes,13999,13,302.0,3.5,6.0
@@ -3145,7 +3137,7 @@ Honda,167506,Gasoline,Automatic,Black,Other,None reported,Yes,6500,13,140.0,1.8,
 Jeep,166000,E85 Flex Fuel,Automatic,White,Grey,Accident reported,Yes,13000,13,290.0,3.6,6.0
 Ford,19200,Gasoline,Unknown,Black,Black,None reported,Yes,82950,4,760.0,5.2,8.0
 Land,46000,Hybrid,Automatic,Green,Other,None reported,Yes,75000,3,395.0,3.0,6.0
-Hummer,201000,Gasoline,Automatic,White,Black,Accident reported,Yes,7200,18,242.0,3.7,5.0
+Other,201000,Gasoline,Automatic,White,Black,Accident reported,Yes,7200,18,242.0,3.7,5.0
 Kia,87000,Gasoline,Automatic,Black,Black,Accident reported,Yes,8900,11,182.0,2.4,4.0
 GMC,145000,Gasoline,Automatic,White,Other,None reported,Yes,24950,10,355.0,5.3,8.0
 Jeep,33060,Gasoline,Automatic,White,Black,None reported,Yes,36500,5,285.0,3.6,6.0
@@ -3158,33 +3150,33 @@ Volkswagen,76495,Gasoline,Automatic,White,Black,Accident reported,Yes,13000,9,20
 Cadillac,70503,Gasoline,Automatic,Silver,Other,None reported,Yes,15500,9,308.0,3.6,6.0
 Porsche,41965,Gasoline,Unknown,Black,Other,Accident reported,Yes,35000,16,500.0,4.8,8.0
 Toyota,267000,Gasoline,Manual,Silver,Other,Accident reported,Yes,8000,26,150.0,2.7,4.0
-Mitsubishi,146000,Gasoline,Automatic,Grey,Black,Accident reported,Yes,4200,22,200.0,3.0,6.0
+Other,146000,Gasoline,Automatic,Grey,Black,Accident reported,Yes,4200,22,200.0,3.0,6.0
 Chevrolet,9000,Gasoline,Automatic,White,White,None reported,Yes,82500,2,490.0,6.2,8.0
 Toyota,1050,Gasoline,Automatic,Grey,Black,None reported,Yes,40000,3,228.0,2.4,4.0
 Land,22270,Gasoline,Automatic,Grey,Other,None reported,Unknown,89900,4,,5.0,
 Ford,19900,Gasoline,Automatic,White,Black,None reported,Yes,26500,13,412.0,5.0,8.0
 Tesla,19800,Unknown,Automatic,White,White,None reported,Yes,44990,5,425.0,,
 RAM,113500,Gasoline,Automatic,Black,Black,None reported,Yes,17900,13,390.0,5.7,8.0
-Lamborghini,22000,Gasoline,Automatic,Black,Black,None reported,Yes,150000,12,550.0,5.2,10.0
+Other,22000,Gasoline,Automatic,Black,Black,None reported,Yes,150000,12,550.0,5.2,10.0
 INFINITI,3300,Gasoline,Unknown,Red,Black,None reported,Yes,54000,3,400.0,3.0,6.0
 Volkswagen,41615,Unknown,Automatic,Blue,Grey,None reported,Yes,12000,9,115.0,,
 Tesla,11860,Unknown,Automatic,White,White,None reported,Yes,92500,3,670.0,,
 BMW,27000,Gasoline,Automatic,Black,Black,None reported,Yes,52500,10,560.0,4.4,8.0
 Kia,22101,Gasoline,Automatic,White,Black,Accident reported,Yes,29430,3,,1.6,
-Chevrolet,60000,Gasoline,Automatic,Purple,Grey,Unknown,Unknown,18500,29,260.0,5.7,8.0
+Chevrolet,60000,Gasoline,Automatic,Other,Grey,Unknown,Unknown,18500,29,260.0,5.7,8.0
 Subaru,46452,Gasoline,Manual,Grey,Black,None reported,Yes,22888,12,200.0,2.0,4.0
 Lincoln,36000,Gasoline,Automatic,White,Other,None reported,Yes,26500,6,245.0,2.0,4.0
 Chevrolet,13100,Gasoline,Manual,Silver,Red,None reported,Yes,61950,6,460.0,6.2,8.0
 Audi,50000,Gasoline,Automatic,White,Other,Accident reported,Yes,27000,6,248.0,2.0,4.0
 Mazda,19500,Gasoline,Unknown,White,Brown,None reported,Yes,32250,7,227.0,2.5,4.0
 Ford,36000,Gasoline,Manual,Orange,Black,Accident reported,Yes,31000,9,435.0,5.0,8.0
-Rolls-Royce,21000,Gasoline,Automatic,Brown,Black,Unknown,Unknown,217000,9,624.0,6.6,12.0
+Other,21000,Gasoline,Automatic,Brown,Black,Unknown,Unknown,217000,9,624.0,6.6,12.0
 Chevrolet,6640,Gasoline,Automatic,Orange,Black,None reported,Yes,51999,3,455.0,6.2,8.0
 BMW,74850,Gasoline,Automatic,White,Brown,Accident reported,Yes,21900,9,300.0,3.0,6.0
 Nissan,117000,Gasoline,Unknown,White,Black,Accident reported,Yes,10900,11,290.0,3.5,6.0
 Toyota,51400,E85 Flex Fuel,Automatic,Black,Black,Unknown,Unknown,39900,9,381.0,5.7,8.0
 INFINITI,6000,Gasoline,Automatic,Gold,Brown,None reported,Yes,57999,3,295.0,3.5,6.0
-Mitsubishi,128000,Gasoline,Manual,Silver,Black,None reported,Yes,37999,19,286.0,2.0,4.0
+Other,128000,Gasoline,Manual,Silver,Black,None reported,Yes,37999,19,286.0,2.0,4.0
 BMW,15000,Gasoline,Unknown,White,Brown,None reported,Yes,39995,4,248.0,2.0,4.0
 Toyota,119000,Gasoline,Automatic,Red,Black,None reported,Yes,29950,9,381.0,5.7,8.0
 Lincoln,87500,Gasoline,Automatic,Silver,Black,Accident reported,Yes,12999,19,300.0,5.4,8.0
@@ -3192,7 +3184,7 @@ Ford,149000,Gasoline,Automatic,Black,Other,None reported,Yes,7999,14,262.0,3.5,6
 Audi,54700,E85 Flex Fuel,Automatic,Grey,Brown,Accident reported,Yes,20995,10,220.0,2.0,4.0
 Ford,45979,Gasoline,Automatic,Black,Black,None reported,Yes,38532,4,,3.5,
 Lincoln,56846,Gasoline,Unknown,White,Other,None reported,Yes,29000,8,335.0,2.7,6.0
-Tesla,94100,Unknown,Automatic,Black,Orange,Accident reported,Yes,49900,8,518.0,,
+Tesla,94100,Unknown,Automatic,Black,Other,Accident reported,Yes,49900,8,518.0,,
 Jeep,80150,Gasoline,Automatic,Blue,Black,Accident reported,Yes,22500,8,293.0,3.6,6.0
 GMC,11563,Gasoline,Automatic,Blue,Black,Accident reported,Yes,12300,12,182.0,2.4,4.0
 Tesla,7500,Unknown,Automatic,Silver,Black,None reported,Yes,84000,3,670.0,,
@@ -3207,7 +3199,7 @@ Ford,31250,Gasoline,Automatic,Blue,Grey,None reported,Yes,42500,5,325.0,2.7,6.0
 Jeep,43000,Gasoline,Automatic,White,Other,None reported,Yes,46500,5,285.0,3.6,6.0
 Toyota,41199,Gasoline,Unknown,Black,Black,None reported,Unknown,41598,5,,,
 Kia,22000,Unknown,Automatic,Grey,Black,None reported,Yes,45000,3,320.0,,
-Genesis,12900,Gasoline,Automatic,Grey,White,None reported,Yes,53000,3,375.0,3.5,6.0
+Other,12900,Gasoline,Automatic,Grey,White,None reported,Yes,53000,3,375.0,3.5,6.0
 Ford,10500,Gasoline,Unknown,Black,Black,Unknown,Unknown,50000,3,400.0,3.0,6.0
 MINI,74725,Gasoline,Automatic,Black,Black,None reported,Yes,21612,5,,1.5,
 Mazda,61117,Gasoline,Automatic,Silver,Black,None reported,Yes,26485,4,,2.5,
@@ -3221,7 +3213,7 @@ Bentley,72166,Gasoline,Automatic,Black,Black,Accident reported,Yes,35995,18,552.
 Lexus,26100,Gasoline,Automatic,Grey,Red,None reported,Yes,37899,7,295.0,3.5,6.0
 BMW,58880,Gasoline,Automatic,White,Brown,None reported,Yes,21000,8,248.0,2.0,4.0
 Cadillac,26000,Gasoline,Automatic,Black,Black,None reported,Yes,104000,4,420.0,6.2,8.0
-Honda,190640,Gasoline,Manual,Silver,Silver,Accident reported,Yes,5500,17,140.0,1.8,4.0
+Honda,190640,Gasoline,Manual,Silver,Other,Accident reported,Yes,5500,17,140.0,1.8,4.0
 Porsche,37500,Gasoline,Automatic,White,Black,None reported,Yes,59900,5,335.0,3.0,6.0
 Ford,13856,Unknown,Automatic,White,Black,None reported,Yes,54000,3,480.0,,
 Cadillac,225000,Gasoline,Automatic,Blue,Black,None reported,Yes,13600,12,202.0,2.5,4.0
@@ -3263,7 +3255,7 @@ Porsche,96275,Gasoline,Manual,Silver,Black,Accident reported,Yes,52500,19,325.0,
 Ford,162000,Diesel,Unknown,Red,Other,None reported,Yes,32000,10,440.0,6.7,8.0
 BMW,92040,Gasoline,Automatic,White,Black,None reported,Yes,24999,6,,2.0,
 RAM,73690,Gasoline,Automatic,Blue,Grey,Accident reported,Yes,27000,8,395.0,5.7,8.0
-Toyota,48750,Gasoline,Manual,Brown,Silver,None reported,Yes,17900,16,159.0,2.7,4.0
+Toyota,48750,Gasoline,Manual,Brown,Other,None reported,Yes,17900,16,159.0,2.7,4.0
 Cadillac,124542,Gasoline,Automatic,Grey,Other,None reported,Yes,8450,14,265.0,3.0,6.0
 Ford,69000,Gasoline,Automatic,White,Black,None reported,Yes,20000,15,315.0,4.6,8.0
 Dodge,148000,Diesel,Automatic,Black,Other,None reported,Yes,19000,21,250.0,5.9,6.0
@@ -3318,7 +3310,7 @@ Chevrolet,11089,Gasoline,Manual,Silver,Red,None reported,Unknown,80900,3,,6.2,
 Jaguar,37777,Gasoline,Unknown,Black,Black,None reported,Yes,32500,7,247.0,2.0,4.0
 Ford,35921,Gasoline,Automatic,Blue,Black,None reported,Unknown,42995,4,,2.7,
 Ford,1800,Gasoline,Automatic,Grey,Blue,Unknown,Unknown,54900,2,275.0,2.3,4.0
-Scion,163019,Gasoline,Manual,Black,Black,Accident reported,Yes,8900,11,200.0,2.0,4.0
+Other,163019,Gasoline,Manual,Black,Black,Accident reported,Yes,8900,11,200.0,2.0,4.0
 Mercedes-Benz,14220,Gasoline,Automatic,Blue,Other,None reported,Yes,35500,5,255.0,2.0,4.0
 Chevrolet,48879,Gasoline,Automatic,Silver,Black,None reported,Unknown,49573,6,,5.3,
 BMW,117200,Gasoline,Automatic,Black,Black,None reported,Yes,15000,23,333.0,3.2,6.0
@@ -3327,7 +3319,7 @@ BMW,74500,Unknown,Automatic,White,Grey,None reported,Yes,11499,11,170.0,0.65,
 INFINITI,33300,Gasoline,Automatic,Grey,Black,None reported,Yes,21990,12,328.0,3.7,6.0
 Ford,123921,Gasoline,Automatic,White,Other,None reported,Yes,6900,18,300.0,5.4,8.0
 BMW,12800,Gasoline,Automatic,Blue,Blue,None reported,Yes,39990,4,248.0,2.0,4.0
-Aston,21100,Gasoline,Manual,Black,Black,None reported,Yes,80000,10,430.0,4.7,8.0
+Other,21100,Gasoline,Manual,Black,Black,None reported,Yes,80000,10,430.0,4.7,8.0
 Chevrolet,104733,E85 Flex Fuel,Automatic,Black,Black,None reported,Yes,15000,16,320.0,5.3,8.0
 Ford,53000,Gasoline,Automatic,White,Black,Accident reported,Yes,38500,5,310.0,3.5,6.0
 Lexus,17570,Gasoline,Automatic,White,Black,None reported,Unknown,39998,4,,,
@@ -3336,7 +3328,7 @@ Ford,12500,Hybrid,Automatic,Silver,Black,None reported,Yes,29999,2,191.0,2.5,4.0
 BMW,103990,Gasoline,Manual,Black,Other,None reported,Yes,10500,24,225.0,3.0,6.0
 Chevrolet,7000,Gasoline,Manual,Blue,Black,None reported,Yes,50000,3,455.0,6.2,8.0
 Chevrolet,9000,Gasoline,Automatic,Blue,Black,None reported,Yes,92000,2,490.0,6.2,8.0
-Pontiac,7800,Gasoline,Automatic,Silver,Black,None reported,Yes,19000,18,260.0,2.0,4.0
+Other,7800,Gasoline,Automatic,Silver,Black,None reported,Yes,19000,18,260.0,2.0,4.0
 Cadillac,69289,Gasoline,Automatic,Grey,Black,Accident reported,Yes,20997,8,304.0,3.6,6.0
 Toyota,106000,Gasoline,Automatic,White,Grey,Accident reported,Yes,16600,14,270.0,3.5,6.0
 Lincoln,68000,Gasoline,Automatic,Black,Grey,Accident reported,Yes,55999,5,450.0,3.5,6.0
@@ -3412,7 +3404,7 @@ Jeep,3752,Gasoline,Automatic,Other,Black,None reported,Yes,84620,2,,6.4,
 Lexus,30761,Gasoline,Automatic,White,Black,None reported,Unknown,44950,4,,3.5,
 RAM,13438,Gasoline,Automatic,Black,Black,None reported,Unknown,46599,3,,5.7,
 Jeep,9100,Gasoline,Automatic,Red,Black,None reported,Yes,49895,5,285.0,3.6,6.0
-Chrysler,100600,Unknown,Automatic,Black,Black,None reported,Yes,10000,8,,,
+Other,100600,Unknown,Automatic,Black,Black,None reported,Yes,10000,8,,,
 Ford,223824,Hybrid,Automatic,White,Brown,Accident reported,Yes,4500,14,156.0,2.5,4.0
 Audi,96000,Gasoline,Automatic,Black,Black,None reported,Yes,21990,9,252.0,2.0,4.0
 Chevrolet,185000,Gasoline,Automatic,Red,Grey,Accident reported,Yes,10500,21,295.0,5.3,8.0
@@ -3430,14 +3422,14 @@ Tesla,83424,Unknown,Automatic,Grey,Other,None reported,Yes,45000,7,518.0,,
 Mercedes-Benz,19000,Gasoline,Automatic,Blue,Other,None reported,Yes,37999,4,255.0,2.0,4.0
 Porsche,64000,Gasoline,Automatic,Grey,Black,Accident reported,Yes,67000,12,400.0,3.8,6.0
 Mercedes-Benz,34068,Gasoline,Automatic,White,Other,None reported,Yes,46900,6,362.0,3.0,6.0
-Buick,20104,Gasoline,Automatic,Other,Other,None reported,Yes,33295,4,,2.0,
+Other,20104,Gasoline,Automatic,Other,Other,None reported,Yes,33295,4,,2.0,
 Nissan,8400,Gasoline,Automatic,Red,Other,None reported,Yes,59950,3,400.0,5.6,8.0
 Porsche,11938,Gasoline,Unknown,Black,Other,Unknown,Unknown,209000,4,572.0,3.8,6.0
 Chevrolet,24670,Gasoline,Unknown,White,Brown,None reported,Yes,72500,4,490.0,6.2,8.0
 Ford,16478,Gasoline,Manual,White,Black,None reported,Yes,66400,12,650.0,5.8,8.0
 Ford,52500,E85 Flex Fuel,Automatic,Grey,Grey,None reported,Yes,35000,7,395.0,5.0,8.0
 Porsche,92500,Gasoline,Unknown,Silver,Black,None reported,Yes,12000,21,450.0,4.5,8.0
-Mitsubishi,62930,Gasoline,Automatic,Grey,Black,Accident reported,Yes,10000,17,260.0,3.8,6.0
+Other,62930,Gasoline,Automatic,Grey,Black,Accident reported,Yes,10000,17,260.0,3.8,6.0
 Lexus,116600,Gasoline,Automatic,White,Grey,None reported,Yes,19975,18,263.0,4.7,8.0
 Dodge,172024,Gasoline,Automatic,Red,Brown,Accident reported,Yes,7500,15,210.0,3.7,6.0
 Jeep,57237,Gasoline,Automatic,Black,Black,None reported,Yes,22500,13,285.0,3.6,6.0
@@ -3462,7 +3454,7 @@ Ford,149000,Gasoline,Automatic,Brown,Other,Accident reported,Yes,7850,12,290.0,3
 Subaru,90000,Gasoline,Automatic,Silver,Grey,None reported,Yes,16000,10,170.0,2.5,4.0
 Ford,9990,Gasoline,Unknown,Silver,Black,None reported,Yes,64500,3,315.0,2.7,6.0
 Mercedes-Benz,28663,Gasoline,Automatic,Red,Black,None reported,Unknown,29500,6,,2.0,
-Lexus,124250,Gasoline,Automatic,Grey,Orange,Accident reported,Yes,17900,10,235.0,2.0,4.0
+Lexus,124250,Gasoline,Automatic,Grey,Other,Accident reported,Yes,17900,10,235.0,2.0,4.0
 Ford,50780,Diesel,Automatic,White,Black,None reported,Yes,61000,8,440.0,6.7,8.0
 Porsche,65000,Gasoline,Manual,Blue,Grey,Unknown,Unknown,43000,19,355.0,3.8,6.0
 Tesla,22457,Unknown,Automatic,Silver,Black,None reported,Unknown,40036,3,,,
@@ -3483,10 +3475,10 @@ Lexus,75000,Gasoline,Automatic,White,Other,Accident reported,Yes,38095,7,301.0,4
 Ford,169613,Gasoline,Automatic,Black,Black,Accident reported,Yes,5900,18,210.0,4.0,6.0
 Honda,175000,Gasoline,Automatic,Black,Grey,None reported,Yes,9000,14,250.0,3.5,6.0
 BMW,98500,Gasoline,Automatic,Black,Black,None reported,Yes,24500,8,335.0,3.0,6.0
-Chrysler,53000,Gasoline,Unknown,Black,Black,Accident reported,Yes,13750,13,292.0,3.6,6.0
+Other,53000,Gasoline,Unknown,Black,Black,Accident reported,Yes,13750,13,292.0,3.6,6.0
 RAM,72200,Diesel,Automatic,Black,Black,None reported,Yes,52500,10,370.0,6.7,6.0
 Acura,151600,Gasoline,Manual,Black,Black,None reported,Yes,7899,20,200.0,2.4,4.0
-Lotus,20000,Gasoline,Manual,White,Red,None reported,Yes,51000,14,276.0,3.5,6.0
+Other,20000,Gasoline,Manual,White,Red,None reported,Yes,51000,14,276.0,3.5,6.0
 Chevrolet,170000,E85 Flex Fuel,Automatic,Black,Black,Accident reported,Yes,9000,15,320.0,5.3,8.0
 Ford,69800,E85 Flex Fuel,Automatic,Silver,Grey,None reported,Yes,34600,6,395.0,5.0,8.0
 Toyota,26300,Gasoline,Automatic,Grey,Grey,Accident reported,Yes,46199,5,381.0,5.7,8.0
@@ -3495,7 +3487,7 @@ Chevrolet,172600,Diesel,Automatic,Red,Black,Accident reported,Yes,32500,9,397.0,
 Honda,145000,Gasoline,Automatic,Green,Black,None reported,Yes,9000,15,271.0,3.5,6.0
 Ford,64309,Gasoline,Automatic,White,Grey,None reported,Yes,7500,24,260.0,5.4,8.0
 RAM,15183,Gasoline,Automatic,Black,Black,None reported,Yes,90000,4,702.0,6.2,8.0
-Buick,28548,Gasoline,Automatic,Other,Other,None reported,Unknown,32063,5,,2.5,
+Other,28548,Gasoline,Automatic,Other,Other,None reported,Unknown,32063,5,,2.5,
 Volkswagen,14000,Gasoline,Automatic,Grey,Black,None reported,Yes,46900,3,276.0,3.6,6.0
 Mercedes-Benz,67000,Hybrid,Unknown,Yellow,Black,None reported,Yes,44500,6,369.0,3.0,6.0
 Jeep,84786,Gasoline,Automatic,Grey,Black,None reported,Yes,23500,8,285.0,3.6,6.0
@@ -3522,10 +3514,10 @@ Subaru,8700,Gasoline,Manual,Grey,Black,None reported,Yes,39900,15,305.0,2.5,4.0
 Chevrolet,49279,Unknown,Automatic,Red,Grey,None reported,Yes,17500,7,200.0,,
 Chevrolet,148800,Gasoline,Automatic,Red,Black,None reported,Yes,6500,21,240.0,3.8,6.0
 Cadillac,160249,E85 Flex Fuel,Automatic,Black,Black,None reported,Yes,12900,13,403.0,6.2,8.0
-Chrysler,45000,Gasoline,Automatic,Grey,Grey,None reported,Yes,6000,21,250.0,3.5,6.0
+Other,45000,Gasoline,Automatic,Grey,Grey,None reported,Yes,6000,21,250.0,3.5,6.0
 Chevrolet,169000,Diesel,Automatic,White,Grey,None reported,Yes,19500,19,360.0,6.6,8.0
 Mercedes-Benz,46000,Gasoline,Automatic,Grey,Black,None reported,Yes,56000,8,503.0,4.0,8.0
-Ferrari,13900,Gasoline,Unknown,Red,Black,None reported,Yes,315000,6,660.0,3.9,8.0
+Other,13900,Gasoline,Unknown,Red,Black,None reported,Yes,315000,6,660.0,3.9,8.0
 Acura,38000,Gasoline,Automatic,White,Black,None reported,Yes,21900,10,290.0,3.5,6.0
 Chevrolet,42000,Gasoline,Manual,Orange,Black,None reported,Yes,42000,19,505.0,7.0,8.0
 Lexus,300,Hybrid,Automatic,Black,Black,None reported,Yes,50999,1,240.0,2.5,4.0
@@ -3546,7 +3538,7 @@ Dodge,98231,Gasoline,Automatic,Blue,Black,Accident reported,Yes,15500,17,425.0,6
 Jaguar,56000,Gasoline,Automatic,White,Other,None reported,Yes,18000,18,300.0,4.2,8.0
 Honda,13935,Gasoline,Automatic,Grey,Black,None reported,Yes,26000,5,174.0,1.5,4.0
 Subaru,30000,Gasoline,Automatic,Grey,Black,Accident reported,Yes,21250,6,152.0,2.0,4.0
-Saab,106000,Gasoline,Automatic,Red,Black,None reported,Yes,12950,16,280.0,2.8,6.0
+Other,106000,Gasoline,Automatic,Red,Black,None reported,Yes,12950,16,280.0,2.8,6.0
 BMW,82978,Gasoline,Automatic,Black,White,None reported,Yes,18700,11,445.0,4.4,8.0
 Jeep,58500,Gasoline,Automatic,Black,Black,None reported,Yes,35000,7,285.0,3.6,6.0
 Ford,92421,Diesel,Automatic,White,Brown,None reported,Yes,51900,10,440.0,6.7,8.0
@@ -3556,7 +3548,7 @@ Lexus,110250,Gasoline,Automatic,White,Other,None reported,Yes,11000,19,230.0,3.3
 INFINITI,103010,Gasoline,Automatic,Black,Other,None reported,Yes,13500,14,400.0,5.6,8.0
 Hyundai,55359,Gasoline,Automatic,Silver,Black,None reported,Unknown,15599,8,,1.6,
 Chevrolet,118500,Gasoline,Automatic,Silver,Black,Accident reported,Yes,5900,23,285.0,5.3,8.0
-Rivian,7800,Unknown,Automatic,Green,Black,None reported,Yes,92500,3,835.0,,
+Other,7800,Unknown,Automatic,Green,Black,None reported,Yes,92500,3,835.0,,
 Land,41500,Hybrid,Automatic,Grey,Grey,None reported,Yes,68000,5,395.0,3.0,6.0
 BMW,28000,Gasoline,Automatic,White,White,None reported,Yes,59900,5,425.0,3.0,6.0
 Mercedes-Benz,53500,Gasoline,Automatic,Black,Brown,None reported,Yes,24500,11,302.0,3.5,6.0
@@ -3590,7 +3582,7 @@ GMC,63460,E85 Flex Fuel,Automatic,White,Other,None reported,Yes,33000,7,341.0,6.
 Toyota,32199,Gasoline,Automatic,Silver,Black,None reported,Yes,35500,7,270.0,4.0,6.0
 Hyundai,69487,Gasoline,Automatic,White,Black,None reported,Yes,32000,5,291.0,3.8,6.0
 GMC,86000,Diesel,Automatic,Grey,Brown,None reported,Yes,49000,10,397.0,6.6,8.0
-Genesis,8730,Gasoline,Automatic,White,Red,None reported,Unknown,48219,3,,3.5,
+Other,8730,Gasoline,Automatic,White,Red,None reported,Unknown,48219,3,,3.5,
 Dodge,70000,Gasoline,Automatic,Red,Other,Accident reported,Yes,8000,23,175.0,3.9,6.0
 Chevrolet,70000,Gasoline,Automatic,White,Grey,Accident reported,Yes,17900,8,305.0,3.6,6.0
 Audi,83420,E85 Flex Fuel,Automatic,Red,Grey,Accident reported,Yes,16000,10,220.0,2.0,4.0
@@ -3601,7 +3593,7 @@ GMC,92800,Gasoline,Automatic,White,Black,None reported,Yes,34000,7,420.0,6.2,8.0
 Land,13970,Hybrid,Automatic,Grey,Black,None reported,Yes,75500,4,395.0,3.0,6.0
 Porsche,154,Gasoline,Automatic,Green,Black,None reported,Unknown,274900,2,,3.8,
 Toyota,265000,Gasoline,Automatic,Black,Other,None reported,Yes,15500,25,230.0,4.7,8.0
-Scion,95426,Gasoline,Automatic,Green,Grey,None reported,Yes,8000,14,158.0,2.4,4.0
+Other,95426,Gasoline,Automatic,Green,Grey,None reported,Yes,8000,14,158.0,2.4,4.0
 Honda,119900,Gasoline,Manual,Black,Red,Accident reported,Yes,18000,24,240.0,2.0,4.0
 Mazda,23162,Gasoline,Automatic,Red,Black,None reported,Yes,25495,5,,2.5,
 BMW,3950,Gasoline,Automatic,White,Blue,None reported,Yes,83500,2,503.0,3.0,6.0
@@ -3635,12 +3627,12 @@ GMC,7500,Gasoline,Automatic,Grey,Black,None reported,Yes,92888,2,420.0,6.2,8.0
 INFINITI,26520,Gasoline,Automatic,Blue,Brown,Accident reported,Yes,64000,3,400.0,5.6,8.0
 Land,59500,E85 Flex Fuel,Automatic,Red,Black,None reported,Yes,33800,11,340.0,3.0,6.0
 Honda,44000,Gasoline,Automatic,White,Black,None reported,Yes,34999,5,280.0,3.5,6.0
-Pontiac,111000,Gasoline,Automatic,White,Grey,None reported,Yes,11000,24,200.0,3.8,6.0
+Other,111000,Gasoline,Automatic,White,Grey,None reported,Yes,11000,24,200.0,3.8,6.0
 Toyota,82260,Gasoline,Automatic,Blue,Black,None reported,Yes,31906,9,,4.0,
 Porsche,52744,Gasoline,Unknown,Grey,Black,Accident reported,Yes,37500,19,325.0,3.6,6.0
 BMW,28200,Hybrid,Unknown,Grey,Other,Accident reported,Yes,79950,6,369.0,1.5,3.0
 Nissan,194277,Gasoline,Automatic,Blue,Other,Accident reported,Yes,2300,25,222.0,3.0,6.0
-Pontiac,91812,Gasoline,Automatic,Green,Black,None reported,Yes,12850,24,310.0,5.7,8.0
+Other,91812,Gasoline,Automatic,Green,Black,None reported,Yes,12850,24,310.0,5.7,8.0
 Chevrolet,84224,Gasoline,Automatic,Other,Black,None reported,Yes,43775,7,,5.3,
 BMW,66690,Gasoline,Unknown,Grey,Black,Accident reported,Yes,24900,7,228.0,2.0,4.0
 Mercedes-Benz,41500,Gasoline,Automatic,White,Brown,Accident reported,Yes,39848,7,362.0,3.0,6.0
@@ -3654,18 +3646,18 @@ Ford,82146,Gasoline,Automatic,Grey,Other,None reported,Yes,30825,5,,2.3,
 Ford,16850,Gasoline,Automatic,Blue,Black,Accident reported,Yes,41000,5,460.0,5.0,8.0
 Honda,101000,Gasoline,Manual,Silver,Black,None reported,Yes,28000,22,240.0,2.0,4.0
 BMW,68750,Gasoline,Manual,Red,Black,None reported,Yes,25999,10,320.0,3.0,6.0
-Lamborghini,5858,Gasoline,Automatic,White,Grey,None reported,Yes,491836,7,729.0,6.5,12.0
+Other,5858,Gasoline,Automatic,White,Grey,None reported,Yes,491836,7,729.0,6.5,12.0
 Dodge,143000,Gasoline,Automatic,Other,Other,None reported,Yes,3200,21,335.0,5.7,8.0
 Nissan,152270,Gasoline,Automatic,Green,Other,Accident reported,Yes,6900,20,305.0,5.6,8.0
 Kia,19605,Gasoline,Automatic,White,Black,None reported,Unknown,33591,4,,2.5,
 Chevrolet,19200,Gasoline,Automatic,Grey,Black,None reported,Yes,69999,5,355.0,5.3,8.0
 Chevrolet,64500,Gasoline,Automatic,Other,Other,None reported,Yes,5900,21,180.0,3.4,6.0
 Toyota,149000,Gasoline,Automatic,Black,Other,None reported,Yes,18995,14,236.0,4.0,6.0
-McLaren,5918,Gasoline,Automatic,Yellow,Black,None reported,Unknown,179900,7,,3.8,
-Pontiac,134033,Gasoline,Automatic,Red,Other,Accident reported,Yes,7200,28,285.0,5.7,8.0
+Other,5918,Gasoline,Automatic,Yellow,Black,None reported,Unknown,179900,7,,3.8,
+Other,134033,Gasoline,Automatic,Red,Other,Accident reported,Yes,7200,28,285.0,5.7,8.0
 Kia,37226,Gasoline,Automatic,White,Black,None reported,Unknown,34998,6,,3.3,
 Ford,71924,Gasoline,Automatic,Other,Other,None reported,Yes,13700,8,179.0,1.5,4.0
-Lamborghini,5718,Gasoline,Automatic,Other,Other,None reported,Unknown,279991,4,,5.2,
+Other,5718,Gasoline,Automatic,Other,Other,None reported,Unknown,279991,4,,5.2,
 Jeep,122200,Gasoline,Automatic,Orange,Black,Accident reported,Yes,21500,11,285.0,3.6,6.0
 Land,37248,Hybrid,Automatic,Silver,Black,None reported,Yes,54500,5,395.0,3.0,6.0
 Chevrolet,88750,Gasoline,Automatic,White,Grey,None reported,Yes,6800,26,255.0,4.8,8.0
@@ -3680,12 +3672,12 @@ Porsche,75000,Gasoline,Manual,Silver,Black,Unknown,Unknown,17500,20,240.0,2.7,6.
 Dodge,95000,Gasoline,Unknown,Black,Black,None reported,Yes,17900,11,370.0,5.7,8.0
 Land,49799,Gasoline,Automatic,Brown,Brown,None reported,Yes,37500,9,340.0,3.0,6.0
 Ford,27407,Gasoline,Manual,Silver,Red,None reported,Yes,21750,19,300.0,4.6,8.0
-Alfa,23339,Gasoline,Automatic,Other,Black,Unknown,Unknown,34645,5,,2.0,
+Other,23339,Gasoline,Automatic,Other,Black,Unknown,Unknown,34645,5,,2.0,
 Tesla,74122,Unknown,Automatic,Black,Black,None reported,Yes,35900,9,417.0,,
 Jaguar,50000,Gasoline,Automatic,White,Other,None reported,Yes,6000,28,290.0,4.0,8.0
 Mercedes-Benz,14745,Gasoline,Automatic,Grey,Other,None reported,Unknown,38998,4,,,
 Chevrolet,2700,Gasoline,Unknown,Blue,Blue,None reported,Yes,85950,4,490.0,6.2,8.0
-Buick,190000,Gasoline,Automatic,Other,Other,Accident reported,Yes,6000,13,220.0,2.0,4.0
+Other,190000,Gasoline,Automatic,Other,Other,Accident reported,Yes,6000,13,220.0,2.0,4.0
 Audi,90236,E85 Flex Fuel,Unknown,Grey,Black,None reported,Yes,9999,11,220.0,2.0,4.0
 Jeep,4000,Gasoline,Automatic,Silver,Black,None reported,Yes,50000,5,285.0,3.6,6.0
 Land,2220,Hybrid,Automatic,Blue,White,None reported,Yes,115999,3,395.0,3.0,6.0
@@ -3704,7 +3696,7 @@ Ford,228000,Gasoline,Automatic,Red,Other,Accident reported,Yes,3850,18,292.0,4.6
 GMC,187000,Unknown,Automatic,Red,Grey,Accident reported,Yes,6100,17,,,
 Mercedes-Benz,102000,Gasoline,Automatic,Black,Black,None reported,Yes,17000,10,241.0,2.0,4.0
 Cadillac,48000,Gasoline,Automatic,White,Black,Accident reported,Yes,24995,9,308.0,3.6,6.0
-Chrysler,163500,E85 Flex Fuel,Automatic,Grey,Other,None reported,Yes,5949,13,283.0,3.6,6.0
+Other,163500,E85 Flex Fuel,Automatic,Grey,Other,None reported,Yes,5949,13,283.0,3.6,6.0
 Porsche,1500,Gasoline,Automatic,Silver,Black,None reported,Yes,149000,2,379.0,3.0,6.0
 Porsche,2100,Gasoline,Manual,Yellow,Black,Unknown,Unknown,136900,4,414.0,4.0,6.0
 Ford,66281,Diesel,Unknown,Grey,Black,None reported,Yes,63500,7,450.0,6.7,8.0
@@ -3729,7 +3721,7 @@ Ford,42609,Gasoline,Automatic,Other,Other,Accident reported,Yes,32107,5,,2.3,
 Subaru,160000,Gasoline,Automatic,White,Other,Accident reported,Yes,7750,8,152.0,2.0,4.0
 INFINITI,121525,Gasoline,Automatic,Black,Black,Accident reported,Yes,28500,8,400.0,5.6,8.0
 Kia,6423,Gasoline,Automatic,Grey,Black,None reported,Yes,42500,2,291.0,3.8,6.0
-Pontiac,62310,Gasoline,Automatic,Grey,Black,None reported,Yes,12900,18,177.0,2.4,4.0
+Other,62310,Gasoline,Automatic,Grey,Black,None reported,Yes,12900,18,177.0,2.4,4.0
 Mazda,21444,Gasoline,Automatic,Grey,Red,None reported,Yes,29995,4,,2.5,
 Ford,112000,Gasoline,Automatic,White,Grey,Accident reported,Yes,29500,10,310.0,3.5,6.0
 Hyundai,60000,Gasoline,Automatic,White,Other,None reported,Yes,16500,12,344.0,3.8,6.0
@@ -3752,16 +3744,16 @@ Dodge,171079,Diesel,Automatic,Silver,Grey,None reported,Yes,27500,24,245.0,5.9,6
 Chevrolet,24915,Gasoline,Automatic,Other,Black,None reported,Unknown,44791,4,,3.6,
 Nissan,15577,Gasoline,Automatic,Blue,Other,None reported,Unknown,19599,3,,1.6,
 Audi,102370,Gasoline,Automatic,Grey,Black,None reported,Yes,21373,11,333.0,3.0,6.0
-Lamborghini,16000,Gasoline,Unknown,Yellow,Black,None reported,Yes,229000,14,562.0,5.2,10.0
+Other,16000,Gasoline,Unknown,Yellow,Black,None reported,Yes,229000,14,562.0,5.2,10.0
 Mercedes-Benz,122000,Gasoline,Automatic,White,White,None reported,Yes,15000,13,201.0,1.8,4.0
-FIAT,48500,Gasoline,Automatic,Yellow,Brown,None reported,Yes,15999,9,180.0,2.4,4.0
+Other,48500,Gasoline,Automatic,Yellow,Brown,None reported,Yes,15999,9,180.0,2.4,4.0
 Ford,53500,Gasoline,Automatic,Brown,Other,Accident reported,Yes,31500,7,325.0,2.7,6.0
 Ford,315000,Diesel,Automatic,White,Grey,None reported,Yes,9200,21,325.0,6.0,8.0
 Ford,158000,Gasoline,Automatic,White,Grey,Accident reported,Yes,8500,19,305.0,6.8,10.0
 Kia,43850,Gasoline,Automatic,Black,Black,Accident reported,Yes,30000,6,290.0,3.3,6.0
 Mercedes-Benz,73500,Gasoline,Automatic,White,Black,None reported,Yes,19000,10,241.0,2.0,4.0
 Nissan,153350,Gasoline,Automatic,Black,Black,Accident reported,Yes,9000,11,182.0,2.5,4.0
-Volkswagen,74000,Gasoline,Automatic,White,Silver,None reported,Yes,25500,6,184.0,2.0,4.0
+Volkswagen,74000,Gasoline,Automatic,White,Other,None reported,Yes,25500,6,184.0,2.0,4.0
 BMW,52000,Gasoline,Unknown,White,Other,None reported,Yes,17500,12,240.0,2.0,4.0
 Audi,250,Unknown,Automatic,Grey,Black,None reported,Yes,52000,3,295.0,,
 Nissan,145000,Gasoline,Automatic,Silver,Grey,Accident reported,Yes,8500,8,284.0,3.5,6.0
@@ -3775,9 +3767,9 @@ Jeep,137790,Gasoline,Manual,Red,Other,None reported,Yes,12000,26,120.0,2.5,4.0
 Ford,92000,Gasoline,Automatic,White,Black,None reported,Yes,19995,9,315.0,2.7,6.0
 Porsche,21450,Gasoline,Manual,Black,Black,None reported,Yes,36000,24,300.0,3.4,6.0
 Nissan,43875,Gasoline,Automatic,Black,Other,Accident reported,Unknown,29725,4,,3.5,
-Pontiac,81327,Gasoline,Unknown,Black,Black,None reported,Yes,17500,16,355.0,6.0,8.0
+Other,81327,Gasoline,Unknown,Black,Black,None reported,Yes,17500,16,355.0,6.0,8.0
 Mercedes-Benz,72836,Gasoline,Automatic,White,Other,None reported,Yes,41000,4,255.0,2.0,4.0
-McLaren,5072,Gasoline,Automatic,Black,Red,None reported,Yes,279950,5,,4.0,
+Other,5072,Gasoline,Automatic,Black,Red,None reported,Yes,279950,5,,4.0,
 Jeep,161900,E85 Flex Fuel,Automatic,Blue,Grey,Accident reported,Yes,4800,18,235.0,4.7,8.0
 Audi,24500,Hybrid,Unknown,White,Black,None reported,Yes,47000,3,261.0,2.0,4.0
 BMW,14993,Gasoline,Automatic,Grey,Black,None reported,Yes,44900,7,456.0,4.4,8.0
@@ -3787,14 +3779,14 @@ Cadillac,35566,Gasoline,Automatic,White,Other,Accident reported,Yes,26000,6,265.
 Lexus,113000,Gasoline,Automatic,Black,Black,Accident reported,Yes,34000,17,416.0,5.0,8.0
 Ford,20678,Gasoline,Automatic,Red,Black,None reported,Yes,46000,3,300.0,2.3,4.0
 Porsche,10900,Gasoline,Manual,Black,Black,None reported,Yes,129000,17,480.0,3.6,6.0
-Buick,19079,Hybrid,Automatic,Gold,Other,None reported,Yes,15995,13,182.0,2.4,4.0
+Other,19079,Hybrid,Automatic,Gold,Other,None reported,Yes,15995,13,182.0,2.4,4.0
 Mazda,155500,Gasoline,Automatic,Blue,Black,Accident reported,Yes,6800,17,212.0,1.3,
 Ford,35500,Gasoline,Automatic,White,Black,None reported,Yes,32300,6,460.0,5.0,8.0
 Mazda,52253,Gasoline,Automatic,White,Black,Accident reported,Yes,25215,4,,2.5,
 Ford,110000,Gasoline,Automatic,White,Grey,Accident reported,Yes,8500,21,148.0,3.0,6.0
 Volkswagen,59250,Gasoline,Unknown,Grey,Black,None reported,Yes,18999,9,220.0,2.0,4.0
 Ford,39000,Gasoline,Automatic,Black,Other,Unknown,Unknown,22000,21,280.0,3.9,8.0
-Hummer,155000,Gasoline,Automatic,Green,Black,Accident reported,Yes,37000,17,393.0,6.2,8.0
+Other,155000,Gasoline,Automatic,Green,Black,Accident reported,Yes,37000,17,393.0,6.2,8.0
 BMW,39250,Gasoline,Automatic,Black,Other,None reported,Yes,28900,8,300.0,3.0,6.0
 BMW,23647,Gasoline,Automatic,Black,Other,None reported,Yes,37998,5,,2.0,
 Hyundai,127941,Gasoline,Automatic,Silver,Grey,None reported,Yes,7500,11,138.0,1.6,4.0
@@ -3807,7 +3799,7 @@ Toyota,65000,Gasoline,Automatic,Grey,Red,None reported,Yes,27999,11,270.0,4.0,6.
 Audi,23350,Hybrid,Unknown,Black,Brown,None reported,Yes,48000,6,335.0,3.0,6.0
 Lexus,39000,Gasoline,Unknown,Black,Red,Accident reported,Yes,34000,6,302.0,3.5,6.0
 Toyota,48842,Gasoline,Automatic,White,Other,Accident reported,Yes,39857,6,,4.0,
-FIAT,47800,Gasoline,Automatic,Black,Black,Accident reported,Yes,11500,10,101.0,1.4,4.0
+Other,47800,Gasoline,Automatic,Black,Black,Accident reported,Yes,11500,10,101.0,1.4,4.0
 Ford,52000,Hybrid,Automatic,Blue,Grey,None reported,Yes,28000,3,191.0,2.5,4.0
 Ford,16000,Gasoline,Automatic,Silver,Black,None reported,Yes,22000,19,300.0,4.6,8.0
 Jeep,7102,Gasoline,Automatic,White,Black,None reported,Yes,40995,2,,2.0,
@@ -3815,7 +3807,7 @@ Jeep,157000,E85 Flex Fuel,Automatic,White,Black,None reported,Yes,17000,10,290.0
 Ford,9095,Unknown,Automatic,Orange,Grey,None reported,Yes,59000,2,480.0,,
 Jeep,179700,Gasoline,Automatic,Black,Grey,Accident reported,Yes,4500,15,172.0,2.4,4.0
 Lexus,170000,Gasoline,Automatic,Silver,Grey,None reported,Yes,7500,19,278.0,4.3,8.0
-Rolls-Royce,3420,Gasoline,Automatic,Red,Black,None reported,Yes,399950,3,,6.7,
+Other,3420,Gasoline,Automatic,Red,Black,None reported,Yes,399950,3,,6.7,
 Ford,93400,Diesel,Automatic,Red,Brown,Unknown,Unknown,69995,4,475.0,6.7,8.0
 BMW,110000,Gasoline,Unknown,White,Blue,Accident reported,Yes,12000,14,400.0,4.4,8.0
 Porsche,22500,Gasoline,Automatic,Grey,Other,None reported,Yes,78000,9,350.0,3.4,6.0
@@ -3854,7 +3846,7 @@ Kia,103338,Gasoline,Automatic,Red,Black,Accident reported,Unknown,17238,8,,2.0,
 Ford,28000,Gasoline,Automatic,Black,Black,None reported,Yes,53500,3,400.0,3.5,6.0
 Audi,51984,Hybrid,Automatic,White,Other,None reported,Yes,44870,6,335.0,3.0,6.0
 Chevrolet,8974,Gasoline,Automatic,Orange,Black,Accident reported,Yes,79900,5,490.0,6.2,8.0
-Scion,99999,Gasoline,Manual,White,Black,None reported,Yes,10998,11,179.0,2.5,4.0
+Other,99999,Gasoline,Manual,White,Black,None reported,Yes,10998,11,179.0,2.5,4.0
 Mercedes-Benz,59400,Gasoline,Automatic,Black,Black,Accident reported,Yes,21000,8,241.0,2.0,4.0
 Nissan,47147,Gasoline,Automatic,Silver,Other,None reported,Yes,23625,5,,3.5,
 Ford,53782,Gasoline,Manual,Black,Black,Accident reported,Yes,29950,7,460.0,5.0,8.0
@@ -3864,7 +3856,7 @@ Ford,42000,Gasoline,Automatic,White,Other,Unknown,Unknown,19000,5,181.0,1.5,3.0
 Dodge,64000,E85 Flex Fuel,Automatic,White,Grey,None reported,Yes,35000,7,283.0,3.6,6.0
 Hyundai,28600,Hybrid,Automatic,Grey,Black,None reported,Yes,23999,4,139.0,1.6,4.0
 GMC,26339,Gasoline,Automatic,Red,Black,Accident reported,Yes,36750,6,308.0,3.6,6.0
-Alfa,28644,Gasoline,Automatic,Black,Black,Unknown,Unknown,41500,7,505.0,2.9,6.0
+Other,28644,Gasoline,Automatic,Black,Black,Unknown,Unknown,41500,7,505.0,2.9,6.0
 Subaru,148740,Gasoline,Manual,Black,Black,Accident reported,Yes,14500,17,224.0,2.5,4.0
 GMC,16919,Diesel,Automatic,Black,Black,Accident reported,Yes,73000,4,445.0,6.6,8.0
 Chevrolet,170000,Gasoline,Automatic,Silver,Grey,Accident reported,Yes,9000,20,285.0,4.8,8.0
@@ -3877,7 +3869,7 @@ Cadillac,74414,Gasoline,Automatic,Black,Other,None reported,Yes,26000,6,310.0,3.
 Ford,29816,Gasoline,Manual,Black,Black,None reported,Yes,38000,15,540.0,5.4,8.0
 Ford,68749,Diesel,Unknown,Grey,Black,None reported,Yes,45000,10,440.0,6.7,8.0
 BMW,190395,Gasoline,Automatic,Black,Brown,None reported,Yes,5000,20,184.0,2.5,6.0
-Lamborghini,34152,Gasoline,Automatic,Blue,Red,None reported,Yes,185500,10,602.0,5.2,10.0
+Other,34152,Gasoline,Automatic,Blue,Red,None reported,Yes,185500,10,602.0,5.2,10.0
 Toyota,98528,Gasoline,Automatic,White,Grey,Accident reported,Yes,7450,18,158.0,2.4,4.0
 BMW,91500,Gasoline,Automatic,Blue,Other,Accident reported,Yes,13599,14,300.0,3.0,6.0
 Chevrolet,50850,Gasoline,Manual,Blue,Black,None reported,Yes,37000,8,455.0,6.2,8.0
@@ -3892,7 +3884,7 @@ Volkswagen,63277,Gasoline,Automatic,White,Black,None reported,Yes,20900,7,170.0,
 Nissan,30900,Gasoline,Automatic,Silver,Grey,None reported,Yes,21000,5,182.0,2.5,4.0
 Mercedes-Benz,60854,Gasoline,Automatic,White,Black,None reported,Unknown,25498,6,,,
 Ford,85000,Gasoline,Automatic,White,Black,None reported,Yes,31000,10,365.0,3.5,6.0
-Toyota,108130,Gasoline,Unknown,Grey,Orange,None reported,Yes,18500,9,176.0,2.5,4.0
+Toyota,108130,Gasoline,Unknown,Grey,Other,None reported,Yes,18500,9,176.0,2.5,4.0
 Toyota,11400,Gasoline,Automatic,Green,Black,None reported,Yes,46000,2,270.0,4.0,6.0
 Mercedes-Benz,63300,Gasoline,Automatic,Black,Black,None reported,Yes,22800,12,362.0,4.6,8.0
 Tesla,27500,Unknown,Automatic,Grey,White,None reported,Yes,44000,5,455.0,,
@@ -3908,7 +3900,7 @@ Nissan,101000,Gasoline,Unknown,White,Black,None reported,Yes,59000,12,545.0,3.8,
 Tesla,25000,Unknown,Automatic,Blue,Black,None reported,Yes,49995,5,425.0,,
 Toyota,245000,Gasoline,Automatic,Black,Other,Accident reported,Yes,2500,25,200.0,3.0,6.0
 Tesla,49252,Unknown,Automatic,Blue,Black,None reported,Unknown,37999,4,,,
-Buick,103814,Gasoline,Automatic,White,Black,Accident reported,Yes,14995,9,200.0,1.6,4.0
+Other,103814,Gasoline,Automatic,White,Black,Accident reported,Yes,14995,9,200.0,1.6,4.0
 Toyota,27000,Gasoline,Automatic,White,Black,None reported,Yes,48500,4,270.0,4.0,6.0
 BMW,60942,Gasoline,Automatic,Silver,Black,None reported,Yes,32085,4,,2.0,
 BMW,100780,Gasoline,Automatic,Grey,Black,Accident reported,Yes,12000,14,300.0,3.0,6.0
@@ -3927,7 +3919,7 @@ Mercedes-Benz,90189,Gasoline,Automatic,White,Other,Accident reported,Yes,17995,9
 Land,1148,Gasoline,Automatic,Grey,Other,None reported,Unknown,193063,2,,4.4,
 Mercedes-Benz,59500,Gasoline,Manual,Blue,Other,None reported,Yes,6500,24,215.0,3.2,6.0
 Ford,134000,Gasoline,Automatic,Silver,Grey,None reported,Yes,26500,8,310.0,3.5,6.0
-Buick,86281,Gasoline,Automatic,Black,Black,None reported,Yes,18900,11,288.0,3.6,6.0
+Other,86281,Gasoline,Automatic,Black,Black,None reported,Yes,18900,11,288.0,3.6,6.0
 Porsche,34580,Gasoline,Automatic,Black,Red,None reported,Yes,56000,5,335.0,3.0,6.0
 Hyundai,145000,Gasoline,Automatic,Blue,Grey,Accident reported,Yes,4200,18,242.0,3.3,6.0
 Mazda,11737,Gasoline,Automatic,Red,Other,None reported,Yes,33687,4,,2.5,
@@ -3965,14 +3957,14 @@ Toyota,35048,Gasoline,Automatic,Other,Black,None reported,Unknown,52590,4,,4.0,
 INFINITI,91239,Gasoline,Automatic,Grey,Black,None reported,Yes,17500,9,265.0,3.5,6.0
 Porsche,2950,Gasoline,Automatic,Green,Black,None reported,Yes,131000,3,379.0,3.0,6.0
 Ford,59678,Gasoline,Automatic,Grey,Black,None reported,Yes,33700,6,,2.7,
-BMW,2010,Gasoline,Automatic,Purple,Black,None reported,Yes,55000,3,382.0,3.0,6.0
+BMW,2010,Gasoline,Automatic,Other,Black,None reported,Yes,55000,3,382.0,3.0,6.0
 Toyota,80354,Hybrid,Automatic,Red,Grey,Accident reported,Yes,13310,11,134.0,1.8,4.0
 Ford,105674,Gasoline,Automatic,White,Other,None reported,Yes,34995,7,375.0,3.5,6.0
 Toyota,92700,Gasoline,Automatic,Grey,Grey,Accident reported,Yes,20800,12,310.0,4.6,8.0
 Ford,101387,Gasoline,Automatic,Black,Other,Accident reported,Yes,16000,9,245.0,2.0,4.0
-Buick,36544,Gasoline,Automatic,Blue,Other,None reported,Yes,33290,4,,2.0,
+Other,36544,Gasoline,Automatic,Blue,Other,None reported,Yes,33290,4,,2.0,
 Audi,41000,Gasoline,Automatic,White,Other,None reported,Yes,39900,6,329.0,3.0,6.0
-Chrysler,115872,E85 Flex Fuel,Automatic,Black,Black,None reported,Yes,9500,12,283.0,3.6,6.0
+Other,115872,E85 Flex Fuel,Automatic,Black,Black,None reported,Yes,9500,12,283.0,3.6,6.0
 Chevrolet,135603,Gasoline,Automatic,Silver,Black,None reported,Yes,7000,14,136.0,1.8,4.0
 Ford,26540,Gasoline,Automatic,White,Black,None reported,Yes,46995,5,375.0,3.5,6.0
 Jaguar,35134,Gasoline,Automatic,Grey,Grey,Accident reported,Yes,12400,14,385.0,5.0,8.0
@@ -3981,7 +3973,7 @@ Ford,153818,Diesel,Automatic,Grey,Grey,Accident reported,Yes,29800,14,400.0,6.7,
 Jaguar,58060,Gasoline,Automatic,Blue,Other,Accident reported,Yes,26000,8,340.0,3.0,6.0
 Porsche,36000,Gasoline,Automatic,Black,Black,None reported,Yes,84999,10,400.0,3.8,6.0
 Ford,17000,Gasoline,Automatic,White,Black,None reported,Yes,69999,3,315.0,2.7,6.0
-Suzuki,99982,Gasoline,Manual,Orange,Grey,Accident reported,Yes,6900,12,150.0,2.0,4.0
+Other,99982,Gasoline,Manual,Orange,Grey,Accident reported,Yes,6900,12,150.0,2.0,4.0
 Ford,106000,Gasoline,Automatic,Silver,Black,Accident reported,Yes,12000,6,166.0,2.0,4.0
 Toyota,178416,Unknown,Automatic,Green,Other,None reported,Yes,9000,31,,,
 Honda,82500,Gasoline,Automatic,Silver,Grey,None reported,Yes,15000,11,143.0,1.8,4.0
@@ -3995,7 +3987,7 @@ Toyota,154860,Gasoline,Automatic,Silver,Grey,None reported,Yes,17900,15,310.0,4.
 Porsche,7008,Gasoline,Automatic,Grey,Black,Unknown,Unknown,151900,4,443.0,3.0,6.0
 BMW,21057,Gasoline,Unknown,Grey,Black,None reported,Yes,99800,3,617.0,4.4,8.0
 Lexus,39750,Hybrid,Automatic,Black,Black,None reported,Yes,21995,9,134.0,1.8,4.0
-Aston,14900,Gasoline,Manual,White,Other,Unknown,Unknown,32850,22,420.0,5.9,12.0
+Other,14900,Gasoline,Manual,White,Other,Unknown,Unknown,32850,22,420.0,5.9,12.0
 Chevrolet,71312,Gasoline,Automatic,Black,Black,None reported,Yes,17899,7,305.0,3.6,6.0
 Porsche,43500,Gasoline,Automatic,Black,Black,None reported,Yes,66500,10,350.0,3.4,6.0
 BMW,34000,Gasoline,Automatic,White,Brown,None reported,Yes,59335,5,335.0,3.0,6.0
